@@ -1,0 +1,326 @@
+[
+    {
+        "question": " What is metformin used for?",
+        "answer": "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was the risk reduction for any diabetes-related endpoint?",
+        "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What percentage of patients had risk reductions for all-cause mortality?",
+        "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Patients allocated metformin compared with the conventional group had what?",
+        "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What did early addition of metformin in sulphonylurea-treated patients have?",
+        "answer": "Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was associated with an increased risk of diabetes-related death?",
+        "answer": "Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What percentage of metformin-allocated patients had diabetes-related endpoints?",
+        "answer": "A combined analysis of the main and supplementary studies showed fewer metformin-allocated patients having diabetes-related endpoints (risk reduction 19% [2-33], p=0.033).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients?",
+        "answer": "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is a guideline-based standard care?",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was associated with a significant 32% reduction in kidney events compared to conventional therapy?",
+        "answer": "Intensive therapy was associated with a significant 32% reduction in kidney events compared to conventional therapy and was associated with a change in HbA1c at one year from study initiation.",
+        "source_PMID": "32891604",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What did the results show about the serum kinesin-1 level and aerobic endurance?",
+        "answer": "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " After how many weeks of combined exercise training did the aerobic endurance level decline?",
+        "answer": "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What body part showed a significant increase in strength?",
+        "answer": "The upper body strength increased but it was not significant, while the lower body showed a significant strength increase.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the progressive nature of diabetic peripheral neuropathy?",
+        "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What can even the little changes resulting from combined exercise training be useful for?",
+        "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is highly effective in treating major depressive disorder?",
+        "answer": "BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Lithium has what properties?",
+        "answer": "BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Why are clinicians increasingly avoiding lithium?",
+        "answer": "However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What percentage of lithium users have NDIA?",
+        "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " How many times higher is the risk of CKD?",
+        "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What drug is associated with lower NDI risk?",
+        "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is used to treat lithium-induced NDI?",
+        "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is atorvastatin intended to treat?",
+        "answer": "CONCLUSION: The aim of this clinical trial is to provide preliminary data about the efficacy of atorvastatin in treating NDI.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What could be used more safely in patients with a reduced risk of CKD, hypernatremia, and acute kidney injury?",
+        "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " If future trials confirm this, what could potentially allow more patients to benefit from lithium?",
+        "answer": "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What could potentially minimize renal risk?",
+        "answer": "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What has the International Working Group on the Diabetic Foot described as a protective factor to reduce the risk of re-ulceration?",
+        "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What percentage of diabetic patients adhered to therapeutic footwear?",
+        "answer": "Among the group with >60% adherence to therapeutic footwear, multivariate analysis showed that the rigid rocker sole improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy and DFU history (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263).",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy?",
+        "answer": "Among the group with >60% adherence to therapeutic footwear, multivariate analysis showed that the rigid rocker sole improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy and DFU history (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263).",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is lithium associated with?",
+        "answer": "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Lithium remains an important treatment for what?",
+        "answer": "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is NDIA?",
+        "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was UOsm at 12 weeks adjusted for baseline?",
+        "answer": "RESULTS: Urinary osmolality (UOsm) at 12\u00a0weeks adjusted for baseline was not statistically different between groups (+39.6\u00a0mOsm/kg [95% CI, -35.3, 114.5] in atorvastatin compared to placebo groups).",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was the effect size of atorvastatin on baseline UOsm at 12 weeks?",
+        "answer": "A moderate effect size was observed for improvements in baseline UOsm by \u2265100\u00a0mOsm/kg at 12\u00a0weeks in patients who received atorvastatin compared to placebo (38.45% (10/26) vs 22.58% (7/31); Cohen's d\u00a0=\u00a00.66).",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What did atorvastatin 20 mg/d not significantly improve among lithium users with NDI?",
+        "answer": "CONCLUSION: Among lithium users with NDI, atorvastatin 20\u00a0mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What drug did lithium users take to improve urinary osmolality?",
+        "answer": "CONCLUSION: Among lithium users with NDI, atorvastatin 20\u00a0mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI?",
+        "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What affects not only vascular tissues but also avascular cornea?",
+        "answer": "Diabetes affects negatively not only vascular tissues but also avascular cornea.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Based on what theory does moxibustion have a great effect on treating DPN?",
+        "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is moxibustion therapy used for?",
+        "answer": "Hence, this study is carried out to evaluate the effectiveness and safety of moxibustion therapy on diabetic peripheral neuropathy.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What did intensive glycemic control reduce the severity of?",
+        "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What type of diabetes is NIDDM?",
+        "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was the cumulative percentage of the development and progression in retinopathy after 6 years?",
+        "answer": "The cumulative percentages of the development and the progression in retinopathy after 6 years were 7.7% for the MIT group and 32.0% for the CIT group in the primary-prevention cohort (P = 0.039), and 19.2% for MIT group and 44.0% for CIT group in the secondary-intervention cohort (P = 0.049).",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " How can intensive glycemic control by multiple insulin injection therapy delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM?",
+        "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the glycemic threshold to prevent the onset and the progression of diabetic microangiopathy?",
+        "answer": "From this study, the glycemic threshold to prevent the onset and the progression of diabetic microangiopathy is indicated as follows; HbA1c < 6.5%, FBG < 110 mg/dl, and 2-h post-prandial blood glucose concentration < 180 mg/dl.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is HbA1c <unk> 6.5%, FBG <unk> 110 mg/dl, and 2-h post-prandial blood glucose concentration <unk> 180 mg/l?",
+        "answer": "From this study, the glycemic threshold to prevent the onset and the progression of diabetic microangiopathy is indicated as follows; HbA1c < 6.5%, FBG < 110 mg/dl, and 2-h post-prandial blood glucose concentration < 180 mg/dl.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What did the Diabetes Control and Complications Trial demonstrate?",
+        "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the major risk associated with intensive treatment?",
+        "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is recurrent hypoglycemia?",
+        "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is difficult but should be considered and recommended to most patients with IDDM?",
+        "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " Is it possible to improve glycemic control without intensive treatment?",
+        "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What should be recommended to most patients with non-insulin-dependent diabetes mellitus?",
+        "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What type of diabetes is NIDDM?",
+        "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the most controversial type of diabetic?",
+        "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)"
+    }
+]

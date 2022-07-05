@@ -1,0 +1,116 @@
+[
+    {
+        "question": " What does intensive blood-glucose control with insulin or sulphonylurea therapy reduce in type 2 diabetes patients?",
+        "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What may reduce the risk of heart attacks?",
+        "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What drug showed a greater effect for any diabetes-related endpoint than chlorpropamide, glibenclamide, or insulin?",
+        "answer": "Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What was the effect of metformin on all-cause mortality?",
+        "answer": "Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is associated with less weight gain and fewer hypoglycaemic attacks than insulin and sulphonylureas?",
+        "answer": "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the typical therapy treatment target for diabetes kidney disease?",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is one of the most common chronic complications of diabetics?",
+        "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What causes nerve damage and muscle strength decrease?",
+        "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What causes the daily activity disparity in diabetic patients?",
+        "answer": "This in turn results in imbalance leading to the diabetic patients' daily activity disparity.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is NDI?",
+        "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes?",
+        "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What type of footwear is recommended for diabetic foot ulcer patients?",
+        "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What type foot ulcer is a risk factor for plantar ulcer recurence?",
+        "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is the risk of incident chronic kidney disease among lithium users?",
+        "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is lower in diabetic mellitus patients with retinopathy than in healthy individuals?",
+        "answer": "CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is DPN?",
+        "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What is one of the most common complications of diabetes mellitus?",
+        "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What are the main clinical manifestations of DPN?",
+        "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " What often leads to diabetic foot ulceration?",
+        "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)"
+    }
+]
