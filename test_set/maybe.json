@@ -322,5 +322,173 @@
         "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
         "source_PMID": "7598463",
         "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " question: Is metformin a specific advantage or disadvantage?",
+        "answer": "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did metformin reduce the risk of diabetes-related death by 42%?",
+        "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Metformin showed a greater effect than chlorpropamide, glibenclamide or insulin for any diabetes-related endpoint?",
+        "answer": "Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Was early addition of metformin associated with an increased risk of diabetes-related death?",
+        "answer": "Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did the combination of sulphonylurea and metformin increase the risk of diabetes-related death?",
+        "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What are the guidelines for diabetic kidney disease?",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Was intensive therapy associated with a significant reduction in kidney events?",
+        "answer": "Intensive therapy was associated with a significant 32% reduction in kidney events compared to conventional therapy and was associated with a change in HbA1c at one year from study initiation.",
+        "source_PMID": "32891604",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did intensified multifactorial intervention significantly reduce the onset and progression of diabetic kidney disease?",
+        "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+        "source_PMID": "32891604",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What is the cause of diabetic peripheral neuropathy?",
+        "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did the serum kinesin-1 level and aerobic endurance decline after eight weeks of combined (resistance-aerobic) training?",
+        "answer": "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did the lower body show a significant increase in strength?",
+        "answer": "The upper body strength increased but it was not significant, while the lower body showed a significant strength increase.",
+        "source_PMID": "32215272",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Does lithium have anti-suicidal properties?",
+        "answer": "BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Why are clinicians avoiding lithium?",
+        "answer": "However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What does NDIA do?",
+        "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Could lithium be used more safely in patients with CKD, hypernatremia, and AKI?",
+        "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is there a possibility of more patients benefiting from lithium?",
+        "answer": "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Therapeutic footwear is the first treatment line in the prevention of diabetic foot ulcers and future complications of diabetes?",
+        "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What has the International Working Group on the Diabetic Foot described therapeutic footwear as?",
+        "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What kind of questions do diabetic foot ulcers raise?",
+        "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+        "source_PMID": "31295292",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Are there any randomized controlled trials for lithium-induced NDI?",
+        "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did atorvastatin have a significant effect on baseline UOsm?",
+        "answer": "A moderate effect size was observed for improvements in baseline UOsm by \u2265100\u00a0mOsm/kg at 12\u00a0weeks in patients who received atorvastatin compared to placebo (38.45% (10/26) vs 22.58% (7/31); Cohen's d\u00a0=\u00a00.66).",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did atorvastatin significantly improve urinary osmolality?",
+        "answer": "CONCLUSION: Among lithium users with NDI, atorvastatin 20\u00a0mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Was there a statistically significant difference between non-proliferative diabetic retinopathy patients and diabetic mellitus patients?",
+        "answer": "There was a statistically significant difference between diabetes mellitus patients with the diagnosis of non-proliferative diabetic retinopathy and proliferative diabetic retinopathy in the endothelial cell densitometer and standard deviation values.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is the endothelial cell densitometer lower in diabetes mellitus patients with retinopathy than in healthy individuals?",
+        "answer": "CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Did intensive glycemic control decrease the frequency or severity of diabetic microvascular complications?",
+        "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What is the risk associated with recurrent hypoglycemia?",
+        "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is it difficult to implement intensive treatment recommendations?",
+        "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is it possible to improve glycemic control without intensive treatment?",
+        "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap"
     }
 ]

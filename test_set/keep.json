@@ -112,5 +112,83 @@
         "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
         "source_PMID": "34889293",
         "source_model": "t5-base-e2e-qg (default)"
+    },
+    {
+        "question": " question: Does intensive blood-glucose control with insulin or sulphonylurea decrease the progression of microvascular disease?",
+        "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is metformin the first-line pharmacological therapy of choice in overweight diabetic patients?",
+        "answer": "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.",
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Are statins associated with lower NDI risk?",
+        "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is there a positive or negative correlation between HbA1c levels and diabetes mellitus times?",
+        "answer": "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is there a negative correlation between corneal endothelial cell density and corneal retinopathy severity?",
+        "answer": "There is a negative correlation between retinopathy severity and corneal endothelial cell density.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: How does diabetes affect the cornea?",
+        "answer": "Diabetes affects negatively not only vascular tissues but also avascular cornea.",
+        "source_PMID": "32321301",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What does DPN do?",
+        "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What are the main clinical manifestations of DPN?",
+        "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Does moxibustion have a positive effect on DPN?",
+        "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+        "source_PMID": "34889293",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: How can intensive glycemic control by multiple insulin injection therapy delay the onset and the progression of diabetic retinopathy?",
+        "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+        "source_PMID": "7587918",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is improved glycemic control recommended to most patients with NIDDM?",
+        "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: Is insulin used in patients with NIDDM?",
+        "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " question: What is the risk of chronic kidney disease among lithium users?",
+        "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "t5-base-finetuned-question-generation-ap"
     }
 ]
