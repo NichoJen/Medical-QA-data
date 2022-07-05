@@ -490,5 +490,173 @@
         "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
         "source_PMID": "7598463",
         "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " What are the questions to be answered in this study: Is metformin-dependent glucose control a good idea?",
+        "answer": "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions related to early addition of metformin in sulphonylurea-treated patients?",
+        "answer": "Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions related to the possible association of death from diabetes-related causes - concurrent therapy? (Also called: Co-administration of sulphonylurea; Metformin-dependent death; Diabetes mellitus)",
+        "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions to ask yourself and your doctor? (Also called: Metformin-dependent pharmacological therapy; Diabetes mellitus)",
+        "answer": "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the therapy treatment targets for HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 120 mg/dL)",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions related to Intensive therapy?",
+        "answer": "Intensive therapy was associated with a significant 32% reduction in kidney events compared to conventional therapy and was associated with a change in HbA1c at one year from study initiation.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes diabetes care disparity? (Also called: Diabetes - type 1; Diabetes mellitus)",
+        "answer": "This in turn results in imbalance leading to the diabetic patients' daily activity disparity.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of eight weeks of combined (resistance-aerobic) exercise training?",
+        "answer": "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for diabetic peripheral neuropathy? (Also called: Peripheral neuropathy)",
+        "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Why clinicians are avoiding lithium?",
+        "answer": "However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about Nephrogenic Diabetes Insipidus (NDI)",
+        "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about Statins and NDI risk?",
+        "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for Diabetic Foot Therapeutic Footwear?",
+        "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions related to the efficacy of a rigid rocker sole?",
+        "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes ulcer recurrence - intention-to-treat?",
+        "answer": "On an intention-to-treat basis, 16 (64%) and 6 (23%) patients in the control and experimental groups had ulcer recurrence, respectively.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about Nephrogenic diabetes insipidus (NDI)",
+        "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about lithium-induced NDI?",
+        "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the challenges of lithium-induced NDI?",
+        "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of atorvastatin - 12 weeks? (Also called: Ancylostomastatin-12 weeks; Ciprofen - 24 weeks)",
+        "answer": "A moderate effect size was observed for improvements in baseline UOsm by \u2265100\u00a0mOsm/kg at 12\u00a0weeks in patients who received atorvastatin compared to placebo (38.45% (10/26) vs 22.58% (7/31); Cohen's d\u00a0=\u00a00.66).",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the conclusions of atorvastatin 20 mg/d?",
+        "answer": "CONCLUSION: Among lithium users with NDI, atorvastatin 20\u00a0mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for Diabetes patients? (Also called: HbA1c - type 1; Diabetes mellitus - gestational)",
+        "answer": "The diabetes patients were compared in terms of HbA1c level, diabetes mellitus duration, corneal endothelial cell density, coefficient of variation, standard deviation, and hexagonality with healthy control group.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about HbA1c levels and diabetes mellitus times?",
+        "answer": "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions related to diabetes mellitus retinopathy? (Also called: Non-proliferative diabetic retinoinopathy; Non-preliferable diabetic retinanopathy)",
+        "answer": "There was a statistically significant difference between diabetes mellitus patients with the diagnosis of non-proliferative diabetic retinopathy and proliferative diabetic retinopathy in the endothelial cell densitometer and standard deviation values.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about corneal thicknesses?",
+        "answer": "But there was not any statistically significant difference between coefficient of variation, 6A, and central corneal thickness values.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Moxibustion for treating DPN?",
+        "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) randomized clinical trials evaluating the efficacy of this treatment?",
+        "answer": "However, randomized clinical trials done to evaluate the efficacy of this treatment are still lacking.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The glycemic threshold to prevent the onset and progression of diabetic microangiopathy? (Also called: HbA1c <unk> 6.5%; FBG <unk> 7.5%)",
+        "answer": "From this study, the glycemic threshold to prevent the onset and the progression of diabetic microangiopathy is indicated as follows; HbA1c < 6.5%, FBG < 110 mg/dl, and 2-h post-prandial blood glucose concentration < 180 mg/dl.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The use of insulin in patients with NIDDM? (Also called: Non-pregnant diabetes; Diabetes mellitus)",
+        "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
     }
 ]

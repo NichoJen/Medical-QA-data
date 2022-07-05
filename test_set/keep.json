@@ -190,5 +190,53 @@
         "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
         "source_PMID": "32621644",
         "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " What are the challenges of multifactorial intervention in the management of diabetic kidney disease? (Also called: Infectious renal disease - type 2)",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for diabetic kidney disease - intensified multifactorial intervention?",
+        "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about Diabetic peripheral neuropathy? (Also called: Non-pregnant diabetes; Diabetes mellitus)",
+        "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Diabetic peripheral neuropathy (DPN)",
+        "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the clinical manifestations of DPN? (Also called: Nonpregnant diabetes; Diabetes mellitus)",
+        "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the challenges of intensive glycemic control? (Also called: Noninsulin-dependent diabetes mellitus; Diabetes - noninsulin dependent diabetes)",
+        "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) How can I prevent diabetic retinopathy - multi-injection therapy?",
+        "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The major risk associated with intensive treatment? (Also called: Hypoglycemia - chronic; Diabetes mellitus)",
+        "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
     }
 ]

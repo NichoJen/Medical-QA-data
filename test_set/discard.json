@@ -1312,5 +1312,491 @@
         "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
         "source_PMID": "7598463",
         "source_model": "t5-base-finetuned-question-generation-ap"
+    },
+    {
+        "question": " What causes these questions? (Also called: Type 2 diabetes - type 2)",
+        "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the objectives of this study? (Also called: Type 2 diabetes - type 2)",
+        "answer": "METHODS: Of 4075 patients recruited to UKPDS in 15 centres, 1704 overweight (>120% ideal bodyweight) patients with newly diagnosed type 2 diabetes, mean age 53 years, had raised fasting plasma glucose (FPG; 6.1-15.0 mmol/L) without hyperglycaemic symptoms after 3 months' initial diet.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) 753 participants in a randomised controlled trial, median duration 10.7 years, of conventional policy, primarily with diet alone (n=411) versus intensive blood-glucose control policy with metformin (n =342)",
+        "answer": "753 were included in a randomised controlled trial, median duration 10.7 years, of conventional policy, primarily with diet alone (n=411) versus intensive blood-glucose control policy with metformin, aiming for FPG below 6 mmol/L (n=342).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Secondary analysis comparing the 342 patients allocated metformin versus 951 overweight patients allocated intensive blood-glucose control (n=265)",
+        "answer": "A secondary analysis compared the 342 patients allocated metformin with 951 overweight patients allocated intensive blood-glucose control with chlorpropamide (n=265), glibenclamide (n=277), or insulin (n=409).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the primary outcome measures for diabetes-related clinical endpoints? (Also called: All-cause mortality; Diabetes-related death)",
+        "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of a randomised controlled trial involving 537 non-overweight and overweight patients (n=269)",
+        "answer": "In a supplementary randomised controlled trial, 537 non-overweight and overweight patients, mean age 59 years, who were already on maximum sulphonylurea therapy but had raised FPG (6.1-15.0 mmol/L) were allocated continuing sulphonylurea therapy alone (n=269) or addition of metformin (n=268).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the conclusions of the metformin group? (Also called: HbA1c; Metformin-dependent hemoglobinase 1c)",
+        "answer": "FINDINGS: Median glycated haemoglobin (HbA1c) was 7.4% in the metformin group compared with 8.0% in the conventional group.",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about Metformin-administered patients?",
+        "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions about Metformin and its effects on diabetes-related endpoints (p=0.0034; Diabetes - type 1; Diabetes mellitus)",
+        "answer": "Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the main and supplementary studies on diabetes-related endpoints? (Also called: Metformin-allocated patients; Diabetes mellitus)",
+        "answer": "A combined analysis of the main and supplementary studies showed fewer metformin-allocated patients having diabetes-related endpoints (risk reduction 19% [2-33], p=0.033).",
+        "source_PMID": "9742977",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of Japan Diabetes Optimal Integrated Treatment for three major risk factors of cardiovascular diseases (J-DOIT3) cohort?",
+        "answer": "A total of 2540 eligible patients in the Japan Diabetes Optimal Integrated Treatment for three major risk factors of cardiovascular diseases (J-DOIT3) cohort were randomly assigned to intensive therapy (1269) and conventional therapy (1271) and treated for a median of 8.5 years.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the outcomes of prespecified kidney outcome measures? (Also called: Progression from normoalbuminuria - macroalbuminura; Progressory maculopathy; Non-prespecified renal failure)",
+        "answer": "The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for the intention-to-treat population?",
+        "answer": "Primary analysis was carried out on the intention-to-treat population.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Changes in the estimated glomerular filtration rate and albuminuria?",
+        "answer": "Changes in the estimated glomerular filtration rate and albuminuria were also analyzed.",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes kidney events? (Also called: 438 kidney events; Intensive therapy group; Conventional therapy group)",
+        "answer": "A total of 438 kidney events occurred (181 in the intensive therapy group and 257 in the conventional therapy group).",
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) the effects of combined training (resistance-aerobic)",
+        "answer": "The present investigation was conducted to specifically study the effects of combined training (resistance-aerobic) on serum kinesin-1 and physical function in type 2 diabetes patients with diabetic peripheral neuropathy.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for diabetic neuropathic females? (Also called: Diet - diabetic neuropathy; Diabetes mellitus)",
+        "answer": "24 diabetic neuropathic females were randomly to be selected out and divided into two experimental and control groups.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The experimental group received resistance-aerobic training for 3 sessions over 8 weeks (Also called: Aerobic resistance training - aerobic training)",
+        "answer": "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of the exercise training? (Also called: Resistance exercises with 2-3 sets, 6-7 exercise stations, 8-12 repetitions (reps)",
+        "answer": "The exercise training included resistance exercises with 2-3 sets, 6-7 exercise stations, 8-12 repetitions (reps), and 3-5 minutes of rest in between the exercises, and the aerobic exercises contained 50-65% of heart rate reserve (HRR) for 3 minutes with 30 seconds of rest interval between sets and 5-10 repetitions.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about upper body strength? (Also called: Upper body strength increase, but not significant; Lower body strength increased; Strength increase of the upper body)",
+        "answer": "The upper body strength increased but it was not significant, while the lower body showed a significant strength increase.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) the answer to these questions?",
+        "answer": "Nevertheless, more research is required in this area.",
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) BACKGROUND: Lithium is the gold standard treatment for bipolar disorder, major depressive disorder - lithium, lithium-ion battery, lithium sprue, lithium methamphetamine (MDS))",
+        "answer": "BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes lithium-induced NDI - randomized controlled trial (RCT)",
+        "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for atorvastatin for lithium-induced NDI?",
+        "answer": "METHODS: We will conduct a 12-week, double-blind placebo-controlled RCT of atorvastatin for lithium-induced NDI at McGill University, Montreal, Canada.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) 60 current lithium users, aged 18-85, who have indicators of NDI, which we defined as urine osmolality <unk> 600 mOsm/kg after 10-h fluid restriction",
+        "answer": "We will recruit 60 current lithium users, aged 18-85, who have indicators of NDI, which we defined as urine osmolality (UOsm) <\u2009600\u00a0mOsm/kg after 10-h fluid restriction.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions to ask patients about atorvastatin (20 mg/day)",
+        "answer": "We will randomize patients to atorvastatin (20\u00a0mg/day) or placebo for 12\u00a0weeks.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) whether this improves measures of UOsm and aquaporin excretion - 12-week follow-up?",
+        "answer": "We will examine whether this improves measures of NDI: UOsm and aquaporin (AQP2) excretion at 12-week follow-up, adjusted for baseline.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) RESULTS (Also called: Not applicable.",
+        "answer": "RESULTS: Not applicable.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) CONCLUSION: Preliminary data about the efficacy of atorvastatin in treating NDI",
+        "answer": "CONCLUSION: The aim of this clinical trial is to provide preliminary data about the efficacy of atorvastatin in treating NDI.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Questions about lithium-ion battery safety? (Also called: CKD)",
+        "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for Lithonate - definitive trial?",
+        "answer": "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " How to register for ClinicalTrials.gov NCT02967653.",
+        "answer": "TRIAL REGISTRATION: ClinicalTrials.gov NCT02967653 .",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Registered in February 2017?",
+        "answer": "Registered in February 2017.",
+        "source_PMID": "30012135",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) BACKGROUND: Therapeutic footwear is the first treatment line in the prevention of diabetic foot ulcer - therapeutic footwear?",
+        "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of a randomized controlled trial in a special diabetic foot unit?",
+        "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Participants and in-depth knowledge of diabetic neuropathy - experimental? (Also called: Non-pregnant neuropathy; Diabetes mellitus)",
+        "answer": "PARTICIPANTS AND INTERVENTION: Fifty-one patients with diabetic neuropathy who had a recently healed plantar ulcer were randomized consecutively into the following two groups: therapeutic footwear with semi-rigid sole (control) or therapeutic footwear with a rigid rocker sole (experimental).",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about follow-up - 6 months (Also called: Follow-up 6 months; Recurrence events; Cancer - follow up)",
+        "answer": "All patients included in the study were followed up for 6 months (one visit each 30 \u00b1 2 days) or until the development of a recurrence event.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) MAIN OUTCOME AND MEASURE (Also called: Recurrence of ulcers in the plantar aspect of the foot)",
+        "answer": "MAIN OUTCOME AND MEASURE: Primary outcome measure was recurrence of ulcers in the plantar aspect of the foot.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the conclusions of this study? (Also called: Randomized randomization of patients)",
+        "answer": "FINDINGS: A total of 51 patients were randomized to the control and experimental groups.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The median follow-up time - 26 [IQR-4.4-26.1] weeks for both groups?",
+        "answer": "The median follow-up time was 26 [IQR-4.4-26.1] weeks for both groups.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of multivariate analysis of therapeutic footwear (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263)",
+        "answer": "Among the group with >60% adherence to therapeutic footwear, multivariate analysis showed that the rigid rocker sole improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy and DFU history (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263).",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer",
+        "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) TRIAL REGISTRATION - ClinicalTrials.gov NCT02995863",
+        "answer": "TRIAL REGISTRATION: ClinicalTrials.gov NCT02995863.",
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) OBJECTIVE: Lithium - mood disorders? (Also called: mood disorders; Lithonate deficiency; Silithium-edema)",
+        "answer": "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) METHOD: Pilot study (Also called: NDI - 20 mg/d atorvastatin vs placebo)",
+        "answer": "METHOD: We conducted a 12-week double-blind pilot RCT to assess the feasibility and efficacy of 20\u00a0mg/d atorvastatin vs placebo in the treatment of NDI in chronic lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions for Patients? (Also called: NDI)",
+        "answer": "Patients, recruited between September 2017 and October 2018, were aged 18 to 85, currently on a stable dose of lithium, and determined to have NDI.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of Urinary osmolality - 12 weeks (Also called: UOsm)",
+        "answer": "RESULTS: Urinary osmolality (UOsm) at 12\u00a0weeks adjusted for baseline was not statistically different between groups (+39.6\u00a0mOsm/kg [95% CI, -35.3, 114.5] in atorvastatin compared to placebo groups).",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the secondary outcomes of fluid intake and aquaporin-2 excretions at 12 weeks adjusted for baseline were -0.13 L [95% CI, -0.54, 0.28]",
+        "answer": "Secondary outcomes of fluid intake and aquaporin-2 excretions at 12\u00a0weeks adjusted for baseline were -0.13 L [95% CI, -0.54, 0.28] and 98.68 [95% CI, -190.34, 387.70], respectively.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins.",
+        "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
+        "source_PMID": "32621644",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the objectives of this study? (Also called: Non-proliferative diabetic retinopathy; Diabetes mellitus)",
+        "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) MATERIAL AND METHODS",
+        "answer": "MATERIAL AND METHODS: Ninety patients who applied to the Health Sciences University Ulucanlar Eye Training and Research Hospital between January 2016 and January 2017 were included in this prospective randomized study.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions to be answered in this study?",
+        "answer": "In the study, 45 diabetes mellitus patients and 45 healthy individuals were evaluated.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of the endothelial cell densitometer, standard deviation, and standard deviation measurements?",
+        "answer": "RESULTS: A statistically significant difference was found in the endothelial cell densitometer, coefficient of variation, and standard deviation measurements between the diabetes mellitus patients and the control (healthy) group.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What to do for 6A (hexagonality)?",
+        "answer": "But, there was no statistically significant difference between 6A (hexagonality) and central corneal thickness measurements.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.",
+        "answer": "CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The correlation between retinopathy severity and corneal endothelial cell density?",
+        "answer": "There is a negative correlation between retinopathy severity and corneal endothelial cell density.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Questions about Diabetes?",
+        "answer": "Diabetes affects negatively not only vascular tissues but also avascular cornea.",
+        "source_PMID": "32321301",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) the safety and effectiveness of moxibustion therapy for diabetic peripheral neuropathy?",
+        "answer": "Hence, this study is carried out to evaluate the effectiveness and safety of moxibustion therapy on diabetic peripheral neuropathy.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) METHODS: Pilot, interventional, randomized, 2-armed, parallel, single-masked, controlled trial.",
+        "answer": "METHODS: This study will be a pilot, interventional, randomized, 2-armed, parallel, singled-masked, controlled trial.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What will generate questions for Diabetes mellitus patients with peripheral neuropathy? (Also called: Non-pregnant diabetic neuropathy; Diabetes - type 1; Peripheral neuropathy)",
+        "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions to be answered in this trial?",
+        "answer": "This trial consists of an 8-week intervention period and a 4-week follow-up period.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) During the intervention period, the moxibustion group will take 3 sessions per week, whereas no intervention will be done on the waiting group.",
+        "answer": "During the intervention period, the moxibustion group will take 3 moxibustion sessions per week, whereas no intervention will be done on the waiting group to act as the control group.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The outcome will be assessed by an outcome assessor who is unaware of the group assignment.",
+        "answer": "The outcome will be assessed by an outcome assessor who is unaware of the group assignment.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What will be the primary outcome of pain assessment measured with algometry, Leeds Assessment of Neuropathic Signs pain scale, visual analogue scale, and neuropathy pain scale",
+        "answer": "The primary outcome will be pain assessment measured with algometry, Leeds Assessment of Neuropathic Symptoms and Signs pain scale, visual analogue scale, and neuropathy pain scale.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is the secondary outcome of this study? (Also called: Evaluation of functional performance capacity - 6 minutes; Foot and Ankle Ability Measure; Ankle strength measure)",
+        "answer": "The secondary outcome will be an evaluation of functional performance capacity with 6 minutes walking test, evaluation of the Foot and Ankle Ability Measure, and serum HbA1c and albumin levels.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the results of this trial? (Also called: Moxibustion - diabetic peripheral neuropathy)",
+        "answer": "DISCUSSION: We hope that this trial will provide valuable insights on the efficacy of moxibustion in the management of diabetic peripheral neuropathy.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) TRIAL REGISTRATION - ClinicalTrials.gov",
+        "answer": "TRIAL REGISTRATION: ClinicalTrials.gov Registry No.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) NCT04894461 (URL: https://clinicaltrials.gov/ct2/show/NCT0489461",
+        "answer": ": NCT04894461 (URL: https://clinicaltrials.gov/ct2/show/NCT04894461?term=NCT04894461&draw=2&rank=1) Registered on May 20, 2021.",
+        "source_PMID": "34889293",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about NIDDM - multiple insulin injection treatment group (MIT group)",
+        "answer": "A total of 110 patients with NIDDM was randomly assigned to multiple insulin injection treatment group (MIT group) or to conventional insulin injection treatment group (CIT group).",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about NIDDM patients - primary prevention cohort? (Also called: Primary prevention cohort; Secondary-intervention cohort; Third-stage retinopathy)",
+        "answer": "Fifty-five NIDDM patients who showed no retinopathy and urinary albumin excretions < 30 mg/24 h at the baseline were evaluated in the primary-prevention cohort, and the other 55 NIDDM patients who showed simple retinopathy and urinary albumin excretions < 300 mg/24 h were evaluated in the secondary-intervention cohort.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) The appearance and progression of retinopathy, nephropathy and neuropathy?",
+        "answer": "The appearance and the progression of retinopathy, nephropathy and neuropathy were evaluated every 6 months over a 6-year period.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes the worsening of complications in this study? (Also called: Der(22)t(11;22) syndrome due to 3:1 meiotic disjunction events)",
+        "answer": "The worsening of complications in this study was defined as an increase of 2 or more steps in the 19 stages of the modified ETDRS interim scale for retinopathy and an increase of one or more steps in 3 stages (normoalbuminuria, microalbuminuria and albuminuria) for nephropathy.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the cumulative percentages of the development and progression of retinopathy after 6 years? (Also called: Retinopathy - primary prevention cohort; Primary-prevention cohort; Secondary-intervention cohort)",
+        "answer": "The cumulative percentages of the development and the progression in retinopathy after 6 years were 7.7% for the MIT group and 32.0% for the CIT group in the primary-prevention cohort (P = 0.039), and 19.2% for MIT group and 44.0% for CIT group in the secondary-intervention cohort (P = 0.049).",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the cumulative percentages of the development and progression of nephropathy after 6 years? (Also called: P = 0.032; MIT group; CIT group; Primary-prevention cohort; Secondary-intervention cohort)",
+        "answer": "The cumulative percentages of the development and the progression in nephropathy after 6 years were 7.7% for the MIT group and 28.0% for the CIT group in the primary-prevention cohort (P = 0.032), and 11.5% and 32.0%, respectively, for the MIT and CIT groups in the secondary-intervention cohort (P = 0.044).",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) MIT and CIT groups in the secondary-intervention cohort (P = 0.044)",
+        "answer": "The cumulative percentages of the development and the progression in nephropathy after 6 years were 7.7% for the MIT group and 28.0% for the CIT group in the primary-prevention cohort (P = 0.032), and 11.5% and 32.0%, respectively, for the MIT and CIT groups in the secondary-intervention cohort (P = 0.044).",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions to be answered in neurological tests after 6 years?",
+        "answer": "In neurological tests after 6 years, MIT group showed significant improvement in the nerve conduction velocities, while the CIT group showed significant deterioration in the median nerve conduction velocities and vibration threshold.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What causes questions about postural hypotension? (Also called: Hypotension - postural)",
+        "answer": "Although both postural hypotension and the coefficient of variation of R-R interval tended to improve in the MIT group, they deteriorated in the CIT group.",
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What are the questions raised by Diabetes Control and Complications Trial (DCCT)",
+        "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Implementation of intensive treatment recommendations (IDDM)",
+        "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) If intensive treatment is impractical (Also called: Glycemic control - non-pregnant)",
+        "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": " What is (are) Improved glycemic control for patients with non-insulin-dependent diabetes mellitus (NIDDM)",
+        "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
     }
 ]
