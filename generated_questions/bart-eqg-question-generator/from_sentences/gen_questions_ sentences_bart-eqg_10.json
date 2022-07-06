@@ -1,0 +1,399 @@
+[
+    {
+        "source_PMID": "9742977",
+        "QA": {
+            "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.": [
+                "what is the function of sulphonylurea therapy in type 2 diabetes?"
+            ],
+            "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.": [
+                "what kind of glucose control is better?"
+            ],
+            "METHODS: Of 4075 patients recruited to UKPDS in 15 centres, 1704 overweight (>120% ideal bodyweight) patients with newly diagnosed type 2 diabetes, mean age 53 years, had raised fasting plasma glucose (FPG; 6.1-15.0 mmol/L) without hyperglycaemic symptoms after 3 months' initial diet.": [
+                "what was the difference between 4075 patients and 1704 overweight patients?"
+            ],
+            "753 were included in a randomised controlled trial, median duration 10.7 years, of conventional policy, primarily with diet alone (n=411) versus intensive blood-glucose control policy with metformin, aiming for FPG below 6 mmol/L (n=342).": [
+                "what was included in the randomised trial?"
+            ],
+            "A secondary analysis compared the 342 patients allocated metformin with 951 overweight patients allocated intensive blood-glucose control with chlorpropamide (n=265), glibenclamide (n=277), or insulin (n=409).": [
+                "what is metformin used for?"
+            ],
+            "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.": [
+                "what was the primary result of the research?"
+            ],
+            "In a supplementary randomised controlled trial, 537 non-overweight and overweight patients, mean age 59 years, who were already on maximum sulphonylurea therapy but had raised FPG (6.1-15.0 mmol/L) were allocated continuing sulphonylurea therapy alone (n=269) or addition of metformin (n=268).": [
+                "how many subjects took part in the experiment?"
+            ],
+            "FINDINGS: Median glycated haemoglobin (HbA1c) was 7.4% in the metformin group compared with 8.0% in the conventional group.": [
+                "how many people are there in the metformin group?"
+            ],
+            "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).": [
+                "what is the difference between the two groups of patients allocated metformin?"
+            ],
+            "Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).": [
+                "which is true about metformin?"
+            ],
+            "Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.": [
+                "what is the difference between metformin and sulphonylurea?"
+            ],
+            "A combined analysis of the main and supplementary studies showed fewer metformin-allocated patients having diabetes-related endpoints (risk reduction 19% [2-33], p=0.033).": [
+                "according to the text, which is the right order from the left to the right?"
+            ],
+            "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).": [
+                "what is the probable association of death from diabetes- related causes with sulphonylurea and metformin?"
+            ],
+            "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.": [
+                "which is the firstline pharmacological therapy in overweight diabetic patients?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "32891604",
+        "QA": {
+            "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.": [
+                "what is the probable effect of intensified multifactorial intervention in the patients with type 2 diabetes?",
+                "what is the target of this research?"
+            ],
+            "A total of 2540 eligible patients in the Japan Diabetes Optimal Integrated Treatment for three major risk factors of cardiovascular diseases (J-DOIT3) cohort were randomly assigned to intensive therapy (1269) and conventional therapy (1271) and treated for a median of 8.5 years.": [
+                "according to the survey, how many patients took part in j-DOIT3?"
+            ],
+            "The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.": [
+                "what is the probable cause of kidney failure?"
+            ],
+            "Primary analysis was carried out on the intention-to-treat population.": [
+                "according to the research, how many people were there in the experiment?"
+            ],
+            "Changes in the estimated glomerular filtration rate and albuminuria were also analyzed.": [
+                "what were included in the analyses?"
+            ],
+            "A total of 438 kidney events occurred (181 in the intensive therapy group and 257 in the conventional therapy group).": [
+                "how many kidney events took place in the conventional therapy group?"
+            ],
+            "Intensive therapy was associated with a significant 32% reduction in kidney events compared to conventional therapy and was associated with a change in HbA1c at one year from study initiation.": [
+                "what was the difference between the two types of therapy at one year from study initiation?"
+            ],
+            "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.": [
+                "according to the research, intensified multifactorial intervention reduced the onset and progression of diabetic kidney disease"
+            ]
+        }
+    },
+    {
+        "source_PMID": "32215272",
+        "QA": {
+            "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.": [
+                "if a diabetic suffers from diabetic peripheral neuropathy, what should he do?"
+            ],
+            "This in turn results in imbalance leading to the diabetic patients' daily activity disparity.": [
+                "what is the result of imbalance in the daily activity?"
+            ],
+            "The present investigation was conducted to specifically study the effects of combined training (resistance-aerobic) on serum kinesin-1 and physical function in type 2 diabetes patients with diabetic peripheral neuropathy.": [
+                "according to the research, what is the probable result of the research?"
+            ],
+            "24 diabetic neuropathic females were randomly to be selected out and divided into two experimental and control groups.": [
+                "what kind of females were included in the experiment?"
+            ],
+            "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.": [
+                "what did the experimental group do during the exercise?"
+            ],
+            "The exercise training included resistance exercises with 2-3 sets, 6-7 exercise stations, 8-12 repetitions (reps), and 3-5 minutes of rest in between the exercises, and the aerobic exercises contained 50-65% of heart rate reserve (HRR) for 3 minutes with 30 seconds of rest interval between sets and 5-10 repetitions.": [
+                "how long did the exercise training last?"
+            ],
+            "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.": [
+                "what was the decrease after eight weeks of exercise?"
+            ],
+            "The upper body strength increased but it was not significant, while the lower body showed a significant strength increase.": [
+                "what was the difference between the lower body and the middle body?"
+            ],
+            "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.": [
+                "what is the probable cause of diabetic peripheral neuropathy?"
+            ],
+            "Nevertheless, more research is required in this area.": [
+                "according to the research, more research is required in this area"
+            ]
+        }
+    },
+    {
+        "source_PMID": "30012135",
+        "QA": {
+            "BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.": [
+                "what is the gold-standard treatment for bipolar disorder?"
+            ],
+            "However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.": [
+                "why are clinicians increasingly avoid lithium?"
+            ],
+            "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).": [
+                "which is not the result of Nephrogenic Diabetes Insipidus?"
+            ],
+            "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.": [
+                "what did the researchers find in the cross-sectional study?"
+            ],
+            "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.": [
+                "what is the method of the research in this text?"
+            ],
+            "METHODS: We will conduct a 12-week, double-blind placebo-controlled RCT of atorvastatin for lithium-induced NDI at McGill University, Montreal, Canada.": [
+                "what is the disadvantage of atorvastatin for lithium-induced NDI?"
+            ],
+            "We will recruit 60 current lithium users, aged 18-85, who have indicators of NDI, which we defined as urine osmolality (UOsm) <\u2009600\u00a0mOsm/kg after 10-h fluid restriction.": [
+                "what are the indicators of urine osmolality?"
+            ],
+            "We will randomize patients to atorvastatin (20\u00a0mg/day) or placebo for 12\u00a0weeks.": [
+                "which is the right dose of atorvastatin?"
+            ],
+            "We will examine whether this improves measures of NDI: UOsm and aquaporin (AQP2) excretion at 12-week follow-up, adjusted for baseline.": [
+                "what can we conclude from the results of the experiment?"
+            ],
+            "RESULTS: Not applicable.": [
+                "what did the researchers find from the results of the experiment?"
+            ],
+            "CONCLUSION: The aim of this clinical trial is to provide preliminary data about the efficacy of atorvastatin in treating NDI.": [
+                "what is the purpose of this clinical trial?"
+            ],
+            "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).": [
+                "what is the possible disadvantage of lithium in patients with type 1 lung cancer?"
+            ],
+            "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.": [
+                "what is the disadvantage of using lithium?"
+            ],
+            "TRIAL REGISTRATION: ClinicalTrials.gov NCT02967653 .": [
+                "according to the text, which is true?"
+            ],
+            "Registered in February 2017.": [
+                "what did the writer do in the past?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "31295292",
+        "QA": {
+            "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.": [
+                "what is the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes?"
+            ],
+            "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.": [
+                "according to the text, what is the best way to reduce the risk of re-ulceration?"
+            ],
+            "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.": [
+                "what is the probable benefit of a rigid rocker sole in patients with plantar ulcers?"
+            ],
+            "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.": [
+                "according to the text, which is the right order from the left to the right?"
+            ],
+            "PARTICIPANTS AND INTERVENTION: Fifty-one patients with diabetic neuropathy who had a recently healed plantar ulcer were randomized consecutively into the following two groups: therapeutic footwear with semi-rigid sole (control) or therapeutic footwear with a rigid rocker sole (experimental).": [
+                "what was the difference between the two groups of participants in the experiment?"
+            ],
+            "All patients included in the study were followed up for 6 months (one visit each 30 \u00b1 2 days) or until the development of a recurrence event.": [
+                "what was the length of the study?"
+            ],
+            "MAIN OUTCOME AND MEASURE: Primary outcome measure was recurrence of ulcers in the plantar aspect of the foot.": [
+                "what is the probable cause of ulcers in the plantar aspect of the foot?"
+            ],
+            "FINDINGS: A total of 51 patients were randomized to the control and experimental groups.": [
+                "what were the participants asked to do in the experiment?"
+            ],
+            "The median follow-up time was 26 [IQR-4.4-26.1] weeks for both groups.": [
+                "what is the mean of the follow-up time for both groups?"
+            ],
+            "On an intention-to-treat basis, 16 (64%) and 6 (23%) patients in the control and experimental groups had ulcer recurrence, respectively.": [
+                "what kind of patients had ulcer recurrence?"
+            ],
+            "Among the group with >60% adherence to therapeutic footwear, multivariate analysis showed that the rigid rocker sole improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy and DFU history (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263).": [
+                "if a woman has type 2 diabetes, how long will her ulcer stay in the hospital?"
+            ],
+            "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.": [
+                "according to the writer, what is the best way to treat plantar ulcers?"
+            ],
+            "TRIAL REGISTRATION: ClinicalTrials.gov NCT02995863.": [
+                "which is true according to the text?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "32621644",
+        "QA": {
+            "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.": [
+                "according to the research, why is Lithium an important treatment for mood disorders?"
+            ],
+            "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.": [
+                "what is the risk of incident chronic kidney disease among lithium users?"
+            ],
+            "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.": [
+                "what is the general idea of the text?"
+            ],
+            "Therefore, novel treatments are needed for lithium-induced NDI.": [
+                "what are novel treatments needed for lithium-induced NDI?"
+            ],
+            "METHOD: We conducted a 12-week double-blind pilot RCT to assess the feasibility and efficacy of 20\u00a0mg/d atorvastatin vs placebo in the treatment of NDI in chronic lithium users.": [
+                "what did the researchers do in the experiment?"
+            ],
+            "Patients, recruited between September 2017 and October 2018, were aged 18 to 85, currently on a stable dose of lithium, and determined to have NDI.": [
+                "what kind of patients were recruited between September 2017 and October 2018?"
+            ],
+            "RESULTS: Urinary osmolality (UOsm) at 12\u00a0weeks adjusted for baseline was not statistically different between groups (+39.6\u00a0mOsm/kg [95% CI, -35.3, 114.5] in atorvastatin compared to placebo groups).": [
+                "what was the difference between the two groups in the experiment?"
+            ],
+            "Secondary outcomes of fluid intake and aquaporin-2 excretions at 12\u00a0weeks adjusted for baseline were -0.13 L [95% CI, -0.54, 0.28] and 98.68 [95% CI, -190.34, 387.70], respectively.": [
+                "which of the statements is true according to the research?"
+            ],
+            "A moderate effect size was observed for improvements in baseline UOsm by \u2265100\u00a0mOsm/kg at 12\u00a0weeks in patients who received atorvastatin compared to placebo (38.45% (10/26) vs 22.58% (7/31); Cohen's d\u00a0=\u00a00.66).": [
+                "what was found in the experiment with atorvastatin?"
+            ],
+            "CONCLUSION: Among lithium users with NDI, atorvastatin 20\u00a0mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.": [
+                "what was the difference between atorvastatin and placebo?"
+            ],
+            "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.": [
+                "what is the practical value of the confirmatory trial?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "32321301",
+        "QA": {
+            "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.": [
+                "what is the aim of the study?"
+            ],
+            "MATERIAL AND METHODS: Ninety patients who applied to the Health Sciences University Ulucanlar Eye Training and Research Hospital between January 2016 and January 2017 were included in this prospective randomized study.": [
+                "what kind of patients were included in the study?"
+            ],
+            "In the study, 45 diabetes mellitus patients and 45 healthy individuals were evaluated.": [
+                "what kind of people were included in the study?"
+            ],
+            "The diabetes patients were compared in terms of HbA1c level, diabetes mellitus duration, corneal endothelial cell density, coefficient of variation, standard deviation, and hexagonality with healthy control group.": [
+                "which question is not answered in the experiment?"
+            ],
+            "RESULTS: A statistically significant difference was found in the endothelial cell densitometer, coefficient of variation, and standard deviation measurements between the diabetes mellitus patients and the control (healthy) group.": [
+                "what was found in the two experiments?"
+            ],
+            "But, there was no statistically significant difference between 6A (hexagonality) and central corneal thickness measurements.": [
+                "what was the statistically significant difference between 6A (hexagonality ) and central corneal thickness measurements?"
+            ],
+            "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.": [
+                "what was the positive correlation between blood alcohol levels and standard deviation values?"
+            ],
+            "There was a statistically significant difference between diabetes mellitus patients with the diagnosis of non-proliferative diabetic retinopathy and proliferative diabetic retinopathy in the endothelial cell densitometer and standard deviation values.": [
+                "what was the statistically significant difference between patients with proliferative diabetic retinopathy and those without the disease in the endothelial cell densitometer and standard deviation values?"
+            ],
+            "But there was not any statistically significant difference between coefficient of variation, 6A, and central corneal thickness values.": [
+                "according to the research, there wasn't any statistically significant difference between coefficient of variation and central corneal thickness values."
+            ],
+            "CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.": [
+                "what is the endothelial cell densitometer used for in patients with retinopathy?"
+            ],
+            "There is a negative correlation between retinopathy severity and corneal endothelial cell density.": [
+                "according to the research, there is a negative correlation between retinopathy severity and corneal endothelial cell density"
+            ],
+            "Diabetes affects negatively not only vascular tissues but also avascular cornea.": [
+                "what is the function of Diabetes according to the text?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "34889293",
+        "QA": {
+            "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.": [
+                "which is not the reason why diabetic peripheral neuropathy is fatal?"
+            ],
+            "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.": [
+                "what is the probable cause of diabetic foot ulcers?"
+            ],
+            "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.": [
+                "what does moxibustion do?"
+            ],
+            "However, randomized clinical trials done to evaluate the efficacy of this treatment are still lacking.": [
+                "what is the safety of this treatment according to the text?"
+            ],
+            "Hence, this study is carried out to evaluate the effectiveness and safety of moxibustion therapy on diabetic peripheral neuropathy.": [
+                "what is the purpose of this study?"
+            ],
+            "METHODS: This study will be a pilot, interventional, randomized, 2-armed, parallel, singled-masked, controlled trial.": [
+                "what is the aim of this study?"
+            ],
+            "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.": [
+                "if there were 40 people in a group, how many would be divided into two groups?"
+            ],
+            "This trial consists of an 8-week intervention period and a 4-week follow-up period.": [
+                "what is the length of the intervention period?"
+            ],
+            "During the intervention period, the moxibustion group will take 3 moxibustion sessions per week, whereas no intervention will be done on the waiting group to act as the control group.": [
+                "how many moxibustion sessions will a week?"
+            ],
+            "The outcome will be assessed by an outcome assessor who is unaware of the group assignment.": [
+                "according to the text, what will the final result be?"
+            ],
+            "The primary outcome will be pain assessment measured with algometry, Leeds Assessment of Neuropathic Symptoms and Signs pain scale, visual analogue scale, and neuropathy pain scale.": [
+                "what is the primary result of this research?"
+            ],
+            "The secondary outcome will be an evaluation of functional performance capacity with 6 minutes walking test, evaluation of the Foot and Ankle Ability Measure, and serum HbA1c and albumin levels.": [
+                "what will the secondary result be?"
+            ],
+            "DISCUSSION: We hope that this trial will provide valuable insights on the efficacy of moxibustion in the management of diabetic peripheral neuropathy.": [
+                "according to the text, what is the probable result of this trial?"
+            ],
+            "TRIAL REGISTRATION: ClinicalTrials.gov Registry No.": [
+                "what should you do if you have some questions about a doctor?"
+            ],
+            ": NCT04894461 (URL: https://clinicaltrials.gov/ct2/show/NCT04894461?term=NCT04894461&draw=2&rank=1) Registered on May 20, 2021.": [
+                "what is NCT04894461?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "7587918",
+        "QA": {
+            "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.": [
+                "according to the research, which type of diabetic mellitus is fatal?"
+            ],
+            "A total of 110 patients with NIDDM was randomly assigned to multiple insulin injection treatment group (MIT group) or to conventional insulin injection treatment group (CIT group).": [
+                "what kind of group was used for the experiment?"
+            ],
+            "Fifty-five NIDDM patients who showed no retinopathy and urinary albumin excretions < 30 mg/24 h at the baseline were evaluated in the primary-prevention cohort, and the other 55 NIDDM patients who showed simple retinopathy and urinary albumin excretions < 300 mg/24 h were evaluated in the secondary-intervention cohort.": [
+                "what was the secondary-intervention cohort compared to the primary-prevention?"
+            ],
+            "The appearance and the progression of retinopathy, nephropathy and neuropathy were evaluated every 6 months over a 6-year period.": [
+                "which question is not answered in the experiment?"
+            ],
+            "The worsening of complications in this study was defined as an increase of 2 or more steps in the 19 stages of the modified ETDRS interim scale for retinopathy and an increase of one or more steps in 3 stages (normoalbuminuria, microalbuminuria and albuminuria) for nephropathy.": [
+                "how many steps are there in this study?"
+            ],
+            "The cumulative percentages of the development and the progression in retinopathy after 6 years were 7.7% for the MIT group and 32.0% for the CIT group in the primary-prevention cohort (P = 0.039), and 19.2% for MIT group and 44.0% for CIT group in the secondary-intervention cohort (P = 0.049).": [
+                "how many people took part in the primary-prevention cohort?"
+            ],
+            "The cumulative percentages of the development and the progression in nephropathy after 6 years were 7.7% for the MIT group and 28.0% for the CIT group in the primary-prevention cohort (P = 0.032), and 11.5% and 32.0%, respectively, for the MIT and CIT groups in the secondary-intervention cohort (P = 0.044).": [
+                "what is the percentage of the development and the progression in nephropathy after 6 years?",
+                "where can we most probably read this text?"
+            ],
+            "In neurological tests after 6 years, MIT group showed significant improvement in the nerve conduction velocities, while the CIT group showed significant deterioration in the median nerve conduction velocities and vibration threshold.": [
+                "what was the difference between the MIT group and the CIT group?"
+            ],
+            "Although both postural hypotension and the coefficient of variation of R-R interval tended to improve in the MIT group, they deteriorated in the CIT group.": [
+                "what kind of persons are likely to improve in the MIT group?"
+            ],
+            "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.": [
+                "what should we do to delay the progression of diabetic retinopathy?"
+            ],
+            "From this study, the glycemic threshold to prevent the onset and the progression of diabetic microangiopathy is indicated as follows; HbA1c < 6.5%, FBG < 110 mg/dl, and 2-h post-prandial blood glucose concentration < 180 mg/dl.": [
+                "what should we drink in order to prevent the disease?"
+            ]
+        }
+    },
+    {
+        "source_PMID": "7598463",
+        "QA": {
+            "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.": [
+                "if a person suffers from type 2 diabetic mellitus, what kind of treatment should he receive?"
+            ],
+            "The major risk associated with intensive treatment is recurrent hypoglycemia.": [
+                "what is the major risk for recurrent hypoglycemia?"
+            ],
+            "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.": [
+                "according to the doctor, what is not a suitable way to treat IDDM?"
+            ],
+            "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.": [
+                "what is the best way for people to lose weight?"
+            ],
+            "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).": [
+                "if a person has type 2 diabetes, what should he do?"
+            ],
+            "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.": [
+                "what is the use of insulin in patients with nIDDM?"
+            ]
+        }
+    }
+]

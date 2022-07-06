@@ -1798,5 +1798,491 @@
         "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
         "source_PMID": "7598463",
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": "what was the difference between 4075 patients and 1704 overweight patients?",
+        "answer": "METHODS: Of 4075 patients recruited to UKPDS in 15 centres, 1704 overweight (>120% ideal bodyweight) patients with newly diagnosed type 2 diabetes, mean age 53 years, had raised fasting plasma glucose (FPG; 6.1-15.0 mmol/L) without hyperglycaemic symptoms after 3 months' initial diet.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was included in the randomised trial?",
+        "answer": "753 were included in a randomised controlled trial, median duration 10.7 years, of conventional policy, primarily with diet alone (n=411) versus intensive blood-glucose control policy with metformin, aiming for FPG below 6 mmol/L (n=342).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the primary result of the research?",
+        "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how many subjects took part in the experiment?",
+        "answer": "In a supplementary randomised controlled trial, 537 non-overweight and overweight patients, mean age 59 years, who were already on maximum sulphonylurea therapy but had raised FPG (6.1-15.0 mmol/L) were allocated continuing sulphonylurea therapy alone (n=269) or addition of metformin (n=268).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how many people are there in the metformin group?",
+        "answer": "FINDINGS: Median glycated haemoglobin (HbA1c) was 7.4% in the metformin group compared with 8.0% in the conventional group.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the difference between the two groups of patients allocated metformin?",
+        "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which is true about metformin?",
+        "answer": "Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the text, which is the right order from the left to the right?",
+        "answer": "A combined analysis of the main and supplementary studies showed fewer metformin-allocated patients having diabetes-related endpoints (risk reduction 19% [2-33], p=0.033).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the target of this research?",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the survey, how many patients took part in j-DOIT3?",
+        "answer": "A total of 2540 eligible patients in the Japan Diabetes Optimal Integrated Treatment for three major risk factors of cardiovascular diseases (J-DOIT3) cohort were randomly assigned to intensive therapy (1269) and conventional therapy (1271) and treated for a median of 8.5 years.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, how many people were there in the experiment?",
+        "answer": "Primary analysis was carried out on the intention-to-treat population.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what were included in the analyses?",
+        "answer": "Changes in the estimated glomerular filtration rate and albuminuria were also analyzed.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how many kidney events took place in the conventional therapy group?",
+        "answer": "A total of 438 kidney events occurred (181 in the intensive therapy group and 257 in the conventional therapy group).",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the difference between the two types of therapy at one year from study initiation?",
+        "answer": "Intensive therapy was associated with a significant 32% reduction in kidney events compared to conventional therapy and was associated with a change in HbA1c at one year from study initiation.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, what is the probable result of the research?",
+        "answer": "The present investigation was conducted to specifically study the effects of combined training (resistance-aerobic) on serum kinesin-1 and physical function in type 2 diabetes patients with diabetic peripheral neuropathy.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of females were included in the experiment?",
+        "answer": "24 diabetic neuropathic females were randomly to be selected out and divided into two experimental and control groups.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what did the experimental group do during the exercise?",
+        "answer": "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how long did the exercise training last?",
+        "answer": "The exercise training included resistance exercises with 2-3 sets, 6-7 exercise stations, 8-12 repetitions (reps), and 3-5 minutes of rest in between the exercises, and the aerobic exercises contained 50-65% of heart rate reserve (HRR) for 3 minutes with 30 seconds of rest interval between sets and 5-10 repetitions.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the decrease after eight weeks of exercise?",
+        "answer": "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the difference between the lower body and the middle body?",
+        "answer": "The upper body strength increased but it was not significant, while the lower body showed a significant strength increase.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, more research is required in this area",
+        "answer": "Nevertheless, more research is required in this area.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what did the researchers find in the cross-sectional study?",
+        "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the method of the research in this text?",
+        "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what can we conclude from the results of the experiment?",
+        "answer": "We will examine whether this improves measures of NDI: UOsm and aquaporin (AQP2) excretion at 12-week follow-up, adjusted for baseline.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what did the researchers find from the results of the experiment?",
+        "answer": "RESULTS: Not applicable.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the purpose of this clinical trial?",
+        "answer": "CONCLUSION: The aim of this clinical trial is to provide preliminary data about the efficacy of atorvastatin in treating NDI.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the possible disadvantage of lithium in patients with type 1 lung cancer?",
+        "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the text, which is true?",
+        "answer": "TRIAL REGISTRATION: ClinicalTrials.gov NCT02967653 .",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what did the writer do in the past?",
+        "answer": "Registered in February 2017.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the text, which is the right order from the left to the right?",
+        "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the difference between the two groups of participants in the experiment?",
+        "answer": "PARTICIPANTS AND INTERVENTION: Fifty-one patients with diabetic neuropathy who had a recently healed plantar ulcer were randomized consecutively into the following two groups: therapeutic footwear with semi-rigid sole (control) or therapeutic footwear with a rigid rocker sole (experimental).",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the length of the study?",
+        "answer": "All patients included in the study were followed up for 6 months (one visit each 30 \u00b1 2 days) or until the development of a recurrence event.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what were the participants asked to do in the experiment?",
+        "answer": "FINDINGS: A total of 51 patients were randomized to the control and experimental groups.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the mean of the follow-up time for both groups?",
+        "answer": "The median follow-up time was 26 [IQR-4.4-26.1] weeks for both groups.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "if a woman has type 2 diabetes, how long will her ulcer stay in the hospital?",
+        "answer": "Among the group with >60% adherence to therapeutic footwear, multivariate analysis showed that the rigid rocker sole improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy and DFU history (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263).",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which is true according to the text?",
+        "answer": "TRIAL REGISTRATION: ClinicalTrials.gov NCT02995863.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the general idea of the text?",
+        "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what are novel treatments needed for lithium-induced NDI?",
+        "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what did the researchers do in the experiment?",
+        "answer": "METHOD: We conducted a 12-week double-blind pilot RCT to assess the feasibility and efficacy of 20\u00a0mg/d atorvastatin vs placebo in the treatment of NDI in chronic lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of patients were recruited between September 2017 and October 2018?",
+        "answer": "Patients, recruited between September 2017 and October 2018, were aged 18 to 85, currently on a stable dose of lithium, and determined to have NDI.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the difference between the two groups in the experiment?",
+        "answer": "RESULTS: Urinary osmolality (UOsm) at 12\u00a0weeks adjusted for baseline was not statistically different between groups (+39.6\u00a0mOsm/kg [95% CI, -35.3, 114.5] in atorvastatin compared to placebo groups).",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which of the statements is true according to the research?",
+        "answer": "Secondary outcomes of fluid intake and aquaporin-2 excretions at 12\u00a0weeks adjusted for baseline were -0.13 L [95% CI, -0.54, 0.28] and 98.68 [95% CI, -190.34, 387.70], respectively.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the practical value of the confirmatory trial?",
+        "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the aim of the study?",
+        "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of patients were included in the study?",
+        "answer": "MATERIAL AND METHODS: Ninety patients who applied to the Health Sciences University Ulucanlar Eye Training and Research Hospital between January 2016 and January 2017 were included in this prospective randomized study.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of people were included in the study?",
+        "answer": "In the study, 45 diabetes mellitus patients and 45 healthy individuals were evaluated.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which question is not answered in the experiment?",
+        "answer": "The diabetes patients were compared in terms of HbA1c level, diabetes mellitus duration, corneal endothelial cell density, coefficient of variation, standard deviation, and hexagonality with healthy control group.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was found in the two experiments?",
+        "answer": "RESULTS: A statistically significant difference was found in the endothelial cell densitometer, coefficient of variation, and standard deviation measurements between the diabetes mellitus patients and the control (healthy) group.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the statistically significant difference between 6A (hexagonality ) and central corneal thickness measurements?",
+        "answer": "But, there was no statistically significant difference between 6A (hexagonality) and central corneal thickness measurements.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the positive correlation between blood alcohol levels and standard deviation values?",
+        "answer": "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the statistically significant difference between patients with proliferative diabetic retinopathy and those without the disease in the endothelial cell densitometer and standard deviation values?",
+        "answer": "There was a statistically significant difference between diabetes mellitus patients with the diagnosis of non-proliferative diabetic retinopathy and proliferative diabetic retinopathy in the endothelial cell densitometer and standard deviation values.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, there wasn't any statistically significant difference between coefficient of variation and central corneal thickness values.",
+        "answer": "But there was not any statistically significant difference between coefficient of variation, 6A, and central corneal thickness values.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, there is a negative correlation between retinopathy severity and corneal endothelial cell density",
+        "answer": "There is a negative correlation between retinopathy severity and corneal endothelial cell density.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the function of Diabetes according to the text?",
+        "answer": "Diabetes affects negatively not only vascular tissues but also avascular cornea.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which is not the reason why diabetic peripheral neuropathy is fatal?",
+        "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the safety of this treatment according to the text?",
+        "answer": "However, randomized clinical trials done to evaluate the efficacy of this treatment are still lacking.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the purpose of this study?",
+        "answer": "Hence, this study is carried out to evaluate the effectiveness and safety of moxibustion therapy on diabetic peripheral neuropathy.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the aim of this study?",
+        "answer": "METHODS: This study will be a pilot, interventional, randomized, 2-armed, parallel, singled-masked, controlled trial.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "if there were 40 people in a group, how many would be divided into two groups?",
+        "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the length of the intervention period?",
+        "answer": "This trial consists of an 8-week intervention period and a 4-week follow-up period.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how many moxibustion sessions will a week?",
+        "answer": "During the intervention period, the moxibustion group will take 3 moxibustion sessions per week, whereas no intervention will be done on the waiting group to act as the control group.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the text, what will the final result be?",
+        "answer": "The outcome will be assessed by an outcome assessor who is unaware of the group assignment.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the primary result of this research?",
+        "answer": "The primary outcome will be pain assessment measured with algometry, Leeds Assessment of Neuropathic Symptoms and Signs pain scale, visual analogue scale, and neuropathy pain scale.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what will the secondary result be?",
+        "answer": "The secondary outcome will be an evaluation of functional performance capacity with 6 minutes walking test, evaluation of the Foot and Ankle Ability Measure, and serum HbA1c and albumin levels.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the text, what is the probable result of this trial?",
+        "answer": "DISCUSSION: We hope that this trial will provide valuable insights on the efficacy of moxibustion in the management of diabetic peripheral neuropathy.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what should you do if you have some questions about a doctor?",
+        "answer": "TRIAL REGISTRATION: ClinicalTrials.gov Registry No.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is NCT04894461?",
+        "answer": ": NCT04894461 (URL: https://clinicaltrials.gov/ct2/show/NCT04894461?term=NCT04894461&draw=2&rank=1) Registered on May 20, 2021.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, which type of diabetic mellitus is fatal?",
+        "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of group was used for the experiment?",
+        "answer": "A total of 110 patients with NIDDM was randomly assigned to multiple insulin injection treatment group (MIT group) or to conventional insulin injection treatment group (CIT group).",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the secondary-intervention cohort compared to the primary-prevention?",
+        "answer": "Fifty-five NIDDM patients who showed no retinopathy and urinary albumin excretions < 30 mg/24 h at the baseline were evaluated in the primary-prevention cohort, and the other 55 NIDDM patients who showed simple retinopathy and urinary albumin excretions < 300 mg/24 h were evaluated in the secondary-intervention cohort.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which question is not answered in the experiment?",
+        "answer": "The appearance and the progression of retinopathy, nephropathy and neuropathy were evaluated every 6 months over a 6-year period.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how many steps are there in this study?",
+        "answer": "The worsening of complications in this study was defined as an increase of 2 or more steps in the 19 stages of the modified ETDRS interim scale for retinopathy and an increase of one or more steps in 3 stages (normoalbuminuria, microalbuminuria and albuminuria) for nephropathy.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "how many people took part in the primary-prevention cohort?",
+        "answer": "The cumulative percentages of the development and the progression in retinopathy after 6 years were 7.7% for the MIT group and 32.0% for the CIT group in the primary-prevention cohort (P = 0.039), and 19.2% for MIT group and 44.0% for CIT group in the secondary-intervention cohort (P = 0.049).",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the percentage of the development and the progression in nephropathy after 6 years?",
+        "answer": "The cumulative percentages of the development and the progression in nephropathy after 6 years were 7.7% for the MIT group and 28.0% for the CIT group in the primary-prevention cohort (P = 0.032), and 11.5% and 32.0%, respectively, for the MIT and CIT groups in the secondary-intervention cohort (P = 0.044).",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "where can we most probably read this text?",
+        "answer": "The cumulative percentages of the development and the progression in nephropathy after 6 years were 7.7% for the MIT group and 28.0% for the CIT group in the primary-prevention cohort (P = 0.032), and 11.5% and 32.0%, respectively, for the MIT and CIT groups in the secondary-intervention cohort (P = 0.044).",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the difference between the MIT group and the CIT group?",
+        "answer": "In neurological tests after 6 years, MIT group showed significant improvement in the nerve conduction velocities, while the CIT group showed significant deterioration in the median nerve conduction velocities and vibration threshold.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of persons are likely to improve in the MIT group?",
+        "answer": "Although both postural hypotension and the coefficient of variation of R-R interval tended to improve in the MIT group, they deteriorated in the CIT group.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what should we drink in order to prevent the disease?",
+        "answer": "From this study, the glycemic threshold to prevent the onset and the progression of diabetic microangiopathy is indicated as follows; HbA1c < 6.5%, FBG < 110 mg/dl, and 2-h post-prandial blood glucose concentration < 180 mg/dl.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the doctor, what is not a suitable way to treat IDDM?",
+        "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the best way for people to lose weight?",
+        "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the use of insulin in patients with nIDDM?",
+        "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator"
     }
 ]

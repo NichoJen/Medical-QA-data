@@ -658,5 +658,125 @@
         "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
         "source_PMID": "7598463",
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": "what kind of glucose control is better?",
+        "answer": "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is metformin used for?",
+        "answer": "A secondary analysis compared the 342 patients allocated metformin with 951 overweight patients allocated intensive blood-glucose control with chlorpropamide (n=265), glibenclamide (n=277), or insulin (n=409).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable association of death from diabetes- related causes with sulphonylurea and metformin?",
+        "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable effect of intensified multifactorial intervention in the patients with type 2 diabetes?",
+        "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable cause of kidney failure?",
+        "answer": "The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, intensified multifactorial intervention reduced the onset and progression of diabetic kidney disease",
+        "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+        "source_PMID": "32891604",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "if a diabetic suffers from diabetic peripheral neuropathy, what should he do?",
+        "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the result of imbalance in the daily activity?",
+        "answer": "This in turn results in imbalance leading to the diabetic patients' daily activity disparity.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable cause of diabetic peripheral neuropathy?",
+        "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which is not the result of Nephrogenic Diabetes Insipidus?",
+        "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the disadvantage of atorvastatin for lithium-induced NDI?",
+        "answer": "METHODS: We will conduct a 12-week, double-blind placebo-controlled RCT of atorvastatin for lithium-induced NDI at McGill University, Montreal, Canada.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which is the right dose of atorvastatin?",
+        "answer": "We will randomize patients to atorvastatin (20\u00a0mg/day) or placebo for 12\u00a0weeks.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the disadvantage of using lithium?",
+        "answer": "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable cause of ulcers in the plantar aspect of the foot?",
+        "answer": "MAIN OUTCOME AND MEASURE: Primary outcome measure was recurrence of ulcers in the plantar aspect of the foot.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what kind of patients had ulcer recurrence?",
+        "answer": "On an intention-to-treat basis, 16 (64%) and 6 (23%) patients in the control and experimental groups had ulcer recurrence, respectively.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the research, why is Lithium an important treatment for mood disorders?",
+        "answer": "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was found in the experiment with atorvastatin?",
+        "answer": "A moderate effect size was observed for improvements in baseline UOsm by \u2265100\u00a0mOsm/kg at 12\u00a0weeks in patients who received atorvastatin compared to placebo (38.45% (10/26) vs 22.58% (7/31); Cohen's d\u00a0=\u00a00.66).",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what was the difference between atorvastatin and placebo?",
+        "answer": "CONCLUSION: Among lithium users with NDI, atorvastatin 20\u00a0mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the endothelial cell densitometer used for in patients with retinopathy?",
+        "answer": "CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.",
+        "source_PMID": "32321301",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what does moxibustion do?",
+        "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
     }
 ]

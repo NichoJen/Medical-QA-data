@@ -238,5 +238,101 @@
         "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
         "source_PMID": "7598463",
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad"
+    },
+    {
+        "question": "what is the function of sulphonylurea therapy in type 2 diabetes?",
+        "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the difference between metformin and sulphonylurea?",
+        "answer": "Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "which is the firstline pharmacological therapy in overweight diabetic patients?",
+        "answer": "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.",
+        "source_PMID": "9742977",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the gold-standard treatment for bipolar disorder?",
+        "answer": "BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "why are clinicians increasingly avoid lithium?",
+        "answer": "However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what are the indicators of urine osmolality?",
+        "answer": "We will recruit 60 current lithium users, aged 18-85, who have indicators of NDI, which we defined as urine osmolality (UOsm) <\u2009600\u00a0mOsm/kg after 10-h fluid restriction.",
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes?",
+        "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the text, what is the best way to reduce the risk of re-ulceration?",
+        "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable benefit of a rigid rocker sole in patients with plantar ulcers?",
+        "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "according to the writer, what is the best way to treat plantar ulcers?",
+        "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the risk of incident chronic kidney disease among lithium users?",
+        "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+        "source_PMID": "32621644",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the probable cause of diabetic foot ulcers?",
+        "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what should we do to delay the progression of diabetic retinopathy?",
+        "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+        "source_PMID": "7587918",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "if a person suffers from type 2 diabetic mellitus, what kind of treatment should he receive?",
+        "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "what is the major risk for recurrent hypoglycemia?",
+        "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator"
+    },
+    {
+        "question": "if a person has type 2 diabetes, what should he do?",
+        "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator"
     }
 ]
