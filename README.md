@@ -7,5 +7,5 @@ Contains questions related to diabetes, anwsers and tags. Tags were assigned usi
 models used to generate questions:  
 default (https://huggingface.co/valhalla/t5-base-e2e-qg);  
 T5-base fine-tuned on SQuAD for Question Generation (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap);  
-T5-pubmedqa (https://huggingface.co/frozenwalker/T5_pubmedqa_question_generation_preTrained_MedQuad);
+T5-pubmedqa (https://huggingface.co/frozenwalker/T5_pubmedqa_question_generation_preTrained_MedQuad);  
 bart-eqg-question-generator (https://huggingface.co/voidful/bart-eqg-question-generator)
