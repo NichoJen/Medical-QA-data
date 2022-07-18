@@ -1,0 +1,13 @@
+General information:
+date and time: 2022-07-17 16:56:22.685350
+number of abstracts: 10
+number of questions: 106
+abstract accuracy: 0.7641509433962265
+abstract similarity correct: 0.2883284855484924
+abstract similarity wrong: 0.21243917255974526
+sentence accuracy: 0.6509433962264151
+sentence similarity correct: 0.4974977939073593
+sentence similarity wrong: 0.28740260994282546
+
+Notes: TF-IDF; use nltk porterstemmer for stemming
+
