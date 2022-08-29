@@ -1,0 +1,3414 @@
+[
+    {
+        "question": "What does intensive blood-glucose control with insulin or sulphonylurea therapy reduce in type 2 diabetes patients?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 1,
+        "id2": 0,
+        "category": "specific",
+        "semantic_category": "treatment"
+    },
+    {
+        "question": "What is NDI?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "32621644",
+                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 10,
+        "id2": 0,
+        "category": "general",
+        "semantic_category": "disease"
+    },
+    {
+        "question": "What does DPN do?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "quality": 4,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 26,
+        "id2": 0,
+        "category": "general",
+        "semantic_category": "disease"
+    },
+    {
+        "question": "What could reduce the risk of heart attacks in patients with type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "9742977",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 2,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "What are common chronic complications of diabetics?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 7,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "What causes nerve damage and muscle strength decrease in diabetic patients?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 8,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "What type of shoes are best for people with diabetic foot ulcers?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "31295292",
+        "source_model": "DeepL",
+        "id1": 12,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "What is the risk of incident chronic kidney disease among lithium users?",
+        "answer": [
+            {
+                "PMID": "32621644",
+                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32621644",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 14,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "What is DPN?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 16,
+        "id2": 0,
+        "category": "general"
+    },
+    {
+        "question": "What are common complications of diabetes mellitus?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 17,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "What are the main clinical manifestations of DPN?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 18,
+        "id2": 0,
+        "category": "general"
+    },
+    {
+        "question": "Does intensive blood-glucose control with insulin or sulphonylurea decrease the progression of microvascular disease?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 20,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "Is metformin the first-line pharmacological therapy of choice in overweight diabetic patients?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 21,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "Are statins associated with lower NDI risk?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "32621644",
+                "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
+                "quality": 4,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "30012135",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 22,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "Does moxibustion have a positive effect on DPN?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 28,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "Can intensive glycemic control delay the onset of diabetic retinopathy?",
+        "answer": [
+            {
+                "PMID": "7587918",
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7587918",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 29,
+        "id2": 2,
+        "category": "specific"
+    },
+    {
+        "question": "Is improved glycemic control recommended for patients with NIDDM?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "7587918",
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 30,
+        "id2": 2,
+        "category": "specific"
+    },
+    {
+        "question": "Is insulin used in patients with NIDDM?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "7587918",
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7598463",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 31,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "What is the risk of chronic kidney disease among lithium users?",
+        "answer": [
+            {
+                "PMID": "32621644",
+                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32621644",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 32,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "What to do for diabetic kidney disease - intensified multifactorial intervention?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32891604",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
+        "id1": 34,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "What causes diabetic peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
+        "id1": 35,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "How can I prevent diabetic retinopathy - multi-injection therapy?",
+        "answer": [
+            {
+                "PMID": "7587918",
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "8040759",
+                "sentence": "We conclude that intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy and nephropathy when initiated in adolescent subjects; the benefits outweigh the increased risk of hypoglycemia that accompanies such treatment.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7587918",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
+        "id1": 39,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "What are the risks of intensive treatment?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "8040759",
+                "sentence": "The major adverse event with intensive therapy was a nearly threefold increase of severe hypoglycemia.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            },
+            {
+                "PMID": "8040759",
+                "sentence": "We conclude that intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy and nephropathy when initiated in adolescent subjects; the benefits outweigh the increased risk of hypoglycemia that accompanies such treatment.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7598463",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
+        "id1": 40,
+        "id2": 2,
+        "category": "specific"
+    },
+    {
+        "question": "what is the best way to reduce the risk of re-ulceration for patients with diabetic foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "31295292",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 48,
+        "id2": 2,
+        "category": "specific"
+    },
+    {
+        "question": "what is the cause of diabetic foot ulcers?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 52,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "if a person suffers from type 1 diabetes mellitus, what kind of treatment should he receive?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 54,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "if a person has non-insulin-dependent diabetes mellitus, what should he do?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+                "quality": 3,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7598463",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 56,
+        "id2": 1,
+        "category": "general"
+    },
+    {
+        "question": "What is exercise training be useful for in diabetic patients?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32215272",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 71,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "What percentage of lithium users have NDI?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 75,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "How many times higher is the risk of CKD for patients with NDI?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 76,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "What drug has a lower NDI risk than lithium?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "30012135",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 77,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "What type of diabetes is NIDDM?",
+        "answer": [
+            {
+                "PMID": "7587918",
+                "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+                "quality": 4,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7587918",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 98,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "Does metformin reduce the risk of diabetes-related death?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "9742977",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 112,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "What should be recommended most patients with non-insulin-dependent diabetes mellitus?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "7598463",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 108,
+        "id2": 2,
+        "category": "specific"
+    },
+    {
+        "question": "Does intensified multifactorial intervention significantly reduce the onset and progression of diabetic kidney disease?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32891604",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 118,
+        "id2": 1,
+        "category": "specific"
+    },
+    {
+        "question": "Are there any randomized controlled trials for lithium-induced NDI?",
+        "answer": [
+            {
+                "PMID": "32621644",
+                "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
+                "quality": 1,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32621644",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 130,
+        "id2": 0,
+        "category": "general"
+    },
+    {
+        "question": "What to do for diabetic peripheral neuropathy? (Also called: Peripheral neuropathy)",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32215272",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
+        "id1": 147,
+        "id2": 0,
+        "category": "specific"
+    },
+    {
+        "question": "What to do for Diabetic Foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "31295292",
+        "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
+        "id1": 151,
+        "id2": 0,
+        "category": "general"
+    },
+    {
+        "question": "if a diabetic suffers from diabetic peripheral neuropathy, what should he do?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 4,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "32215272",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 173,
+        "id2": 0,
+        "category": "general"
+    },
+    {
+        "question": "what is the result of Nephrogenic Diabetes Insipidus?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "30012135",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 176,
+        "id2": 2,
+        "category": "specific"
+    },
+    {
+        "question": "what does moxibustion do for people with diabetes?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+                "quality": 2,
+                "UMLS_category": "tbd"
+            }
+        ],
+        "source_PMID": "34889293",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 186,
+        "id2": 0,
+        "category": "general"
+    },
+    {
+        "question": "what is a possible cause of peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "29606547",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 187,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the safety of semaglutide?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "29178519",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 190,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "according to the doctor, how should we treat the early worsening of DR?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "Guidance regarding the early worsening of DR is recommended with insulin.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "29178519",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 192,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "who is at increased risk of developing heart failure?",
+        "answer": [
+            {
+                "PMID": "34372849",
+                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "34372849",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 193,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what should we do if we want to know more about glycaemic fluctuations?",
+        "answer": [
+            {
+                "PMID": "29603547",
+                "answer": "CGM provides detailed information concerning glycaemic fluctuations but, as a treatment strategy, does not translate into improved pregnancy outcome.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "29603547",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 195,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the use of acupuncture in diabetic peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "33150711",
+                "answer": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "33150711",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 197,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the effect of acupuncture on dPN?",
+        "answer": [
+            {
+                "PMID": "33150711",
+                "answer": "CONCLUSIONS: Classical needle acupuncture had significant effects on DPN.",
+                "UMLS_category": "tbd",
+                "quality": "tbd"
+            }
+        ],
+        "source_PMID": "33150711",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 198,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the best way to decrease the symptoms of diabetic peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "32306762",
+                "answer": "CONCLUSION: Delivering a supportive-educational intervention based on the Orem self-care model on outpatient diabetes clinic can decrease the symptoms and severity of diabetic peripheral neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "32306762",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 199,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " who is most likely to have unrecognized MI?",
+        "answer": [
+            {
+                "PMID": "31010876",
+                "answer": "CONCLUSIONS: Unrecognized MI is prevalent in asymptomatic patients with diabetes without a history of cardiac disease and confers a markedly increased risk of death and clinical MI.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "31010876",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 202,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the relationship between blood sugar levels and type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "24766062",
+                "answer": "Data on HbA1c levels and diabetes complications were derived from medical charts.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "source_PMID": "24766062",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 203,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is arginine used for?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "The most reliable approaches are copeptin measurements after hypertonic saline infusion or arginine, which is a known growth hormone secretagogue but has recently also been shown to stimulate the neurohypophysis.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 206,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the function of glucagon?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "CONCLUSION: Glucagon stimulates the neurohypophysis, and glucagon-stimulated copeptin has the potential for a safe, novel, and precise test in the differential diagnosis of diabetes insipidus.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 207,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the function of Acarbose?",
+        "answer": [
+            {
+                "PMID": "9893692",
+                "answer": "RECENT DRUGS: Acarbose, an alpha-glucosidase inhibitor, lowers post-prandial blood glucose level.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "9893692",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 209,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what kind of patients benefit from early photocoagulation?",
+        "answer": [
+            {
+                "PMID": "8981711",
+                "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            },
+            {
+                "PMID": "8981711",
+                "answer": "CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8981711",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 210,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what kind of people are more likely to benefit from early scatter photocoagulation?",
+        "answer": [
+            {
+                "PMID": "8981711",
+                "answer": "CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            },
+            {
+                "PMID": "8981711",
+                "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8981711",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 212,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the function of premeal insulin in children with type 1 diabetes?",
+        "answer": [
+            {
+                "PMID": "27174580",
+                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "27174580",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 213,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "if a person has type 2 diabetes, what kind of treatment should he receive?",
+        "answer": [
+            {
+                "PMID": "8040759",
+                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "8040759",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 214,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": "what is the disadvantage of the intensive therapy in adolescents?",
+        "answer": [
+            {
+                "PMID": "8040759",
+                "answer": "We conclude that intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy and nephropathy when initiated in adolescent subjects; the benefits outweigh the increased risk of hypoglycemia that accompanies such treatment.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "8040759",
+        "source_model": "bart-eqg-question-generator",
+        "id1": 215,
+        "id2": 1,
+        "category": "tbd"
+    },
+    {
+        "question": " What are the long-term complications of diabetes?",
+        "answer": [
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "29606547",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 217,
+        "id2": 1,
+        "category": "tbd"
+    },
+    {
+        "question": " What is peripheral arterial disease?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "27590190",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 218,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is PAD associated with?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "27590190",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 219,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What does lower-extremity ulceration or amputation increase in patients with type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "CONCLUSIONS: Lower-extremity ulceration or amputation, and peripheral revascularization both increased the risks of death and cardiovascular events, but only lower-extremity ulceration or amputation increased the risk of severe retinopathy in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "27590190",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 220,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What increases the risk of death and cardiovascular events?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "CONCLUSIONS: Lower-extremity ulceration or amputation, and peripheral revascularization both increased the risks of death and cardiovascular events, but only lower-extremity ulceration or amputation increased the risk of severe retinopathy in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "27590190",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 221,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is DR?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "AIMS: To evaluate diabetic retinopathy (DR) data from across the SUSTAIN clinical trial programme.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "29178519",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 222,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What are some of the benefits of the dietary di bundle?",
+        "answer": [
+            {
+                "PMID": "34028859",
+                "answer": "IMPACT: The nurse-led dietary DI bundle has effectively reduced the severity of DI among operated pituitary patients with significant benefits in polyuria, hypernatraemia, vasopressin requirement and hospital stay.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "34028859",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 227,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " How is staged diabetes management designed?",
+        "answer": [
+            {
+                "PMID": "7711992",
+                "answer": "SDM is designed as a data-based systematic approach to diabetes treatment that targets blood glucose control.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "7711992",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 228,
+        "id2": 1,
+        "category": "tbd"
+    },
+    {
+        "question": " What does hyperglycaemia cause?",
+        "answer": [
+            {
+                "PMID": "8529508",
+                "answer": "At present, patients are often treated to prevent marked hyperglycaemia, that induces symptoms such as thirst.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8529508",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 231,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " How much haemoglobin A1c level does intensive therapy achieve?",
+        "answer": [
+            {
+                "PMID": "8529508",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) in insulin-dependent diabetic subjects with a mean age of 27 years has indicated that intensive therapy to achieve a haemoglobin A1c level of 7.1%, compared with 9.0% in a 'standard control group', will retard the progress of diabetic microvascular disease.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8529508",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 232,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is CGM?",
+        "answer": [
+            {
+                "PMID": "29603547",
+                "answer": "We investigated the effectiveness of additional use of retrospective continuous glucose monitoring (CGM) in diabetic pregnancies.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "29603547",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 234,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is detectable in children with diabetes?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "Sizable IQ declines are detectable in children with known diabetes, suggesting that DKA effects may be exacerbated in children with chronic exposure to hyperglycemia.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "32962981",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 236,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What can chronic exposure to hyperglycemia cause in kids?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "Sizable IQ declines are detectable in children with known diabetes, suggesting that DKA effects may be exacerbated in children with chronic exposure to hyperglycemia.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "32962981",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 237,
+        "id2": 1,
+        "category": "tbd"
+    },
+    {
+        "question": " What is recommended to lower the risk of initial CVD events in T1D?",
+        "answer": [
+            {
+                "PMID": "32001614",
+                "answer": "CONCLUSIONS: Intensive glycemic management is recommended to lower the risk of initial CVD events in T1D.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32001614",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 242,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What type of acupuncture has significant effects on DPN?",
+        "answer": [
+            {
+                "PMID": "33150711",
+                "answer": "CONCLUSIONS: Classical needle acupuncture had significant effects on DPN.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "33150711",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 244,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What type of intervention can decrease the symptoms and severity of diabetic peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "32306762",
+                "answer": "CONCLUSION: Delivering a supportive-educational intervention based on the Orem self-care model on outpatient diabetes clinic can decrease the symptoms and severity of diabetic peripheral neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32306762",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 246,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What reduces pulmonary microvascular permeability?",
+        "answer": [
+            {
+                "PMID": "32957394",
+                "answer": "Diabetes mellitus results in an attenuated inflammatory response, reduces pulmonary microvascular permeability, and may decrease the risk of developing acute respiratory distress syndrome (ARDS).",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32957394",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 247,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is the risk of unrecognized MI?",
+        "answer": [
+            {
+                "PMID": "31010876",
+                "answer": "CONCLUSIONS: Unrecognized MI is prevalent in asymptomatic patients with diabetes without a history of cardiac disease and confers a markedly increased risk of death and clinical MI.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "31010876",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 252,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What type of diabetes is associated with high risk of atherosclerotic cardiovascular disease?",
+        "answer": [
+            {
+                "PMID": "31798892",
+                "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "31798892",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 254,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What are differential diagnoses of diabetes insipidus?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 257,
+        "id2": 1,
+        "category": "tbd"
+    },
+    {
+        "question": " What is the most reliable method of measuring copeptin?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "The most reliable approaches are copeptin measurements after hypertonic saline infusion or arginine, which is a known growth hormone secretagogue but has recently also been shown to stimulate the neurohypophysis.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 258,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is glucagon similar to?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "Similar to arginine, glucagon stimulates growth hormone release, but its effect on the neurohypophysis is poorly studied.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 259,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is an alpha-glucosidase inhibitor?",
+        "answer": [
+            {
+                "PMID": "9893692",
+                "answer": "RECENT DRUGS: Acarbose, an alpha-glucosidase inhibitor, lowers post-prandial blood glucose level.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "9893692",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 265,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What lowers post-prandial blood glucose level?",
+        "answer": [
+            {
+                "PMID": "9893692",
+                "answer": "RECENT DRUGS: Acarbose, an alpha-glucosidase inhibitor, lowers post-prandial blood glucose level.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "9893692",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 266,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is Orliatort?",
+        "answer": [
+            {
+                "PMID": "9893692",
+                "answer": "Orliatort, an gastro-intestinal lipase inhibitor, is indicated in obese patients but long-term results are lacking to evaluate effects in diabetics.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "9893692",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 267,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is the current standard of care for diabetic retinopathy?",
+        "answer": [
+            {
+                "PMID": "8981711",
+                "answer": "The current standard of care is to initiate scatter photocoagulation as the severity of retinopathy approaches or reaches the high-risk stage, Provided careful follow-up is possible, ETDRS data do not show that initiating scatter photocoagulation prior to the development of high-risk proliferative diabetic retinopathy in patients with type I diabetes will reduce the risk of severe visual loss.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8981711",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 269,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is reduced by premeal insulin in children with type 1 diabetes?",
+        "answer": [
+            {
+                "PMID": "27174580",
+                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "27174580",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 271,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is the cardiometabolic profile of diabetes?",
+        "answer": [
+            {
+                "PMID": "28040315",
+                "answer": "CONCLUSIONS: The cardiometabolic profile of diabetes includes retinopathy, peripheral arterial disease, comorbidity of hypertension and cardiovascular risk factors.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "28040315",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 272,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What are known risk factors for diabetes complications?",
+        "answer": [
+            {
+                "PMID": "23882708",
+                "answer": "In multivariate analyses log(SIF) was significantly associated with mean HbA1c, age,estimated glomerular filtration rate < 60mL/min/m2, smoking status, skin tone, and clinic latitude <37 N. CONCLUSIONS: SIF reflects age, mean HbA1c over time, smoking, and renal damage, which are known risk factors for diabetes complications.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "23882708",
+        "source_model": "t5-base-e2e-qg (default)",
+        "id1": 275,
+        "id2": 0,
+        "category": "tbd"
+    },
+    {
+        "question": " What is peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "29606547",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 277,
+        "id2": 0
+    },
+    {
+        "question": " What can aerobic exercise training help with NCV?",
+        "answer": [
+            {
+                "PMID": "29606547",
+                "answer": "CONCLUSION: Aerobic exercise training may have the potential to hinder the progression of diabetic PN by improving NCV.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "29606547",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 278,
+        "id2": 1
+    },
+    {
+        "question": " Does lower extremity ulceration increase the risk of severe retinopathy in type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "CONCLUSIONS: Lower-extremity ulceration or amputation, and peripheral revascularization both increased the risks of death and cardiovascular events, but only lower-extremity ulceration or amputation increased the risk of severe retinopathy in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "27590190",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 279,
+        "id2": 1
+    },
+    {
+        "question": "Is insulin used to treat early worsening of DR?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "Guidance regarding the early worsening of DR is recommended with insulin.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "29178519",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 281,
+        "id2": 1
+    },
+    {
+        "question": " What is recommended for semaglutide?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "Similar recommendations may be appropriate for semaglutide.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "source_PMID": "29178519",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 282,
+        "id2": 1
+    },
+    {
+        "question": " What is the risk of heart failure for diabetes mellitus patients?",
+        "answer": [
+            {
+                "PMID": "34372849",
+                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "source_PMID": "34372849",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 283,
+        "id2": 0
+    },
+    {
+        "question": " What is staged diabetes management?",
+        "answer": [
+            {
+                "PMID": "7711992",
+                "answer": "These questions are addressed through the introduction of staged diabetes management (SDM), an innovative approach to the treatment of diabetes and the prevention of its complications.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "source_PMID": "7711992",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 286,
+        "id2": 1
+    },
+    {
+        "question": " What is the purpose of SDM?",
+        "answer": [
+            {
+                "PMID": "7711992",
+                "answer": "SDM is designed as a data-based systematic approach to diabetes treatment that targets blood glucose control.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "7711992",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 287,
+        "id2": 0
+    },
+    {
+        "question": " Are patients treated to prevent hyperglycaemia?",
+        "answer": [
+            {
+                "PMID": "8529508",
+                "answer": "At present, patients are often treated to prevent marked hyperglycaemia, that induces symptoms such as thirst.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8529508",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 289,
+        "id2": 0
+    },
+    {
+        "question": " How is glycaemic control measured?",
+        "answer": [
+            {
+                "PMID": "29603547",
+                "answer": "Optimal glycaemic control is fundamental and is traditionally monitored with self-measured glucose profiles and periodic HbA1c measurements.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "29603547",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 293,
+        "id2": 0
+    },
+    {
+        "question": " Does intermittent retrospective CGM reduce the risk of macrosomia?",
+        "answer": [
+            {
+                "PMID": "29603547",
+                "answer": "CONCLUSIONS: In diabetic pregnancy, use of intermittent retrospective CGM did not reduce the risk of macrosomia.",
+                "UMLS_category": "tbd",
+                "quality": "tbd"
+            }
+        ],
+        "source_PMID": "29603547",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 294,
+        "id2": 1
+    },
+    {
+        "question": " Does CGM improve pregnancy outcomes?",
+        "answer": [
+            {
+                "PMID": "29603547",
+                "answer": "CGM provides detailed information concerning glycaemic fluctuations but, as a treatment strategy, does not translate into improved pregnancy outcome.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "29603547",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 295,
+        "id2": 0
+    },
+    {
+        "question": " Does a single DKA episode cause memory declines?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "CONCLUSIONS: A single DKA episode is associated with subtle memory declines soon after type 1 diabetes diagnosis.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32962981",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 296,
+        "id2": 0
+    },
+    {
+        "question": " What can be done to reduce the severity of diabetic peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "32306762",
+                "answer": "CONCLUSION: Delivering a supportive-educational intervention based on the Orem self-care model on outpatient diabetes clinic can decrease the symptoms and severity of diabetic peripheral neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32306762",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 298,
+        "id2": 0
+    },
+    {
+        "question": " Does diabetes mellitus increase or decrease the risk of developing ARDS?",
+        "answer": [
+            {
+                "PMID": "32957394",
+                "answer": "Diabetes mellitus results in an attenuated inflammatory response, reduces pulmonary microvascular permeability, and may decrease the risk of developing acute respiratory distress syndrome (ARDS).",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32957394",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 299,
+        "id2": 0
+    },
+    {
+        "question": " Are conservative fluid management strategies better for patients with ARDS?",
+        "answer": [
+            {
+                "PMID": "32957394",
+                "answer": "Studies have shown that patients with ARDS are better managed by a conservative as compared to liberal fluid management strategy.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "32957394",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 300,
+        "id2": 0
+    },
+    {
+        "question": " What is the cause of blood pressure and microalbuminuria?",
+        "answer": [
+            {
+                "PMID": "32501612",
+                "answer": "CONCLUSION: Concentrations of cellular adhesion molecules rise with increasing HbA1c in youth with T2DM, and are associated with blood pressure and microalbuminuria, markers of vascular injury.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "32501612",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 302,
+        "id2": 0
+    },
+    {
+        "question": " What does DPN stand for?",
+        "answer": [
+            {
+                "PMID": "31899340",
+                "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "31899340",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 306,
+        "id2": 0
+    },
+    {
+        "question": " What does Type 2 diabetes mellitus do?",
+        "answer": [
+            {
+                "PMID": "31798892",
+                "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "source_PMID": "31798892",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 308,
+        "id2": 0
+    },
+    {
+        "question": " How does glucagon affect neurohypophysis?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "Similar to arginine, glucagon stimulates growth hormone release, but its effect on the neurohypophysis is poorly studied.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 310,
+        "id2": 0
+    },
+    {
+        "question": " Does glucagon stimulate the neurohypophysis?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "CONCLUSION: Glucagon stimulates the neurohypophysis, and glucagon-stimulated copeptin has the potential for a safe, novel, and precise test in the differential diagnosis of diabetes insipidus.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "35521789",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 311,
+        "id2": 0
+    },
+    {
+        "question": " Is early photocoagulation beneficial for diabetics?",
+        "answer": [
+            {
+                "PMID": "8981711",
+                "answer": "The relative benefit of early photocoagulation in patients with type II diabetes is also seen for other outcomes (development of high-risk proliferative retinopathy, development of the combined end point [severe visual loss or vitrectomy], development of moderate visual loss, or development of legal blindness).",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8981711",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 317,
+        "id2": 0
+    },
+    {
+        "question": " Is higher insulin dose associated with lower menopause risk?",
+        "answer": [
+            {
+                "PMID": "24170751",
+                "answer": "Greater insulin dose was associated with lower menopause risk.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "24170751",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 319,
+        "id2": 0
+    },
+    {
+        "question": " Does intensive therapy slow the progression of diabetic retinopathy?",
+        "answer": [
+            {
+                "PMID": "8040759",
+                "answer": "We conclude that intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy and nephropathy when initiated in adolescent subjects; the benefits outweigh the increased risk of hypoglycemia that accompanies such treatment.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "source_PMID": "8040759",
+        "source_model": "t5-base-finetuned-question-generation-ap",
+        "id1": 321,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control IDDM?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "IDDM",
+        "source_PMID": "7598463",
+        "id1": 324,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 325,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control microvascular disease?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "microvascular disease",
+        "source_PMID": "9742977",
+        "id1": 326,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control diabetic kidney disease?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic kidney disease",
+        "source_PMID": "32891604",
+        "id1": 327,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control Nephrogenic Diabetes Insipidus?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "Nephrogenic Diabetes Insipidus",
+        "source_PMID": "30012135",
+        "id1": 328,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control lithium-induced NDI?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "lithium-induced NDI",
+        "source_PMID": "30012135",
+        "id1": 329,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control diabetic foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic foot",
+        "source_PMID": "31295292",
+        "id1": 330,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control plantar ulcer recurrence?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "plantar ulcer recurrence",
+        "source_PMID": "31295292",
+        "id1": 331,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control Peripheral arterial disease?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "Peripheral arterial disease",
+        "source_PMID": "27590190",
+        "id1": 332,
+        "id2": 0
+    },
+    {
+        "question": "What are the possible measures to control type 1 diabetes?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "27174580",
+                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "type 1 diabetes",
+        "source_PMID": "32962981",
+        "id1": 333,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 334,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control diabetic kidney disease?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic kidney disease",
+        "source_PMID": "32891604",
+        "id1": 335,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control Nephrogenic Diabetes Insipidus?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "Nephrogenic Diabetes Insipidus",
+        "source_PMID": "30012135",
+        "id1": 336,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control plantar ulcer recurrence?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "plantar ulcer recurrence",
+        "source_PMID": "31295292",
+        "id1": 337,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control insulin-dependent diabetes mellitus?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "insulin-dependent diabetes mellitus",
+        "source_PMID": "7598463",
+        "id1": 338,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control type 1 diabetes?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "27174580",
+                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "type 1 diabetes",
+        "source_PMID": "32962981",
+        "id1": 339,
+        "id2": 0
+    },
+    {
+        "question": "What is the best way to treat or control diabetes type 2?",
+        "answer": [
+            {
+                "PMID": "31336474",
+                "answer": "CONCLUSION: The findings indicate that educational intervention based on short message service (SMS), resulting in improve foot care knowledge, foot care practices and metabolic control in patients with diabetes type 2.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "diabetes type 2",
+        "source_PMID": "31336474",
+        "id1": 340,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat type 2 diabetes safely?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 341,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat diabetes safely?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
+                "UMLS_category": "tbd",
+                "quality": 3
+            },
+            {
+                "PMID": "27174580",
+                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "diabetes",
+        "source_PMID": "9742977",
+        "id1": 342,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat diabetic kidney disease safely?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic kidney disease",
+        "source_PMID": "32891604",
+        "id1": 343,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat Nephrogenic Diabetes Insipidus safely?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "30012135",
+                "sentence": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "Nephrogenic Diabetes Insipidus",
+        "source_PMID": "30012135",
+        "id1": 344,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat diabetic foot safely?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "diabetic foot",
+        "source_PMID": "31295292",
+        "id1": 345,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat plantar ulcers safely?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "plantar ulcers",
+        "source_PMID": "31295292",
+        "id1": 346,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat diabetes mellitus safely?",
+        "answer": [
+            {
+                "PMID": "32321301",
+                "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "9893692",
+                "sentence": "This multi-center, prospective, randomized, intervention trial of 5102 newly-diagnosed patients with type 2 diabetes mellitus was aimed at determining whether improved blood glucose control can prevent complications and reduce associated morbidity and mortality.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetes mellitus",
+        "source_PMID": "32321301",
+        "id1": 347,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat DPN safely?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "31899340",
+                "sentence": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "DPN",
+        "source_PMID": "34889293",
+        "id1": 348,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat Peripheral arterial disease safely?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "Peripheral arterial disease",
+        "source_PMID": "27590190",
+        "id1": 349,
+        "id2": 0
+    },
+    {
+        "question": "How do I treat type 2 diabetes mellitus safely?",
+        "answer": [
+            {
+                "PMID": "32430457",
+                "answer": "OBJECTIVE: Tight, targeted control of modifiable cardiovascular risk factors can reduce cardiovascular complications and mortality in individuals with type 2 diabetes mellitus (T2DM) and microalbuminuria.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "type 2 diabetes mellitus",
+        "source_PMID": "32430457",
+        "id1": 350,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 351,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for diabetic foot ulcers?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "diabetic foot ulcer",
+        "source_PMID": "31295292",
+        "id1": 352,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for insulin-dependent diabetes mellitus?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "insulin-dependent diabetes mellitus",
+        "source_PMID": "7598463",
+        "id1": 353,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for plantar ulcer recurrence?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "plantar ulcer recurrence",
+        "source_PMID": "31295292",
+        "id1": 354,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for diabetic foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic foot",
+        "source_PMID": "31295292",
+        "id1": 355,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for DPN?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "34889293",
+                "sentence": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            },
+            {
+                "PMID": "33150711",
+                "sentence": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "DPN",
+        "source_PMID": "34889293",
+        "id1": 356,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for non-insulin-dependent diabetes mellitus?",
+        "answer": [
+            {
+                "PMID": "7587918",
+                "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "non-insulin-dependent diabetes mellitus",
+        "source_PMID": "7587918",
+        "id1": 357,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for lithium-induced NDI?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "lithium-induced NDI",
+        "source_PMID": "30012135",
+        "id1": 358,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for PN?",
+        "answer": [
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "29606547",
+                "sentence": "CONCLUSION: Aerobic exercise training may have the potential to hinder the progression of diabetic PN by improving NCV.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "PN",
+        "source_PMID": "29606547",
+        "id1": 359,
+        "id2": 0
+    },
+    {
+        "question": "What are some treatments for type 1 diabetes?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "27174580",
+                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "type 1 diabetes",
+        "source_PMID": "32962981",
+        "id1": 360,
+        "id2": 0
+    },
+    {
+        "question": "Does intensive blood-glucose control help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "intensive blood-glucose control",
+        "source_PMID": "9742977",
+        "id1": 361,
+        "id2": 0
+    },
+    {
+        "question": "Does insulin help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "insulin",
+        "source_PMID": "9742977",
+        "id1": 362,
+        "id2": 0
+    },
+    {
+        "question": "Does metformin help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "metformin",
+        "source_PMID": "9742977",
+        "id1": 363,
+        "id2": 0
+    },
+    {
+        "question": "Does intensive treatment help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "intensive treatment",
+        "source_PMID": "7598463",
+        "id1": 364,
+        "id2": 0
+    },
+    {
+        "question": "Do statins help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "statins",
+        "source_PMID": "30012135",
+        "id1": 365,
+        "id2": 0
+    },
+    {
+        "question": "Does resistance-aerobic training help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "32215272",
+                "sentence": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "resistance-aerobic training",
+        "source_PMID": "32215272",
+        "id1": 366,
+        "id2": 0
+    },
+    {
+        "question": "Does Therapeutic footwear help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "Therapeutic footwear",
+        "source_PMID": "31295292",
+        "id1": 367,
+        "id2": 0
+    },
+    {
+        "question": "Do a rigid rocker soles help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "a rigid rocker sole",
+        "source_PMID": "31295292",
+        "id1": 368,
+        "id2": 0
+    },
+    {
+        "question": "Does semaglutide help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "semaglutide",
+        "source_PMID": "29178519",
+        "id1": 369,
+        "id2": 0
+    },
+    {
+        "question": "Does Acupuncture help diabetes patients? Why?",
+        "answer": [
+            {
+                "PMID": "33150711",
+                "answer": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "Acupuncture",
+        "source_PMID": "33150711",
+        "id1": 370,
+        "id2": 0
+    },
+    {
+        "question": "How to manage type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            },
+            {
+                "PMID": "8981711",
+                "answer": "'CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.'",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 371,
+        "id2": 0
+    },
+    {
+        "question": "How to manage microvascular disease?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            },
+            {
+                "PMID": "8529508",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) in insulin-dependent diabetic subjects with a mean age of 27 years has indicated that intensive therapy to achieve a haemoglobin A1c level of 7.1%, compared with 9.0% in a 'standard control group', will retard the progress of diabetic microvascular disease.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "microvascular disease",
+        "source_PMID": "9742977",
+        "id1": 372,
+        "id2": 0
+    },
+    {
+        "question": "How to manage plantar ulcer recurrence?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "plantar ulcer recurrence",
+        "source_PMID": "31295292",
+        "id1": 373,
+        "id2": 0
+    },
+    {
+        "question": "How to manage lithium-induced NDI?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "lithium-induced NDI",
+        "source_PMID": "30012135",
+        "id1": 374,
+        "id2": 0
+    },
+    {
+        "question": "How to manage Nephrogenic Diabetes Insipidus?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "30012135",
+                "sentence": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "Nephrogenic Diabetes Insipidus",
+        "source_PMID": "30012135",
+        "id1": 375,
+        "id2": 0
+    },
+    {
+        "question": "How to manage diabetic kidney disease?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            },
+            {
+                "PMID": "32891604",
+                "sentence": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "diabetic kidney disease",
+        "source_PMID": "32891604",
+        "id1": 376,
+        "id2": 0
+    },
+    {
+        "question": "How to manage NIDDM?",
+        "answer": [
+            {
+                "PMID": "7587918",
+                "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            },
+            {
+                "PMID": "7587918",
+                "sentence": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "NIDDM",
+        "source_PMID": "7587918",
+        "id1": 377,
+        "id2": 0
+    },
+    {
+        "question": "How to manage IDDM?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "IDDM",
+        "source_PMID": "7598463",
+        "id1": 378,
+        "id2": 0
+    },
+    {
+        "question": "How to manage diabetic foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "diabetic foot",
+        "source_PMID": "31295292",
+        "id1": 379,
+        "id2": 0
+    },
+    {
+        "question": "How to manage diabetic nephropathy?",
+        "answer": [
+            {
+                "PMID": "2194280",
+                "answer": "The purpose of this study was to measure components of the renin angiotensin system in patients with type 1 diabetes mellitus, with and without nephropathy, to study the renal sensitivity to angiotensin II in uncomplicated type 1 diabetes and to investigate the short and long-term renal effects of angiotensin II reduction with angiotensin converting enzyme inhibitors in patients with diabetic nephropathy.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic nephropathy",
+        "source_PMID": "2194280",
+        "id1": 380,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause microvascular disease?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "microvascular disease",
+        "source_PMID": "9742977",
+        "id1": 381,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause heart attacks?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "heart attacks",
+        "source_PMID": "9742977",
+        "id1": 382,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause muscle strength decrease?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "muscle strength decrease",
+        "source_PMID": "32215272",
+        "id1": 383,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause Peripheral arterial disease?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "Peripheral arterial disease",
+        "source_PMID": "27590190",
+        "id1": 384,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause hyperglycemia?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "Sizable IQ declines are detectable in children with known diabetes, suggesting that DKA effects may be exacerbated in children with chronic exposure to hyperglycemia.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "hyperglycemia",
+        "source_PMID": "32962981",
+        "id1": 385,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause hypoglycemia?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "Among previously diagnosed patients, repeated DKA exposure and higher HbA(1c) were independently associated with lower IQ (\u03b2 = -0.10 and \u03b2 = -0.09, respectively, P < 0.01) and higher HbA(1c) was associated with lower item-color recall (\u03b2 = -0.10, P = 0.007) after hypoglycemia, diabetes duration, and socioeconomic status were accounted for.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "hypoglycemia",
+        "source_PMID": "32962981",
+        "id1": 386,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause hypertension?",
+        "answer": [
+            {
+                "PMID": "28040315",
+                "answer": "CONCLUSIONS: The cardiometabolic profile of diabetes includes retinopathy, peripheral arterial disease, comorbidity of hypertension and cardiovascular risk factors.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "hypertension",
+        "source_PMID": "28040315",
+        "id1": 387,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause nerve damage?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "nerve damage",
+        "source_PMID": "32215272",
+        "id1": 388,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "peripheral neuropathy",
+        "source_PMID": "34889293",
+        "id1": 389,
+        "id2": 0
+    },
+    {
+        "question": "Does diabetes cause kidney disease?",
+        "answer": [
+            {
+                "PMID": "32621644",
+                "answer": "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "kidney disease",
+        "source_PMID": "32621644",
+        "id1": 390,
+        "id2": 0
+    },
+    {
+        "question": "What causes Nephrogenic Diabetes Insipidus?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "Nephrogenic Diabetes Insipidus",
+        "source_PMID": "30012135",
+        "id1": 391,
+        "id2": 0
+    },
+    {
+        "question": "What causes diabetic kidney disease?",
+        "answer": [
+            {
+                "PMID": "32891604",
+                "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "diabetic kidney disease",
+        "source_PMID": "32891604",
+        "id1": 392,
+        "id2": 0
+    },
+    {
+        "question": "What causes diabetic foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "34889293",
+                "sentence": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "diabetic foot",
+        "source_PMID": "31295292",
+        "id1": 393,
+        "id2": 0
+    },
+    {
+        "question": "What causes diabetic foot ulceration?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "diabetic foot ulceration",
+        "source_PMID": "34889293",
+        "id1": 394,
+        "id2": 0
+    },
+    {
+        "question": "What causes hypoglycemia?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "Among previously diagnosed patients, repeated DKA exposure and higher HbA(1c) were independently associated with lower IQ (\u03b2 = -0.10 and \u03b2 = -0.09, respectively, P < 0.01) and higher HbA(1c) was associated with lower item-color recall (\u03b2 = -0.10, P = 0.007) after hypoglycemia, diabetes duration, and socioeconomic status were accounted for.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "hypoglycemia",
+        "source_PMID": "32962981",
+        "id1": 395,
+        "id2": 0
+    },
+    {
+        "question": "What causes hyperglycemia?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "Sizable IQ declines are detectable in children with known diabetes, suggesting that DKA effects may be exacerbated in children with chronic exposure to hyperglycemia.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "hyperglycemia",
+        "source_PMID": "32962981",
+        "id1": 396,
+        "id2": 0
+    },
+    {
+        "question": "What causes peripheral neuropathy?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "peripheral neuropathy",
+        "source_PMID": "34889293",
+        "id1": 397,
+        "id2": 0
+    },
+    {
+        "question": "What causes type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 398,
+        "id2": 0
+    },
+    {
+        "question": "What causes Peripheral arterial disease?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "Peripheral arterial disease",
+        "source_PMID": "27590190",
+        "id1": 399,
+        "id2": 0
+    },
+    {
+        "question": "What causes diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
+                "UMLS_category": "tbd",
+                "quality": 5
+            }
+        ],
+        "NP": "diabetes",
+        "source_PMID": "9742977",
+        "id1": 400,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of type 2 diabetes?",
+        "answer": [
+            {
+                "PMID": "9742977",
+                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            },
+            {
+                "PMID": "31798892",
+                "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "type 2 diabetes",
+        "source_PMID": "9742977",
+        "id1": 401,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of Nephrogenic Diabetes Insipidus?",
+        "answer": [
+            {
+                "PMID": "30012135",
+                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "Nephrogenic Diabetes Insipidus",
+        "source_PMID": "30012135",
+        "id1": 402,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of Peripheral arterial disease?",
+        "answer": [
+            {
+                "PMID": "27590190",
+                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "Peripheral arterial disease",
+        "source_PMID": "27590190",
+        "id1": 403,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of T2D?",
+        "answer": [
+            {
+                "PMID": "31798892",
+                "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "T2D",
+        "source_PMID": "31798892",
+        "id1": 404,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of type 1 diabetes?",
+        "answer": [
+            {
+                "PMID": "32962981",
+                "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "23882708",
+                "sentence": "BACKGROUND: The Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications(EDIC) studies have established multiyear mean hemoglobin A1c (HbA1c) as predictive of microvascular complications in persons with type 1 diabetes.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "type 1 diabetes",
+        "source_PMID": "32962981",
+        "id1": 405,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of diabetic pregnancy?",
+        "answer": [
+            {
+                "PMID": "29603547",
+                "answer": "CONCLUSIONS: In diabetic pregnancy, use of intermittent retrospective CGM did not reduce the risk of macrosomia.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "diabetic pregnancy",
+        "source_PMID": "29603547",
+        "id1": 406,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of type 2 diabetes mellitus?",
+        "answer": [
+            {
+                "PMID": "32430457",
+                "answer": "OBJECTIVE: Tight, targeted control of modifiable cardiovascular risk factors can reduce cardiovascular complications and mortality in individuals with type 2 diabetes mellitus (T2DM) and microalbuminuria.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            },
+            {
+                "PMID": "31798892",
+                "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "type 2 diabetes mellitus",
+        "source_PMID": "32430457",
+        "id1": 407,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of diabetic foot?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "34889293",
+                "sentence": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "diabetic foot",
+        "source_PMID": "31295292",
+        "id1": 408,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of diabetes type 2?",
+        "answer": [
+            {
+                "PMID": "31336474",
+                "answer": "CONCLUSION: The findings indicate that educational intervention based on short message service (SMS), resulting in improve foot care knowledge, foot care practices and metabolic control in patients with diabetes type 2.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "31798892",
+                "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "diabetes type 2",
+        "source_PMID": "31336474",
+        "id1": 409,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of diabetic foot ulceration?",
+        "answer": [
+            {
+                "PMID": "34889293",
+                "sentence": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "diabetic foot ulceration",
+        "source_PMID": "31295292",
+        "id1": 410,
+        "id2": 0
+    },
+    {
+        "question": "What are the risks of DM?",
+        "answer": [
+            {
+                "PMID": "34372849",
+                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
+                "UMLS_category": "tbd",
+                "quality": 2
+            }
+        ],
+        "NP": "DM",
+        "source_PMID": "34372849",
+        "id1": 411,
+        "id2": 0
+    },
+    {
+        "question": "What causes muscle strength decrease in people with diabetes?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "muscle strength decrease",
+        "source_PMID": "32215272",
+        "id1": 412,
+        "id2": 0
+    },
+    {
+        "question": "What causes nerve damage in people with diabetes?",
+        "answer": [
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "UMLS_category": "tbd",
+                "quality": 1
+            }
+        ],
+        "NP": "nerve damage",
+        "source_PMID": "32215272",
+        "id1": 413,
+        "id2": 0
+    },
+    {
+        "question": "What causes vision loss in people with diabetes?",
+        "answer": [
+            {
+                "PMID": "8981711",
+                "answer": "RESULTS: Previously published results of the Early Treatment Diabetic Retinopathy Study (ETDRS) demonstrated a statistically significant benefit of early photocoagulation in preventing severe vision loss.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "severe vision loss",
+        "source_PMID": "8981711",
+        "id1": 414,
+        "id2": 0
+    },
+    {
+        "question": "What causes hypertension in people with diabetes?",
+        "answer": [
+            {
+                "PMID": "28040315",
+                "answer": "CONCLUSIONS: The cardiometabolic profile of diabetes includes retinopathy, peripheral arterial disease, comorbidity of hypertension and cardiovascular risk factors.",
+                "UMLS_category": "tbd",
+                "quality": 5
+            },
+            {
+                "PMID": "32501612",
+                "sentence": "Given that binding of mononuclear cells to vascular endothelium, initiated by cellular adhesion molecules and chemokines, is an early step in vascular injury, we sought to evaluate (a) changes in cellular adhesion molecule levels during the trial; (b) effect of diabetes treatment; and (c) association of markers with HbA1c, hypertension, hypercholesterolemia, nephropathy, and retinopathy.",
+                "UMLS_category": "tbd",
+                "quality": 4
+            }
+        ],
+        "NP": "hypertension",
+        "source_PMID": "28040315",
+        "id1": 415,
+        "id2": 0
+    },
+    {
+        "question": "What causes vascular injury in people with diabetes?",
+        "answer": [
+            {
+                "PMID": "32501612",
+                "answer": "Given that binding of mononuclear cells to vascular endothelium, initiated by cellular adhesion molecules and chemokines, is an early step in vascular injury, we sought to evaluate (a) changes in cellular adhesion molecule levels during the trial; (b) effect of diabetes treatment; and (c) association of markers with HbA1c, hypertension, hypercholesterolemia, nephropathy, and retinopathy.",
+                "UMLS_category": "tbd",
+                "quality": 3
+            }
+        ],
+        "NP": "vascular injury",
+        "source_PMID": "32501612",
+        "id1": 416,
+        "id2": 0
+    }
+]
