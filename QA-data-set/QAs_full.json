@@ -1873,7 +1873,8 @@
         "NP": "IDDM",
         "source_PMID": "7598463",
         "id1": 324,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control type 2 diabetes?",
@@ -1888,7 +1889,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 325,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control microvascular disease?",
@@ -1903,7 +1905,8 @@
         "NP": "microvascular disease",
         "source_PMID": "9742977",
         "id1": 326,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control diabetic kidney disease?",
@@ -1918,7 +1921,8 @@
         "NP": "diabetic kidney disease",
         "source_PMID": "32891604",
         "id1": 327,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control Nephrogenic Diabetes Insipidus?",
@@ -1933,7 +1937,8 @@
         "NP": "Nephrogenic Diabetes Insipidus",
         "source_PMID": "30012135",
         "id1": 328,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control lithium-induced NDI?",
@@ -1948,7 +1953,8 @@
         "NP": "lithium-induced NDI",
         "source_PMID": "30012135",
         "id1": 329,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control diabetic foot?",
@@ -1963,7 +1969,8 @@
         "NP": "diabetic foot",
         "source_PMID": "31295292",
         "id1": 330,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control plantar ulcer recurrence?",
@@ -1978,7 +1985,8 @@
         "NP": "plantar ulcer recurrence",
         "source_PMID": "31295292",
         "id1": 331,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control Peripheral arterial disease?",
@@ -1993,7 +2001,8 @@
         "NP": "Peripheral arterial disease",
         "source_PMID": "27590190",
         "id1": 332,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the possible measures to control type 1 diabetes?",
@@ -2014,7 +2023,8 @@
         "NP": "type 1 diabetes",
         "source_PMID": "32962981",
         "id1": 333,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control type 2 diabetes?",
@@ -2029,7 +2039,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 334,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control diabetic kidney disease?",
@@ -2044,7 +2055,8 @@
         "NP": "diabetic kidney disease",
         "source_PMID": "32891604",
         "id1": 335,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control Nephrogenic Diabetes Insipidus?",
@@ -2059,7 +2071,8 @@
         "NP": "Nephrogenic Diabetes Insipidus",
         "source_PMID": "30012135",
         "id1": 336,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control plantar ulcer recurrence?",
@@ -2074,7 +2087,8 @@
         "NP": "plantar ulcer recurrence",
         "source_PMID": "31295292",
         "id1": 337,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control insulin-dependent diabetes mellitus?",
@@ -2089,7 +2103,8 @@
         "NP": "insulin-dependent diabetes mellitus",
         "source_PMID": "7598463",
         "id1": 338,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control type 1 diabetes?",
@@ -2110,7 +2125,8 @@
         "NP": "type 1 diabetes",
         "source_PMID": "32962981",
         "id1": 339,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What is the best way to treat or control diabetes type 2?",
@@ -2125,7 +2141,8 @@
         "NP": "diabetes type 2",
         "source_PMID": "31336474",
         "id1": 340,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat type 2 diabetes safely?",
@@ -2140,7 +2157,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 341,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat diabetes safely?",
@@ -2161,7 +2179,8 @@
         "NP": "diabetes",
         "source_PMID": "9742977",
         "id1": 342,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat diabetic kidney disease safely?",
@@ -2176,7 +2195,8 @@
         "NP": "diabetic kidney disease",
         "source_PMID": "32891604",
         "id1": 343,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat Nephrogenic Diabetes Insipidus safely?",
@@ -2197,7 +2217,8 @@
         "NP": "Nephrogenic Diabetes Insipidus",
         "source_PMID": "30012135",
         "id1": 344,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat diabetic foot safely?",
@@ -2212,7 +2233,8 @@
         "NP": "diabetic foot",
         "source_PMID": "31295292",
         "id1": 345,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat plantar ulcers safely?",
@@ -2227,7 +2249,8 @@
         "NP": "plantar ulcers",
         "source_PMID": "31295292",
         "id1": 346,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat diabetes mellitus safely?",
@@ -2248,7 +2271,8 @@
         "NP": "diabetes mellitus",
         "source_PMID": "32321301",
         "id1": 347,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat DPN safely?",
@@ -2269,7 +2293,8 @@
         "NP": "DPN",
         "source_PMID": "34889293",
         "id1": 348,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat Peripheral arterial disease safely?",
@@ -2284,7 +2309,8 @@
         "NP": "Peripheral arterial disease",
         "source_PMID": "27590190",
         "id1": 349,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How do I treat type 2 diabetes mellitus safely?",
@@ -2299,7 +2325,8 @@
         "NP": "type 2 diabetes mellitus",
         "source_PMID": "32430457",
         "id1": 350,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for type 2 diabetes?",
@@ -2314,7 +2341,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 351,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for diabetic foot ulcers?",
@@ -2329,7 +2357,8 @@
         "NP": "diabetic foot ulcer",
         "source_PMID": "31295292",
         "id1": 352,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for insulin-dependent diabetes mellitus?",
@@ -2344,7 +2373,8 @@
         "NP": "insulin-dependent diabetes mellitus",
         "source_PMID": "7598463",
         "id1": 353,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for plantar ulcer recurrence?",
@@ -2359,7 +2389,8 @@
         "NP": "plantar ulcer recurrence",
         "source_PMID": "31295292",
         "id1": 354,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for diabetic foot?",
@@ -2374,7 +2405,8 @@
         "NP": "diabetic foot",
         "source_PMID": "31295292",
         "id1": 355,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for DPN?",
@@ -2401,7 +2433,8 @@
         "NP": "DPN",
         "source_PMID": "34889293",
         "id1": 356,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for non-insulin-dependent diabetes mellitus?",
@@ -2416,7 +2449,8 @@
         "NP": "non-insulin-dependent diabetes mellitus",
         "source_PMID": "7587918",
         "id1": 357,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for lithium-induced NDI?",
@@ -2431,7 +2465,8 @@
         "NP": "lithium-induced NDI",
         "source_PMID": "30012135",
         "id1": 358,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for PN?",
@@ -2452,7 +2487,8 @@
         "NP": "PN",
         "source_PMID": "29606547",
         "id1": 359,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are some treatments for type 1 diabetes?",
@@ -2473,7 +2509,8 @@
         "NP": "type 1 diabetes",
         "source_PMID": "32962981",
         "id1": 360,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does intensive blood-glucose control help diabetes patients? Why?",
@@ -2488,7 +2525,8 @@
         "NP": "intensive blood-glucose control",
         "source_PMID": "9742977",
         "id1": 361,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does insulin help diabetes patients? Why?",
@@ -2503,7 +2541,8 @@
         "NP": "insulin",
         "source_PMID": "9742977",
         "id1": 362,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does metformin help diabetes patients? Why?",
@@ -2518,7 +2557,8 @@
         "NP": "metformin",
         "source_PMID": "9742977",
         "id1": 363,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does intensive treatment help diabetes patients? Why?",
@@ -2533,7 +2573,8 @@
         "NP": "intensive treatment",
         "source_PMID": "7598463",
         "id1": 364,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Do statins help diabetes patients? Why?",
@@ -2548,7 +2589,8 @@
         "NP": "statins",
         "source_PMID": "30012135",
         "id1": 365,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does resistance-aerobic training help diabetes patients? Why?",
@@ -2569,7 +2611,8 @@
         "NP": "resistance-aerobic training",
         "source_PMID": "32215272",
         "id1": 366,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does Therapeutic footwear help diabetes patients? Why?",
@@ -2584,7 +2627,8 @@
         "NP": "Therapeutic footwear",
         "source_PMID": "31295292",
         "id1": 367,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Do a rigid rocker soles help diabetes patients? Why?",
@@ -2599,7 +2643,8 @@
         "NP": "a rigid rocker sole",
         "source_PMID": "31295292",
         "id1": 368,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does semaglutide help diabetes patients? Why?",
@@ -2614,7 +2659,8 @@
         "NP": "semaglutide",
         "source_PMID": "29178519",
         "id1": 369,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does Acupuncture help diabetes patients? Why?",
@@ -2629,7 +2675,8 @@
         "NP": "Acupuncture",
         "source_PMID": "33150711",
         "id1": 370,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage type 2 diabetes?",
@@ -2650,7 +2697,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 371,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage microvascular disease?",
@@ -2671,7 +2719,8 @@
         "NP": "microvascular disease",
         "source_PMID": "9742977",
         "id1": 372,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage plantar ulcer recurrence?",
@@ -2686,7 +2735,8 @@
         "NP": "plantar ulcer recurrence",
         "source_PMID": "31295292",
         "id1": 373,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage lithium-induced NDI?",
@@ -2701,7 +2751,8 @@
         "NP": "lithium-induced NDI",
         "source_PMID": "30012135",
         "id1": 374,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage Nephrogenic Diabetes Insipidus?",
@@ -2722,7 +2773,8 @@
         "NP": "Nephrogenic Diabetes Insipidus",
         "source_PMID": "30012135",
         "id1": 375,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage diabetic kidney disease?",
@@ -2743,7 +2795,8 @@
         "NP": "diabetic kidney disease",
         "source_PMID": "32891604",
         "id1": 376,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage NIDDM?",
@@ -2764,7 +2817,8 @@
         "NP": "NIDDM",
         "source_PMID": "7587918",
         "id1": 377,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage IDDM?",
@@ -2779,7 +2833,8 @@
         "NP": "IDDM",
         "source_PMID": "7598463",
         "id1": 378,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage diabetic foot?",
@@ -2794,7 +2849,8 @@
         "NP": "diabetic foot",
         "source_PMID": "31295292",
         "id1": 379,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "How to manage diabetic nephropathy?",
@@ -2809,7 +2865,8 @@
         "NP": "diabetic nephropathy",
         "source_PMID": "2194280",
         "id1": 380,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause microvascular disease?",
@@ -2824,7 +2881,8 @@
         "NP": "microvascular disease",
         "source_PMID": "9742977",
         "id1": 381,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause heart attacks?",
@@ -2839,7 +2897,8 @@
         "NP": "heart attacks",
         "source_PMID": "9742977",
         "id1": 382,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause muscle strength decrease?",
@@ -2854,7 +2913,8 @@
         "NP": "muscle strength decrease",
         "source_PMID": "32215272",
         "id1": 383,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause Peripheral arterial disease?",
@@ -2869,7 +2929,8 @@
         "NP": "Peripheral arterial disease",
         "source_PMID": "27590190",
         "id1": 384,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause hyperglycemia?",
@@ -2884,7 +2945,8 @@
         "NP": "hyperglycemia",
         "source_PMID": "32962981",
         "id1": 385,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause hypoglycemia?",
@@ -2899,7 +2961,8 @@
         "NP": "hypoglycemia",
         "source_PMID": "32962981",
         "id1": 386,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause hypertension?",
@@ -2914,7 +2977,8 @@
         "NP": "hypertension",
         "source_PMID": "28040315",
         "id1": 387,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause nerve damage?",
@@ -2929,7 +2993,8 @@
         "NP": "nerve damage",
         "source_PMID": "32215272",
         "id1": 388,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause peripheral neuropathy?",
@@ -2950,7 +3015,8 @@
         "NP": "peripheral neuropathy",
         "source_PMID": "34889293",
         "id1": 389,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "Does diabetes cause kidney disease?",
@@ -2971,7 +3037,8 @@
         "NP": "kidney disease",
         "source_PMID": "32621644",
         "id1": 390,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes Nephrogenic Diabetes Insipidus?",
@@ -2986,7 +3053,8 @@
         "NP": "Nephrogenic Diabetes Insipidus",
         "source_PMID": "30012135",
         "id1": 391,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes diabetic kidney disease?",
@@ -3007,7 +3075,8 @@
         "NP": "diabetic kidney disease",
         "source_PMID": "32891604",
         "id1": 392,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes diabetic foot?",
@@ -3028,7 +3097,8 @@
         "NP": "diabetic foot",
         "source_PMID": "31295292",
         "id1": 393,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes diabetic foot ulceration?",
@@ -3043,7 +3113,8 @@
         "NP": "diabetic foot ulceration",
         "source_PMID": "34889293",
         "id1": 394,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes hypoglycemia?",
@@ -3058,7 +3129,8 @@
         "NP": "hypoglycemia",
         "source_PMID": "32962981",
         "id1": 395,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes hyperglycemia?",
@@ -3073,7 +3145,8 @@
         "NP": "hyperglycemia",
         "source_PMID": "32962981",
         "id1": 396,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes peripheral neuropathy?",
@@ -3088,7 +3161,8 @@
         "NP": "peripheral neuropathy",
         "source_PMID": "34889293",
         "id1": 397,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes type 2 diabetes?",
@@ -3103,7 +3177,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 398,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes Peripheral arterial disease?",
@@ -3118,7 +3193,8 @@
         "NP": "Peripheral arterial disease",
         "source_PMID": "27590190",
         "id1": 399,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes diabetes?",
@@ -3133,7 +3209,8 @@
         "NP": "diabetes",
         "source_PMID": "9742977",
         "id1": 400,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of type 2 diabetes?",
@@ -3154,7 +3231,8 @@
         "NP": "type 2 diabetes",
         "source_PMID": "9742977",
         "id1": 401,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of Nephrogenic Diabetes Insipidus?",
@@ -3169,7 +3247,8 @@
         "NP": "Nephrogenic Diabetes Insipidus",
         "source_PMID": "30012135",
         "id1": 402,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of Peripheral arterial disease?",
@@ -3184,7 +3263,8 @@
         "NP": "Peripheral arterial disease",
         "source_PMID": "27590190",
         "id1": 403,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of T2D?",
@@ -3199,7 +3279,8 @@
         "NP": "T2D",
         "source_PMID": "31798892",
         "id1": 404,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of type 1 diabetes?",
@@ -3220,7 +3301,8 @@
         "NP": "type 1 diabetes",
         "source_PMID": "32962981",
         "id1": 405,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of diabetic pregnancy?",
@@ -3235,7 +3317,8 @@
         "NP": "diabetic pregnancy",
         "source_PMID": "29603547",
         "id1": 406,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of type 2 diabetes mellitus?",
@@ -3256,7 +3339,8 @@
         "NP": "type 2 diabetes mellitus",
         "source_PMID": "32430457",
         "id1": 407,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of diabetic foot?",
@@ -3277,7 +3361,8 @@
         "NP": "diabetic foot",
         "source_PMID": "31295292",
         "id1": 408,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of diabetes type 2?",
@@ -3298,7 +3383,8 @@
         "NP": "diabetes type 2",
         "source_PMID": "31336474",
         "id1": 409,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of diabetic foot ulceration?",
@@ -3313,7 +3399,8 @@
         "NP": "diabetic foot ulceration",
         "source_PMID": "31295292",
         "id1": 410,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What are the risks of DM?",
@@ -3328,7 +3415,8 @@
         "NP": "DM",
         "source_PMID": "34372849",
         "id1": 411,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes muscle strength decrease in people with diabetes?",
@@ -3343,7 +3431,8 @@
         "NP": "muscle strength decrease",
         "source_PMID": "32215272",
         "id1": 412,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes nerve damage in people with diabetes?",
@@ -3358,7 +3447,8 @@
         "NP": "nerve damage",
         "source_PMID": "32215272",
         "id1": 413,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes vision loss in people with diabetes?",
@@ -3373,7 +3463,8 @@
         "NP": "severe vision loss",
         "source_PMID": "8981711",
         "id1": 414,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes hypertension in people with diabetes?",
@@ -3394,7 +3485,8 @@
         "NP": "hypertension",
         "source_PMID": "28040315",
         "id1": 415,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     },
     {
         "question": "What causes vascular injury in people with diabetes?",
@@ -3409,6 +3501,7 @@
         "NP": "vascular injury",
         "source_PMID": "32501612",
         "id1": 416,
-        "id2": 0
+        "id2": 0,
+        "source_model": "np-chunk"
     }
 ]
