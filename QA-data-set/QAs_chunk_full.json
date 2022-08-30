@@ -5,8 +5,24 @@
             {
                 "PMID": "7598463",
                 "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "IDDM": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "IDDM",
@@ -21,8 +37,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -37,8 +89,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "microvascular disease",
@@ -53,8 +141,60 @@
             {
                 "PMID": "32891604",
                 "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "medications": [
+                            "Intellectual Product",
+                            "Clinical Attribute",
+                            "Pharmacologic Substance",
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -69,8 +209,28 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -85,8 +245,15 @@
             {
                 "PMID": "30012135",
                 "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "atorvastatin": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "lithium-induced NDI",
@@ -101,8 +268,24 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -117,8 +300,29 @@
             {
                 "PMID": "31295292",
                 "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "plantar ulcer recurrence",
@@ -133,8 +337,44 @@
             {
                 "PMID": "27590190",
                 "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PAD": [
+                            "Gene or Genome",
+                            "Quantitative Concept",
+                            "Biomedical or Dental Material",
+                            "Neoplastic Process",
+                            "Medical Device"
+                        ]
+                    },
+                    {
+                        "risk": [
+                            "Idea or Concept",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Peripheral arterial disease",
@@ -149,14 +389,52 @@
             {
                 "PMID": "32962981",
                 "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "DKA": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "new onset": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "27174580",
-                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "Arterial stiffness": [
+                            "Pathologic Function"
+                        ]
+                    },
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 1 diabetes",
@@ -171,8 +449,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -187,8 +501,60 @@
             {
                 "PMID": "32891604",
                 "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "medications": [
+                            "Intellectual Product",
+                            "Clinical Attribute",
+                            "Pharmacologic Substance",
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -203,8 +569,28 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -219,8 +605,29 @@
             {
                 "PMID": "31295292",
                 "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "plantar ulcer recurrence",
@@ -235,8 +642,24 @@
             {
                 "PMID": "7598463",
                 "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "IDDM": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "insulin-dependent diabetes mellitus",
@@ -251,14 +674,52 @@
             {
                 "PMID": "32962981",
                 "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "DKA": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "new onset": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "27174580",
-                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "Arterial stiffness": [
+                            "Pathologic Function"
+                        ]
+                    },
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 1 diabetes",
@@ -273,8 +734,47 @@
             {
                 "PMID": "31336474",
                 "answer": "CONCLUSION: The findings indicate that educational intervention based on short message service (SMS), resulting in improve foot care knowledge, foot care practices and metabolic control in patients with diabetes type 2.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "CONCLUSION": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "educational intervention": [
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "short message service": [
+                            "Machine Activity"
+                        ]
+                    },
+                    {
+                        "SMS": [
+                            "Gene or Genome",
+                            "Language",
+                            "Machine Activity",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "metabolic control": [
+                            "Molecular Function"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes type 2": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetes type 2",
@@ -289,8 +789,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -305,14 +841,67 @@
             {
                 "PMID": "9742977",
                 "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "death": [
+                            "Finding",
+                            "Organism Function",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "risk reduction": [
+                            "Individual Behavior"
+                        ]
+                    },
+                    {
+                        "p": [
+                            "Laboratory Procedure",
+                            "Immunologic Factor",
+                            "Quantitative Concept",
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "27174580",
-                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "Arterial stiffness": [
+                            "Pathologic Function"
+                        ]
+                    },
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetes",
@@ -327,8 +916,60 @@
             {
                 "PMID": "32891604",
                 "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "medications": [
+                            "Intellectual Product",
+                            "Clinical Attribute",
+                            "Pharmacologic Substance",
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -343,14 +984,47 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "30012135",
-                "sentence": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "use": [
+                            "Functional Concept",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "statins": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -365,8 +1039,24 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -381,8 +1071,24 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "plantar ulcers",
@@ -397,14 +1103,51 @@
             {
                 "PMID": "32321301",
                 "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "non-proliferative diabetic retinopathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "proliferative diabetic retinopathy": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "9893692",
-                "sentence": "This multi-center, prospective, randomized, intervention trial of 5102 newly-diagnosed patients with type 2 diabetes mellitus was aimed at determining whether improved blood glucose control can prevent complications and reduce associated morbidity and mortality.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "answer": "This multi-center, prospective, randomized, intervention trial of 5102 newly-diagnosed patients with type 2 diabetes mellitus was aimed at determining whether improved blood glucose control can prevent complications and reduce associated morbidity and mortality.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "complications": [
+                            "Functional Concept",
+                            "Clinical Attribute",
+                            "Pathologic Function"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetes mellitus",
@@ -419,14 +1162,66 @@
             {
                 "PMID": "34889293",
                 "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "31899340",
-                "sentence": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "answer": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "exercise training": [
+                            "Daily or Recreational Activity"
+                        ]
+                    },
+                    {
+                        "superficial femoral artery": [
+                            "Body Part, Organ, or Organ Component"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "DPN",
@@ -441,8 +1236,44 @@
             {
                 "PMID": "27590190",
                 "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PAD": [
+                            "Gene or Genome",
+                            "Quantitative Concept",
+                            "Biomedical or Dental Material",
+                            "Neoplastic Process",
+                            "Medical Device"
+                        ]
+                    },
+                    {
+                        "risk": [
+                            "Idea or Concept",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Peripheral arterial disease",
@@ -457,8 +1288,27 @@
             {
                 "PMID": "32430457",
                 "answer": "OBJECTIVE: Tight, targeted control of modifiable cardiovascular risk factors can reduce cardiovascular complications and mortality in individuals with type 2 diabetes mellitus (T2DM) and microalbuminuria.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "microalbuminuria": [
+                            "Finding"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes mellitus",
@@ -473,8 +1323,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -489,8 +1375,24 @@
             {
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot ulcer",
@@ -505,8 +1407,24 @@
             {
                 "PMID": "7598463",
                 "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "IDDM": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "insulin-dependent diabetes mellitus",
@@ -521,8 +1439,29 @@
             {
                 "PMID": "31295292",
                 "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "plantar ulcer recurrence",
@@ -537,8 +1476,24 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -553,20 +1508,113 @@
             {
                 "PMID": "34889293",
                 "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "34889293",
-                "sentence": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "moxibustion": [
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "33150711",
-                "sentence": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "answer": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Acupuncture": [
+                            "Biomedical Occupation or Discipline",
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "Traditional Chinese Medicine": [
+                            "Biomedical Occupation or Discipline",
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "treatment": [
+                            "Research Activity",
+                            "Health Care Activity",
+                            "Therapeutic or Preventive Procedure",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "data": [
+                            "Eukaryote",
+                            "Medical Device",
+                            "Idea or Concept",
+                            "Temporal Concept"
+                        ]
+                    },
+                    {
+                        "randomized controlled trials": [
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "DPN",
@@ -581,8 +1629,20 @@
             {
                 "PMID": "7587918",
                 "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "non-insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NIDDM": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "non-insulin-dependent diabetes mellitus",
@@ -597,8 +1657,15 @@
             {
                 "PMID": "30012135",
                 "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "atorvastatin": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "lithium-induced NDI",
@@ -613,14 +1680,53 @@
             {
                 "PMID": "29606547",
                 "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "Peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PN": [
+                            "Gene or Genome",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein",
+                            "Body System"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "29606547",
-                "sentence": "CONCLUSION: Aerobic exercise training may have the potential to hinder the progression of diabetic PN by improving NCV.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "answer": "CONCLUSION: Aerobic exercise training may have the potential to hinder the progression of diabetic PN by improving NCV.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSION": [
+                            "Idea or Concept"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "PN",
@@ -635,14 +1741,52 @@
             {
                 "PMID": "32962981",
                 "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "DKA": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "new onset": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "27174580",
-                "sentence": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "Arterial stiffness": [
+                            "Pathologic Function"
+                        ]
+                    },
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 1 diabetes",
@@ -657,8 +1801,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "intensive blood-glucose control",
@@ -673,8 +1853,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "insulin",
@@ -689,8 +1905,15 @@
             {
                 "PMID": "9742977",
                 "answer": "This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "metformin": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "metformin",
@@ -705,8 +1928,24 @@
             {
                 "PMID": "7598463",
                 "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "IDDM": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "intensive treatment",
@@ -721,8 +1960,21 @@
             {
                 "PMID": "30012135",
                 "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "use": [
+                            "Functional Concept",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "statins": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "statins",
@@ -737,14 +1989,26 @@
             {
                 "PMID": "32215272",
                 "answer": "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": []
             },
             {
                 "PMID": "32215272",
-                "sentence": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "it": [
+                            "Functional Concept",
+                            "Geographic Area"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "resistance-aerobic training",
@@ -759,8 +2023,24 @@
             {
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Therapeutic footwear",
@@ -775,8 +2055,24 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "a rigid rocker sole",
@@ -791,8 +2087,21 @@
             {
                 "PMID": "29178519",
                 "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "semaglutide": [
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "semaglutide",
@@ -807,8 +2116,59 @@
             {
                 "PMID": "33150711",
                 "answer": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Acupuncture": [
+                            "Biomedical Occupation or Discipline",
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "Traditional Chinese Medicine": [
+                            "Biomedical Occupation or Discipline",
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "treatment": [
+                            "Research Activity",
+                            "Health Care Activity",
+                            "Therapeutic or Preventive Procedure",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "data": [
+                            "Eukaryote",
+                            "Medical Device",
+                            "Idea or Concept",
+                            "Temporal Concept"
+                        ]
+                    },
+                    {
+                        "randomized controlled trials": [
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Acupuncture",
@@ -823,14 +2183,81 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "8981711",
-                "answer": "'CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.'",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "CONCLUSION": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type II diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type I diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -845,14 +2272,50 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "8529508",
                 "answer": "The Diabetes Control and Complications Trial (DCCT) in insulin-dependent diabetic subjects with a mean age of 27 years has indicated that intensive therapy to achieve a haemoglobin A1c level of 7.1%, compared with 9.0% in a 'standard control group', will retard the progress of diabetic microvascular disease.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": []
             }
         ],
         "NP": "microvascular disease",
@@ -867,8 +2330,29 @@
             {
                 "PMID": "31295292",
                 "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "plantar ulcer recurrence",
@@ -883,8 +2367,15 @@
             {
                 "PMID": "30012135",
                 "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "atorvastatin": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "lithium-induced NDI",
@@ -899,14 +2390,47 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "30012135",
-                "sentence": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "use": [
+                            "Functional Concept",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "statins": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -921,14 +2445,72 @@
             {
                 "PMID": "32891604",
                 "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "medications": [
+                            "Intellectual Product",
+                            "Clinical Attribute",
+                            "Pharmacologic Substance",
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "32891604",
-                "sentence": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -943,14 +2525,38 @@
             {
                 "PMID": "7587918",
                 "answer": "To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "non-insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NIDDM": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "7587918",
-                "sentence": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "conclusion": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "NIDDM": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "NIDDM",
@@ -965,8 +2571,24 @@
             {
                 "PMID": "7598463",
                 "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "insulin-dependent diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "IDDM": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "IDDM",
@@ -981,8 +2603,24 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -997,8 +2635,62 @@
             {
                 "PMID": "2194280",
                 "answer": "The purpose of this study was to measure components of the renin angiotensin system in patients with type 1 diabetes mellitus, with and without nephropathy, to study the renal sensitivity to angiotensin II in uncomplicated type 1 diabetes and to investigate the short and long-term renal effects of angiotensin II reduction with angiotensin converting enzyme inhibitors in patients with diabetic nephropathy.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "components": [
+                            "Manufactured Object"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "nephropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "angiotensin II": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Biologically Active Substance",
+                            "Hormone",
+                            "Gene or Genome",
+                            "Pharmacologic Substance",
+                            "Laboratory Procedure"
+                        ]
+                    },
+                    {
+                        "angiotensin": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Pharmacologic Substance",
+                            "Biologically Active Substance"
+                        ]
+                    },
+                    {
+                        "enzyme inhibitors": [
+                            "Pharmacologic Substance",
+                            "Molecular Function"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic nephropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic nephropathy",
@@ -1013,8 +2705,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "microvascular disease",
@@ -1029,8 +2757,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "heart attacks",
@@ -1045,8 +2809,35 @@
             {
                 "PMID": "32215272",
                 "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetics": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "nerve damage": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "muscle strength decrease",
@@ -1061,8 +2852,44 @@
             {
                 "PMID": "27590190",
                 "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PAD": [
+                            "Gene or Genome",
+                            "Quantitative Concept",
+                            "Biomedical or Dental Material",
+                            "Neoplastic Process",
+                            "Medical Device"
+                        ]
+                    },
+                    {
+                        "risk": [
+                            "Idea or Concept",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Peripheral arterial disease",
@@ -1077,8 +2904,27 @@
             {
                 "PMID": "32962981",
                 "answer": "Sizable IQ declines are detectable in children with known diabetes, suggesting that DKA effects may be exacerbated in children with chronic exposure to hyperglycemia.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "hyperglycemia": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "hyperglycemia",
@@ -1093,8 +2939,25 @@
             {
                 "PMID": "32962981",
                 "answer": "Among previously diagnosed patients, repeated DKA exposure and higher HbA(1c) were independently associated with lower IQ (\u03b2 = -0.10 and \u03b2 = -0.09, respectively, P < 0.01) and higher HbA(1c) was associated with lower item-color recall (\u03b2 = -0.10, P = 0.007) after hypoglycemia, diabetes duration, and socioeconomic status were accounted for.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "0.09": [
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "hypoglycemia": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "socioeconomic status": [
+                            "Qualitative Concept"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "hypoglycemia",
@@ -1109,8 +2972,47 @@
             {
                 "PMID": "28040315",
                 "answer": "CONCLUSIONS: The cardiometabolic profile of diabetes includes retinopathy, peripheral arterial disease, comorbidity of hypertension and cardiovascular risk factors.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "retinopathy": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "comorbidity": [
+                            "Finding",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "hypertension": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "cardiovascular risk factors": [
+                            "Finding"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "hypertension",
@@ -1125,8 +3027,35 @@
             {
                 "PMID": "32215272",
                 "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetics": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "nerve damage": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "nerve damage",
@@ -1141,14 +3070,49 @@
             {
                 "PMID": "34889293",
                 "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "34889293",
                 "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "peripheral neuropathy",
@@ -1163,14 +3127,61 @@
             {
                 "PMID": "32621644",
                 "answer": "OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "Lithium": [
+                            "Pharmacologic Substance",
+                            "Element, Ion, or Isotope",
+                            "Clinical Attribute",
+                            "Laboratory Procedure"
+                        ]
+                    },
+                    {
+                        "mood disorders": [
+                            "Mental or Behavioral Dysfunction"
+                        ]
+                    },
+                    {
+                        "kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "kidney disease",
@@ -1185,8 +3196,28 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -1201,14 +3232,86 @@
             {
                 "PMID": "32891604",
                 "answer": "To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "medications": [
+                            "Intellectual Product",
+                            "Clinical Attribute",
+                            "Pharmacologic Substance",
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "blood pressure": [
+                            "Finding",
+                            "Health Care Activity",
+                            "Organism Function"
+                        ]
+                    },
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -1223,14 +3326,45 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "34889293",
-                "sentence": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "amputation": [
+                            "Therapeutic or Preventive Procedure",
+                            "Intellectual Product",
+                            "Acquired Abnormality"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -1245,8 +3379,23 @@
             {
                 "PMID": "34889293",
                 "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "amputation": [
+                            "Therapeutic or Preventive Procedure",
+                            "Intellectual Product",
+                            "Acquired Abnormality"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot ulceration",
@@ -1261,8 +3410,25 @@
             {
                 "PMID": "32962981",
                 "answer": "Among previously diagnosed patients, repeated DKA exposure and higher HbA(1c) were independently associated with lower IQ (\u03b2 = -0.10 and \u03b2 = -0.09, respectively, P < 0.01) and higher HbA(1c) was associated with lower item-color recall (\u03b2 = -0.10, P = 0.007) after hypoglycemia, diabetes duration, and socioeconomic status were accounted for.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "0.09": [
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "hypoglycemia": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "socioeconomic status": [
+                            "Qualitative Concept"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "hypoglycemia",
@@ -1277,8 +3443,27 @@
             {
                 "PMID": "32962981",
                 "answer": "Sizable IQ declines are detectable in children with known diabetes, suggesting that DKA effects may be exacerbated in children with chronic exposure to hyperglycemia.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "children": [
+                            "Age Group",
+                            "Family Group"
+                        ]
+                    },
+                    {
+                        "hyperglycemia": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "hyperglycemia",
@@ -1293,8 +3478,14 @@
             {
                 "PMID": "34889293",
                 "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "peripheral neuropathy",
@@ -1309,8 +3500,44 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -1325,8 +3552,44 @@
             {
                 "PMID": "27590190",
                 "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PAD": [
+                            "Gene or Genome",
+                            "Quantitative Concept",
+                            "Biomedical or Dental Material",
+                            "Neoplastic Process",
+                            "Medical Device"
+                        ]
+                    },
+                    {
+                        "risk": [
+                            "Idea or Concept",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Peripheral arterial disease",
@@ -1341,8 +3604,39 @@
             {
                 "PMID": "9742977",
                 "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "death": [
+                            "Finding",
+                            "Organism Function",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "risk reduction": [
+                            "Individual Behavior"
+                        ]
+                    },
+                    {
+                        "p": [
+                            "Laboratory Procedure",
+                            "Immunologic Factor",
+                            "Quantitative Concept",
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetes",
@@ -1357,14 +3651,68 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "insulin": [
+                            "Laboratory Procedure",
+                            "Hormone",
+                            "Pharmacologic Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "progression": [
+                            "Functional Concept",
+                            "Pathologic Function",
+                            "Neoplastic Process"
+                        ]
+                    },
+                    {
+                        "heart attacks": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "31798892",
                 "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "INTRODUCTION": [
+                            "Manufactured Object",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "Type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "T2D": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes",
@@ -1379,8 +3727,28 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "Nephrogenic Diabetes Insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "chronic kidney disease": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -1395,8 +3763,44 @@
             {
                 "PMID": "27590190",
                 "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PAD": [
+                            "Gene or Genome",
+                            "Quantitative Concept",
+                            "Biomedical or Dental Material",
+                            "Neoplastic Process",
+                            "Medical Device"
+                        ]
+                    },
+                    {
+                        "risk": [
+                            "Idea or Concept",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Peripheral arterial disease",
@@ -1411,8 +3815,26 @@
             {
                 "PMID": "31798892",
                 "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "INTRODUCTION": [
+                            "Manufactured Object",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "Type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "T2D": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "T2D",
@@ -1427,14 +3849,53 @@
             {
                 "PMID": "32962981",
                 "answer": "A total of 392 children with DKA had new onset of type 1 diabetes, and the rest were previously diagnosed.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "DKA": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "new onset": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "23882708",
-                "sentence": "BACKGROUND: The Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications(EDIC) studies have established multiyear mean hemoglobin A1c (HbA1c) as predictive of microvascular complications in persons with type 1 diabetes.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "answer": "BACKGROUND: The Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions and Complications(EDIC) studies have established multiyear mean hemoglobin A1c (HbA1c) as predictive of microvascular complications in persons with type 1 diabetes.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "HbA1c": [
+                            "Laboratory Procedure",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein"
+                        ]
+                    },
+                    {
+                        "persons": [
+                            "Population Group"
+                        ]
+                    },
+                    {
+                        "type 1 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 1 diabetes",
@@ -1449,8 +3910,30 @@
             {
                 "PMID": "29603547",
                 "answer": "CONCLUSIONS: In diabetic pregnancy, use of intermittent retrospective CGM did not reduce the risk of macrosomia.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "diabetic pregnancy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "use": [
+                            "Functional Concept",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "macrosomia": [
+                            "Finding"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic pregnancy",
@@ -1465,14 +3948,51 @@
             {
                 "PMID": "32430457",
                 "answer": "OBJECTIVE: Tight, targeted control of modifiable cardiovascular risk factors can reduce cardiovascular complications and mortality in individuals with type 2 diabetes mellitus (T2DM) and microalbuminuria.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "microalbuminuria": [
+                            "Finding"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "31798892",
                 "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "INTRODUCTION": [
+                            "Manufactured Object",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "Type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "T2D": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "type 2 diabetes mellitus",
@@ -1487,14 +4007,45 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "plantar ulcers": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "34889293",
-                "sentence": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "amputation": [
+                            "Therapeutic or Preventive Procedure",
+                            "Intellectual Product",
+                            "Acquired Abnormality"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -1509,14 +4060,71 @@
             {
                 "PMID": "31336474",
                 "answer": "CONCLUSION: The findings indicate that educational intervention based on short message service (SMS), resulting in improve foot care knowledge, foot care practices and metabolic control in patients with diabetes type 2.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "CONCLUSION": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "educational intervention": [
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "short message service": [
+                            "Machine Activity"
+                        ]
+                    },
+                    {
+                        "SMS": [
+                            "Gene or Genome",
+                            "Language",
+                            "Machine Activity",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "metabolic control": [
+                            "Molecular Function"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes type 2": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "31798892",
                 "answer": "INTRODUCTION: Type 2 diabetes mellitus (T2D) confers high atherosclerotic cardiovascular disease (ASCVD) risk.",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "INTRODUCTION": [
+                            "Manufactured Object",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "Type 2 diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "T2D": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetes type 2",
@@ -1530,9 +4138,24 @@
         "answer": [
             {
                 "PMID": "34889293",
-                "sentence": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "amputation": [
+                            "Therapeutic or Preventive Procedure",
+                            "Intellectual Product",
+                            "Acquired Abnormality"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot ulceration",
@@ -1547,8 +4170,51 @@
             {
                 "PMID": "34372849",
                 "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
-                "UMLS_category": "tbd",
-                "quality": 2
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DM": [
+                            "Organic Chemical",
+                            "Quantitative Concept",
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "increased risk": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "heart failure": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "HF": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Gene or Genome",
+                            "Enzyme"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "DM",
@@ -1563,8 +4229,35 @@
             {
                 "PMID": "32215272",
                 "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetics": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "nerve damage": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "muscle strength decrease",
@@ -1579,8 +4272,35 @@
             {
                 "PMID": "32215272",
                 "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "UMLS_category": "tbd",
-                "quality": 1
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetics": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "nerve damage": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "nerve damage",
@@ -1595,8 +4315,14 @@
             {
                 "PMID": "8981711",
                 "answer": "RESULTS: Previously published results of the Early Treatment Diabetic Retinopathy Study (ETDRS) demonstrated a statistically significant benefit of early photocoagulation in preventing severe vision loss.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "severe vision loss": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "severe vision loss",
@@ -1611,14 +4337,114 @@
             {
                 "PMID": "28040315",
                 "answer": "CONCLUSIONS: The cardiometabolic profile of diabetes includes retinopathy, peripheral arterial disease, comorbidity of hypertension and cardiovascular risk factors.",
-                "UMLS_category": "tbd",
-                "quality": 5
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "retinopathy": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "comorbidity": [
+                            "Finding",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "hypertension": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "cardiovascular risk factors": [
+                            "Finding"
+                        ]
+                    }
+                ]
             },
             {
                 "PMID": "32501612",
-                "sentence": "Given that binding of mononuclear cells to vascular endothelium, initiated by cellular adhesion molecules and chemokines, is an early step in vascular injury, we sought to evaluate (a) changes in cellular adhesion molecule levels during the trial; (b) effect of diabetes treatment; and (c) association of markers with HbA1c, hypertension, hypercholesterolemia, nephropathy, and retinopathy.",
-                "UMLS_category": "tbd",
-                "quality": 4
+                "answer": "Given that binding of mononuclear cells to vascular endothelium, initiated by cellular adhesion molecules and chemokines, is an early step in vascular injury, we sought to evaluate (a) changes in cellular adhesion molecule levels during the trial; (b) effect of diabetes treatment; and (c) association of markers with HbA1c, hypertension, hypercholesterolemia, nephropathy, and retinopathy.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "binding": [
+                            "Activity",
+                            "Molecular Function"
+                        ]
+                    },
+                    {
+                        "mononuclear cells": [
+                            "Cell",
+                            "Laboratory Procedure"
+                        ]
+                    },
+                    {
+                        "vascular endothelium": [
+                            "Tissue"
+                        ]
+                    },
+                    {
+                        "vascular injury": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "b": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Finding",
+                            "Immunologic Factor",
+                            "Classification",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "effect": [
+                            "Finding",
+                            "Qualitative Concept"
+                        ]
+                    },
+                    {
+                        "c": [
+                            "Finding",
+                            "Quantitative Concept",
+                            "Body Part, Organ, or Organ Component",
+                            "Body Location or Region",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "association": [
+                            "Conceptual Entity",
+                            "Mental Process",
+                            "Social Behavior",
+                            "Qualitative Concept",
+                            "Phenomenon or Process"
+                        ]
+                    },
+                    {
+                        "markers": [
+                            "Medical Device"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "hypertension",
@@ -1633,8 +4459,69 @@
             {
                 "PMID": "32501612",
                 "answer": "Given that binding of mononuclear cells to vascular endothelium, initiated by cellular adhesion molecules and chemokines, is an early step in vascular injury, we sought to evaluate (a) changes in cellular adhesion molecule levels during the trial; (b) effect of diabetes treatment; and (c) association of markers with HbA1c, hypertension, hypercholesterolemia, nephropathy, and retinopathy.",
-                "UMLS_category": "tbd",
-                "quality": 3
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "binding": [
+                            "Activity",
+                            "Molecular Function"
+                        ]
+                    },
+                    {
+                        "mononuclear cells": [
+                            "Cell",
+                            "Laboratory Procedure"
+                        ]
+                    },
+                    {
+                        "vascular endothelium": [
+                            "Tissue"
+                        ]
+                    },
+                    {
+                        "vascular injury": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "b": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Finding",
+                            "Immunologic Factor",
+                            "Classification",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "effect": [
+                            "Finding",
+                            "Qualitative Concept"
+                        ]
+                    },
+                    {
+                        "c": [
+                            "Finding",
+                            "Quantitative Concept",
+                            "Body Part, Organ, or Organ Component",
+                            "Body Location or Region",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "association": [
+                            "Conceptual Entity",
+                            "Mental Process",
+                            "Social Behavior",
+                            "Qualitative Concept",
+                            "Phenomenon or Process"
+                        ]
+                    },
+                    {
+                        "markers": [
+                            "Medical Device"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "vascular injury",
