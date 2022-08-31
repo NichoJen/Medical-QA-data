@@ -495,7 +495,7 @@
             {
                 "PMID": "32215272",
                 "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "quality": 2,
+                "quality": 3,
                 "umls_category": [
                     {
                         "Diabetic peripheral neuropathy": [
@@ -794,7 +794,7 @@
             {
                 "PMID": "34889293",
                 "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
-                "quality": 1,
+                "quality": 3,
                 "umls_category": [
                     {
                         "moxibustion": [
@@ -1188,7 +1188,7 @@
             {
                 "PMID": "34889293",
                 "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
-                "quality": 3,
+                "quality": 2,
                 "umls_category": [
                     {
                         "DPN": [
@@ -1544,7 +1544,7 @@
             {
                 "PMID": "32215272",
                 "answer": "With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.",
-                "quality": 2,
+                "quality": 3,
                 "umls_category": [
                     {
                         "diabetic peripheral neuropathy": [
@@ -1614,6 +1614,23 @@
                     {
                         "patients": [
                             "Patient or Disabled Group"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "32306762",
+                "answer": "CONCLUSION: Delivering a supportive-educational intervention based on the Orem self-care model on outpatient diabetes clinic can decrease the symptoms and severity of diabetic peripheral neuropathy.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "CONCLUSION": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
                         ]
                     }
                 ]
@@ -1960,7 +1977,7 @@
             {
                 "PMID": "33150711",
                 "answer": "CONCLUSIONS: Classical needle acupuncture had significant effects on DPN.",
-                "quality": "tbd",
+                "quality": 1,
                 "umls_category": [
                     {
                         "CONCLUSIONS": [
@@ -2433,7 +2450,7 @@
             {
                 "PMID": "27590190",
                 "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "quality": 2,
+                "quality": 3,
                 "umls_category": [
                     {
                         "BACKGROUND": [
@@ -4024,7 +4041,7 @@
             {
                 "PMID": "35521789",
                 "answer": "Similar to arginine, glucagon stimulates growth hormone release, but its effect on the neurohypophysis is poorly studied.",
-                "quality": 4,
+                "quality": 3,
                 "umls_category": [
                     {
                         "arginine": [

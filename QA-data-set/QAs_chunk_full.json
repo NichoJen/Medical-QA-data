@@ -37,7 +37,7 @@
             {
                 "PMID": "9742977",
                 "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "quality": 1,
+                "quality": 2,
                 "umls_category": [
                     {
                         "BACKGROUND": [
@@ -195,6 +195,18 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "32891604",
+                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -231,6 +243,25 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "30012135",
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "use": [
+                            "Functional Concept",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "statins": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -245,7 +276,7 @@
             {
                 "PMID": "30012135",
                 "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "quality": 3,
+                "quality": 4,
                 "umls_category": [
                     {
                         "atorvastatin": [
@@ -555,6 +586,18 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "32891604",
+                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic kidney disease",
@@ -569,7 +612,7 @@
             {
                 "PMID": "30012135",
                 "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "quality": 4,
+                "quality": 5,
                 "umls_category": [
                     {
                         "Nephrogenic Diabetes Insipidus": [
@@ -588,6 +631,25 @@
                         "chronic kidney disease": [
                             "Finding",
                             "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "30012135",
+                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "use": [
+                            "Functional Concept",
+                            "Intellectual Product"
+                        ]
+                    },
+                    {
+                        "statins": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
                         ]
                     }
                 ]
@@ -964,6 +1026,18 @@
                             "Organism Function"
                         ]
                     },
+                    {
+                        "diabetic kidney disease": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "32891604",
+                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
+                "quality": 2,
+                "umls_category": [
                     {
                         "diabetic kidney disease": [
                             "Disease or Syndrome"
@@ -1490,6 +1564,33 @@
                     },
                     {
                         "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
                             "Disease or Syndrome"
                         ]
                     }
@@ -2416,7 +2517,7 @@
             {
                 "PMID": "30012135",
                 "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
-                "quality": 3,
+                "quality": 4,
                 "umls_category": [
                     {
                         "use": [
@@ -3218,6 +3319,26 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "32621644",
+                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "Nephrogenic diabetes insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "Nephrogenic Diabetes Insipidus",
@@ -3482,6 +3603,45 @@
                 "umls_category": [
                     {
                         "peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "Peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PN": [
+                            "Gene or Genome",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein",
+                            "Body System"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }
