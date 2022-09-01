@@ -8,4 +8,7 @@ models used to generate questions:
 default (https://huggingface.co/valhalla/t5-base-e2e-qg);  
 T5-base fine-tuned on SQuAD for Question Generation (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap);  
 T5-pubmedqa (https://huggingface.co/frozenwalker/T5_pubmedqa_question_generation_preTrained_MedQuad);  
-bart-eqg-question-generator (https://huggingface.co/voidful/bart-eqg-question-generator)
+bart-eqg-question-generator (https://huggingface.co/voidful/bart-eqg-question-generator);  
+np-chunking + patterns  
+**QA-dataset:**   
+QA-data-set contains one file with all questions, one with questions only from tranformers and one with questions only from np-chunking
