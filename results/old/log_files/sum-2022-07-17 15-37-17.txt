@@ -1,0 +1,12 @@
+General information:
+date and time: 2022-07-17 15:37:17.067636
+number of abstracts: 10
+number of questions: 106
+abstract accuracy: 0.8113207547169812
+abstract similarity correct: 0.329874230473646
+abstract similarity wrong: 0.2894745827933683
+sentence accuracy: 0.6886792452830188
+sentence similarity correct: 0.5314834244270661
+sentence similarity wrong: 0.35225814332458066
+
+Notes: TF-IDF; No Stemming

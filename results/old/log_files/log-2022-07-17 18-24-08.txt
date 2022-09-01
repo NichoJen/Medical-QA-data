@@ -1,0 +1,858 @@
+question: What does intensive blood-glucose control with insulin or sulphonylurea therapy reduce in type 2 diabetes patients?
+predicted PMID: 9742977
+abstract similarity: 0.384486561105554
+predicted answer: BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.
+sentence similarity: 0.597463463707314
+abstract: match
+sentence: match
+
+question: What may reduce the risk of heart attacks?
+predicted PMID: 9742977
+abstract similarity: 0.16403265544010665
+predicted answer: BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.
+sentence similarity: 0.5535847072808172
+abstract: match
+sentence: match
+
+question: What could reduce the risk of heart attacks in patients with type 2 diabetes?
+predicted PMID: 9742977
+abstract similarity: 0.22296793906242743
+predicted answer: BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.
+sentence similarity: 0.5123881162865453
+abstract: match
+sentence: match
+
+question: What drug has a greater effect for any diabetes-related endpoint than chlorpropamide, glibenclamide, or insulin?
+predicted PMID: 9742977
+abstract similarity: 0.283265192662722
+predicted answer: Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).
+sentence similarity: 0.5707199232978553
+abstract: match
+sentence: match
+
+question: What is the effect of metformin on all-cause mortality?
+predicted PMID: 9742977
+abstract similarity: 0.37793953344289755
+predicted answer: Among patients allocated intensive blood-glucose control, metformin showed a greater effect than chlorpropamide, glibenclamide, or insulin for any diabetes-related endpoint (p=0.0034), all-cause mortality (p=0.021), and stroke (p=0.032).
+sentence similarity: 0.38751418250126485
+abstract: match
+sentence: match
+
+question: What is associated with less weight gain and fewer hypoglycaemic attacks than insulin and sulphonylureas?
+predicted PMID: 9742977
+abstract similarity: 0.19043774313777662
+predicted answer: INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.
+sentence similarity: 0.6092173404916642
+abstract: match
+sentence: match
+
+question: What is the typical therapy treatment target for diabetes kidney disease?
+predicted PMID: 32891604
+abstract similarity: 0.3702996472170579
+predicted answer: A total of 438 kidney events occurred (181 in the intensive therapy group and 257 in the conventional therapy group).
+sentence similarity: 0.34187596638193996
+abstract: match
+gold sentence: To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.
+
+question: What is one of the most common chronic complications of diabetics?
+predicted PMID: 32215272
+abstract similarity: 0.1805342621097334
+predicted answer: Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.
+sentence similarity: 0.5861187956131453
+abstract: match
+sentence: match
+
+question: What causes nerve damage and muscle strength decrease?
+predicted PMID: 32215272
+abstract similarity: 0.24106665471193178
+predicted answer: Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.
+sentence similarity: 0.7127099341928159
+abstract: match
+sentence: match
+
+question: What causes nerve damage and muscle strength decrease in diabetic patients?
+predicted PMID: 32215272
+abstract similarity: 0.27640521710188526
+predicted answer: Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.
+sentence similarity: 0.7358846284539247
+abstract: match
+sentence: match
+
+question: What causes the daily activity disparity in diabetic patients?
+predicted PMID: 32215272
+abstract similarity: 0.19729884374280207
+predicted answer: This in turn results in imbalance leading to the diabetic patients' daily activity disparity.
+sentence similarity: 0.6226176853874649
+abstract: match
+sentence: match
+
+question: What is NDI?
+predicted PMID: 32621644
+abstract similarity: 0.42597778054552116
+predicted answer: Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.
+sentence similarity: 0.4571771353792806
+gold PMID: 30012135
+gold sentence: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+
+question: What is the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes?
+predicted PMID: 31295292
+abstract similarity: 0.4044939819970783
+predicted answer: BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.
+sentence similarity: 0.7766857571383436
+abstract: match
+sentence: match
+
+question: What type of footwear is recommended for diabetic foot ulcer patients?
+predicted PMID: 31295292
+abstract similarity: 0.47722564725372396
+predicted answer: BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.
+sentence similarity: 0.5311437329633912
+abstract: match
+gold sentence: CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.
+
+question: What type foot ulcer is a risk factor for plantar ulcer recurence?
+predicted PMID: 31295292
+abstract similarity: 0.40903904454134743
+predicted answer: CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.
+sentence similarity: 0.5433343915451422
+abstract: match
+sentence: match
+
+question: What is the risk of incident chronic kidney disease among lithium users?
+predicted PMID: 32621644
+abstract similarity: 0.37813130310718285
+predicted answer: Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.
+sentence similarity: 0.7299197640866931
+abstract: match
+sentence: match
+
+question: What is lower in diabetic mellitus patients with retinopathy than in healthy individuals?
+predicted PMID: 32321301
+abstract similarity: 0.3642000992283199
+predicted answer: CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.
+sentence similarity: 0.6599824736500088
+abstract: match
+sentence: match
+
+question: What is DPN?
+predicted PMID: 31899340
+abstract similarity: 0.260686362068276
+predicted answer: Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.
+sentence similarity: 0.3710592586872277
+gold PMID: 34889293
+gold sentence: BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.
+
+question: What is one of the most common complications of diabetes mellitus?
+predicted PMID: 7598463
+abstract similarity: 0.2399522872274638
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.21869925849389923
+gold PMID: 34889293
+gold sentence: BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.
+
+question: What are the main clinical manifestations of DPN?
+predicted PMID: 34889293
+abstract similarity: 0.20751640173611852
+predicted answer: The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.
+sentence similarity: 0.4118284982757466
+abstract: match
+sentence: match
+
+question: What often leads to diabetic foot ulceration?
+predicted PMID: 31336474
+abstract similarity: 0.19283765806028613
+predicted answer: OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.
+sentence similarity: 0.21020315818526686
+gold PMID: 34889293
+gold sentence: The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.
+
+question: Does intensive blood-glucose control with insulin or sulphonylurea decrease the progression of microvascular disease?
+predicted PMID: 9742977
+abstract similarity: 0.3158227749395512
+predicted answer: BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.
+sentence similarity: 0.563325702025149
+abstract: match
+sentence: match
+
+question: Is metformin the first-line pharmacological therapy of choice in overweight diabetic patients?
+predicted PMID: 9742977
+abstract similarity: 0.3873402518155618
+predicted answer: INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.
+sentence similarity: 0.5499200004455004
+abstract: match
+sentence: match
+
+question: Are statins associated with lower NDI risk?
+predicted PMID: 32621644
+abstract similarity: 0.33062578593377834
+predicted answer: Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.
+sentence similarity: 0.42695884143828183
+gold PMID: 30012135
+gold sentence: We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.
+
+question: Is there a positive or negative correlation between HbA1c levels and diabetes mellitus times?
+predicted PMID: 32321301
+abstract similarity: 0.30936487464327656
+predicted answer: There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.
+sentence similarity: 0.5777001885178993
+abstract: match
+sentence: match
+
+question: Is there a negative correlation between corneal endothelial cell density and corneal retinopathy severity?
+predicted PMID: 32321301
+abstract similarity: 0.511484952456891
+predicted answer: There is a negative correlation between retinopathy severity and corneal endothelial cell density.
+sentence similarity: 0.9547562240818266
+abstract: match
+sentence: match
+
+question: How does diabetes affect the cornea?
+predicted PMID: 32321301
+abstract similarity: 0.0925776491541419
+predicted answer: Diabetes affects negatively not only vascular tissues but also avascular cornea.
+sentence similarity: 0.299051410079892
+abstract: match
+sentence: match
+
+question: What does DPN do?
+predicted PMID: 31899340
+abstract similarity: 0.1476899965703643
+predicted answer: In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.
+sentence similarity: 0.2068070220428044
+gold PMID: 34889293
+gold sentence: BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.
+
+question: Does moxibustion have a positive effect on DPN?
+predicted PMID: 34889293
+abstract similarity: 0.26849403955299933
+predicted answer: Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.
+sentence similarity: 0.36653037659440507
+abstract: match
+sentence: match
+
+question: Can intensive glycemic control by multiple insulin injection therapy delay the onset and the progression of diabetic retinopathy?
+predicted PMID: 7587918
+abstract similarity: 0.3904548647684585
+predicted answer: In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.
+sentence similarity: 0.824102728006713
+abstract: match
+sentence: match
+
+question: Is improved glycemic control recommended to most patients with NIDDM?
+predicted PMID: 7598463
+abstract similarity: 0.46530492549591906
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.728396579598587
+abstract: match
+sentence: match
+
+question: Is improved glycemic control recommended to patients with NIDDM?
+predicted PMID: 7598463
+abstract similarity: 0.43479386990877283
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.6670930949223649
+abstract: match
+sentence: match
+
+question: Is insulin used in patients with NIDDM?
+predicted PMID: 7598463
+abstract similarity: 0.3833486471292125
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.42725701502223024
+abstract: match
+gold sentence: The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.
+
+question: What is the risk of chronic kidney disease among lithium users?
+predicted PMID: 32621644
+abstract similarity: 0.3929724237006901
+predicted answer: Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.
+sentence similarity: 0.6563972080204815
+abstract: match
+sentence: match
+
+question: What to do for diabetic kidney disease - intensified multifactorial intervention?
+predicted PMID: 32891604
+abstract similarity: 0.3433140500962625
+predicted answer: Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.
+sentence similarity: 0.5009479702962082
+abstract: match
+sentence: match
+
+question: What to do for diabetic kidney disease?
+predicted PMID: 32891604
+abstract similarity: 0.25313848754840523
+predicted answer: Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.
+sentence similarity: 0.22803680341773042
+abstract: match
+sentence: match
+
+question: What causes questions about Diabetic peripheral neuropathy? (Also called: Non-pregnant diabetes; Diabetes mellitus)
+predicted PMID: 32306762
+abstract similarity: 0.1302724840157088
+predicted answer: SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.
+sentence similarity: 0.18905095059073104
+gold PMID: 32215272
+gold sentence: Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.
+
+question: What is Diabetic peripheral neuropathy (DPN)
+predicted PMID: 31899340
+abstract similarity: 0.28752617879904524
+predicted answer: Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.
+sentence similarity: 0.6614560987632959
+gold PMID: 34889293
+gold sentence: BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.
+
+question: What are the clinical manifestations of DPN? (Also called: Nonpregnant diabetes; Diabetes mellitus)
+predicted PMID: 34889293
+abstract similarity: 0.2084144938113724
+predicted answer: BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.
+sentence similarity: 0.35360769247064716
+abstract: match
+gold sentence: The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.
+
+question: What are the challenges of intensive glycemic control? (Also called: Noninsulin-dependent diabetes mellitus; Diabetes - noninsulin dependent diabetes)
+predicted PMID: 7598463
+abstract similarity: 0.3788369235320147
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.45109285928061965
+gold PMID: 7587918
+gold sentence: To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.
+
+question: How can I prevent diabetic retinopathy - multi-injection therapy?
+predicted PMID: 8529508
+abstract similarity: 0.1683024939504522
+predicted answer: At present, it is uncertain whether Type II diabetes should be treated more intensively, with diet, tablet or insulin therapy to maintain near-normal glucose levels, in order to prevent the onset of complications.
+sentence similarity: 0.15046565371031148
+gold PMID: 7587918
+gold sentence: In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.
+
+question: What is the major risk associated with intensive treatment?
+predicted PMID: 7598463
+abstract similarity: 0.37915945042197025
+predicted answer: The major risk associated with intensive treatment is recurrent hypoglycemia.
+sentence similarity: 0.6854561133246514
+abstract: match
+sentence: match
+
+question: what is the function of sulphonylurea therapy in type 2 diabetes?
+predicted PMID: 9742977
+abstract similarity: 0.28517981978703255
+predicted answer: BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.
+sentence similarity: 0.37990689985462817
+abstract: match
+sentence: match
+
+question: what is the difference between metformin and sulphonylurea?
+predicted PMID: 9742977
+abstract similarity: 0.40080415179386447
+predicted answer: Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.
+sentence similarity: 0.4116525353252332
+abstract: match
+sentence: match
+
+question: which is the firstline pharmacological therapy in overweight diabetic patients?
+predicted PMID: 9742977
+abstract similarity: 0.242719205700914
+predicted answer: INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.
+sentence similarity: 0.36786156035670337
+abstract: match
+sentence: match
+
+question: what is the gold-standard treatment for bipolar disorder?
+predicted PMID: 30012135
+abstract similarity: 0.17281492075563526
+predicted answer: BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.
+sentence similarity: 0.6523072653887965
+abstract: match
+sentence: match
+
+question: why do clinicians avoid lithium?
+predicted PMID: 30012135
+abstract similarity: 0.28467195463236
+predicted answer: However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.
+sentence similarity: 0.358324512105732
+abstract: match
+sentence: match
+
+question: what are the indicators of urine osmolality?
+predicted PMID: 30012135
+abstract similarity: 0.12659934666594705
+predicted answer: We will recruit 60 current lithium users, aged 18-85, who have indicators of NDI, which we defined as urine osmolality (UOsm) < 600 mOsm/kg after 10-h fluid restriction.
+sentence similarity: 0.3697452800697242
+abstract: match
+sentence: match
+
+question: what is the best way to reduce the risk of re-ulceration?
+predicted PMID: 27590190
+abstract similarity: 0.1500501243217445
+predicted answer: CONCLUSIONS: Lower-extremity ulceration or amputation, and peripheral revascularization both increased the risks of death and cardiovascular events, but only lower-extremity ulceration or amputation increased the risk of severe retinopathy in patients with type 2 diabetes.
+sentence similarity: 0.19874589203041357
+gold PMID: 31295292
+gold sentence: Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.
+
+question: what is the probable benefit of a rigid rocker sole in patients with plantar ulcers?
+predicted PMID: 31295292
+abstract similarity: 0.47259943152669287
+predicted answer: In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.
+sentence similarity: 0.6683385266227668
+abstract: match
+sentence: match
+
+question: what is the best way to treat plantar ulcers?
+predicted PMID: 31295292
+abstract similarity: 0.1830043395271556
+predicted answer: MAIN OUTCOME AND MEASURE: Primary outcome measure was recurrence of ulcers in the plantar aspect of the foot.
+sentence similarity: 0.31435295920798834
+abstract: match
+gold sentence: CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.
+
+question: what is the probable cause of diabetic foot ulcers?
+predicted PMID: 31336474
+abstract similarity: 0.2726516781024232
+predicted answer: The mean scores of preventive behaviors of diabetic foot significantly increased in the intervention group (P < 0.001).
+sentence similarity: 0.2832083763377494
+gold PMID: 34889293
+gold sentence: The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.
+
+question: what should we do to delay the progression of diabetic retinopathy?
+predicted PMID: 7587918
+abstract similarity: 0.19417838362408513
+predicted answer: In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.
+sentence similarity: 0.326232213317975
+abstract: match
+sentence: match
+
+question: if a person suffers from type 2 diabetic mellitus, what kind of treatment should he receive?
+predicted PMID: 7598463
+abstract similarity: 0.20053962690169308
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.17793106228723105
+abstract: match
+gold sentence: The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.
+
+question: if a person has non-insulin-dependent diabetes mellitus, what should he do?
+predicted PMID: 7598463
+abstract similarity: 0.27639665151904674
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.4342138737642616
+abstract: match
+sentence: match
+
+question: What is the risk reduction for diabetes-related endpoint with metformin?
+predicted PMID: 9742977
+abstract similarity: 0.4928941242311872
+predicted answer: Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).
+sentence similarity: 0.44162339174627285
+abstract: match
+sentence: match
+
+question: What is associated with an increased risk of diabetes-related death?
+predicted PMID: 9742977
+abstract similarity: 0.35149261658711334
+predicted answer: Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).
+sentence similarity: 0.467408146776619
+abstract: match
+gold sentence: Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.
+
+question: What decreases the risk of diabetes-related endpoints in overweight diabetic patients?
+predicted PMID: 9742977
+abstract similarity: 0.363810935154969
+predicted answer: INTERPRETATION: Since intensive glucose control with metformin appears to decrease the risk of diabetes-related endpoints in overweight diabetic patients, and is associated with less weight gain and fewer hypoglycaemic attacks than are insulin and sulphonylureas, it may be the first-line pharmacological therapy of choice in these patients.
+sentence similarity: 0.3449293303861111
+abstract: match
+sentence: match
+
+question: What is the progressive nature of diabetic peripheral neuropathy?
+predicted PMID: 32215272
+abstract similarity: 0.24621972120270363
+predicted answer: With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.
+sentence similarity: 0.5105091039713748
+abstract: match
+sentence: match
+
+question: What can even the little changes resulting from combined exercise training be useful for?
+predicted PMID: 32215272
+abstract similarity: 0.34494216686987184
+predicted answer: With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.
+sentence similarity: 0.7216131361679964
+abstract: match
+sentence: match
+
+question: What percentage of lithium users have NDIA?
+predicted PMID: 30012135
+abstract similarity: 0.32784187987946406
+predicted answer: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+sentence similarity: 0.32016947601657075
+abstract: match
+sentence: match
+
+question: How many times higher is the risk of CKD for patients with NDI?
+predicted PMID: 30012135
+abstract similarity: 0.3533963214805246
+predicted answer: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+sentence similarity: 0.4665611228851026
+abstract: match
+sentence: match
+
+question: What drug has a lower NDI risk than lithium?
+predicted PMID: 30012135
+abstract similarity: 0.436806609126679
+predicted answer: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+sentence similarity: 0.2955145556695256
+abstract: match
+gold sentence: We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.
+
+question: What is used to treat lithium-induced NDI?
+predicted PMID: 30012135
+abstract similarity: 0.5061010903158737
+predicted answer: In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.
+sentence similarity: 0.5110563542135909
+abstract: match
+sentence: match
+
+question: What is atorvastatin intended to treat?
+predicted PMID: 30012135
+abstract similarity: 0.2221017761786031
+predicted answer: In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.
+sentence similarity: 0.37614246833674553
+abstract: match
+gold sentence: CONCLUSION: The aim of this clinical trial is to provide preliminary data about the efficacy of atorvastatin in treating NDI.
+
+question: What can improve ulcer recurrence-free survival time in diabetes patients with polyneuropathy?
+predicted PMID: 31295292
+abstract similarity: 0.36709538888218307
+predicted answer: Among the group with >60% adherence to therapeutic footwear, multivariate analysis showed that the rigid rocker sole improved ulcer recurrence-free survival time in diabetes patients with polyneuropathy and DFU history (P = 0.019; 95% confidence interval, 0.086-0.807; hazard ratio, 0.263).
+sentence similarity: 0.4474872027959641
+abstract: match
+sentence: match
+
+question: What is lithium associated with?
+predicted PMID: 30012135
+abstract similarity: 0.40517669966489134
+predicted answer: However, clinicians are increasingly avoiding lithium largely due to fears of renal toxicity.
+sentence similarity: 0.2570322613746412
+gold PMID: 32621644
+gold sentence: OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.
+
+question: Lithium remains an important treatment for what?
+predicted PMID: 32621644
+abstract similarity: 0.2981381089076314
+predicted answer: OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.
+sentence similarity: 0.6735393255572766
+abstract: match
+sentence: match
+
+question: Lithium is a treatment for what?
+predicted PMID: 30012135
+abstract similarity: 0.42029471798915136
+predicted answer: BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.
+sentence similarity: 0.307761039981443
+gold PMID: 32621644
+gold sentence: OBJECTIVE: Lithium remains an important treatment for mood disorders but is associated with kidney disease.
+
+question: What is NDI?
+predicted PMID: 32621644
+abstract similarity: 0.42597778054552116
+predicted answer: Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.
+sentence similarity: 0.4571771353792806
+abstract: match
+gold sentence: Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.
+
+question: What type of diabetes is NIDDM?
+predicted PMID: 7598463
+abstract similarity: 0.29855235645650896
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.356287603167987
+gold PMID: 7587918
+gold sentence: To examine whether intensive glycemic control could decrease the frequency or severity of diabetic microvascular complications, we performed a prospective study of Japanese patients with non-insulin-dependent diabetes mellitus (NIDDM) treated with multiple insulin injection treatment.
+
+question: What is recurrent hypoglycemia?
+predicted PMID: 7598463
+abstract similarity: 0.20033836668109195
+predicted answer: The major risk associated with intensive treatment is recurrent hypoglycemia.
+sentence similarity: 0.7540291167457299
+abstract: match
+sentence: match
+
+question: What should be considered and recommended to most patients with IDDM?
+predicted PMID: 7598463
+abstract similarity: 0.4641257464869365
+predicted answer: Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.
+sentence similarity: 0.706311600824475
+abstract: match
+sentence: match
+
+question: What should be considered and recommended to patients with IDDM?
+predicted PMID: 7598463
+abstract similarity: 0.43335761363975356
+predicted answer: Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.
+sentence similarity: 0.6639167243814921
+abstract: match
+sentence: match
+
+question: Is it possible to improve glycemic control without intensive treatment?
+predicted PMID: 7598463
+abstract similarity: 0.25123139597035293
+predicted answer: If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.
+sentence similarity: 0.2929894438409736
+abstract: match
+sentence: match
+
+question: What should be recommended to most patients with non-insulin-dependent diabetes mellitus?
+predicted PMID: 7598463
+abstract similarity: 0.4933892554259323
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.817559836681674
+abstract: match
+sentence: match
+
+question: What type of diabetes is NIDDM?
+predicted PMID: 7598463
+abstract similarity: 0.29855235645650896
+predicted answer: Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).
+sentence similarity: 0.356287603167987
+abstract: match
+gold sentence: The use of insulin in patients with NIDDM is controversial, especially in patients who are overweight, overeating, and minimally symptomatic.
+
+question: Does metformin reduce the risk of diabetes-related death?
+predicted PMID: 9742977
+abstract similarity: 0.4444089423029015
+predicted answer: Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).
+sentence similarity: 0.4087083700168455
+abstract: match
+gold sentence: Patients allocated metformin, compared with the conventional group, had risk reductions of 32% (95% CI 13-47, p=0.002) for any diabetes-related endpoint, 42% for diabetes-related death (9-63, p=0.017), and 36% for all-cause mortality (9-55, p=0.011).
+
+question: Was early addition of metformin associated with an increased risk of diabetes-related death?
+predicted PMID: 9742977
+abstract similarity: 0.4837969453013486
+predicted answer: Early addition of metformin in sulphonylurea-treated patients was associated with an increased risk of diabetes-related death (96% increased risk [95% CI 2-275], p=0.039) compared with continued sulphonylurea alone.
+sentence similarity: 0.5891194678659701
+abstract: match
+sentence: match
+
+question: Does the combination of sulphonylurea and metformin increase the risk of diabetes-related death?
+predicted PMID: 9742977
+abstract similarity: 0.4784904595177689
+predicted answer: Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).
+sentence similarity: 0.5273452316703732
+abstract: match
+sentence: match
+
+question: Does intensified multifactorial intervention significantly reduce the onset and progression of diabetic kidney disease?
+predicted PMID: 32891604
+abstract similarity: 0.3977276401605183
+predicted answer: Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.
+sentence similarity: 0.5907992020145764
+abstract: match
+sentence: match
+
+question: Does lithium have anti-suicidal properties?
+predicted PMID: 30012135
+abstract similarity: 0.2684119436049373
+predicted answer: BACKGROUND: Lithium is the gold-standard treatment for bipolar disorder, is highly effective in treating major depressive disorder, and has anti-suicidal properties.
+sentence similarity: 0.4321963049882256
+abstract: match
+sentence: match
+
+question: What does NDI do?
+predicted PMID: 32621644
+abstract similarity: 0.25343115251853104
+predicted answer: Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.
+sentence similarity: 0.2811342707242467
+gold PMID: 30012135
+gold sentence: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+
+question: What has the International Working Group on the Diabetic Foot described therapeutic footwear as?
+predicted PMID: 31295292
+abstract similarity: 0.42469927587804723
+predicted answer: Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.
+sentence similarity: 0.7131952494035418
+abstract: match
+sentence: match
+
+question: Are there any randomized controlled trials for lithium-induced NDI?
+predicted PMID: 32621644
+abstract similarity: 0.47972693718606035
+predicted answer: There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.
+sentence similarity: 0.5668552880714365
+abstract: match
+sentence: match
+
+question: Does atorvastatin improve urinary osmolality?
+predicted PMID: 32621644
+abstract similarity: 0.2202909833376377
+predicted answer: CONCLUSION: Among lithium users with NDI, atorvastatin 20 mg/d did not significantly improve urinary osmolality compared to placebo over a 12-week period.
+sentence similarity: 0.48085903868538427
+abstract: match
+sentence: match
+
+question: Is the endothelial cell densitometer lower in diabetes mellitus patients with retinopathy than in healthy individuals?
+predicted PMID: 32321301
+abstract similarity: 0.5820884371082173
+predicted answer: CONCLUSION: The endothelial cell densitometer in diabetes mellitus patients with retinopathy is lower than that in healthy individuals.
+sentence similarity: 0.9602101847359904
+abstract: match
+sentence: match
+
+question: Is it difficult to implement intensive treatment recommendations?
+predicted PMID: 7598463
+abstract similarity: 0.27146425673248253
+predicted answer: Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.
+sentence similarity: 0.4297149394722609
+abstract: match
+sentence: match
+
+question: Is it possible to improve glycemic control without intensive treatment?
+predicted PMID: 7598463
+abstract similarity: 0.25123139597035293
+predicted answer: If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.
+sentence similarity: 0.2929894438409736
+abstract: match
+sentence: match
+
+question: What are the questions to be answered in this study: Is metformin-dependent glucose control a good idea?
+predicted PMID: 9742977
+abstract similarity: 0.30337834360686716
+predicted answer: This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.
+sentence similarity: 0.30980480171512875
+abstract: match
+sentence: match
+
+question: What are the questions related to Intensive therapy?
+predicted PMID: 8040759
+abstract similarity: 0.25099935611562507
+predicted answer: In the primary prevention cohort, intensive therapy decreased the risk of having retinopathy by 53% (95% confidence interval: 1% to 78%; p = 0.048) in comparison with conventional therapy.
+sentence similarity: 0.2724417846852861
+gold PMID: 32891604
+gold sentence: Intensive therapy was associated with a significant 32% reduction in kidney events compared to conventional therapy and was associated with a change in HbA1c at one year from study initiation.
+
+question: What causes diabetes care disparity? (Also called: Diabetes - type 1; Diabetes mellitus)
+predicted PMID: 24766062
+abstract similarity: 0.22735548561734634
+predicted answer: CONCLUSIONS: In primary care, lower levels of diabetes distress were reported than in secondary care.
+sentence similarity: 0.20606133566694373
+gold PMID: 32215272
+gold sentence: This in turn results in imbalance leading to the diabetic patients' daily activity disparity.
+
+question: What to do for diabetic peripheral neuropathy? (Also called: Peripheral neuropathy)
+predicted PMID: 32306762
+abstract similarity: 0.24408038728731976
+predicted answer: SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.
+sentence similarity: 0.36292077914472937
+gold PMID: 32215272
+gold sentence: With regard to the progressive nature of diabetic peripheral neuropathy, it seems that even the little changes resulting from the combined exercise training can be useful.
+
+question: What causes questions about Nephrogenic Diabetes Insipidus (NDI)
+predicted PMID: 32621644
+abstract similarity: 0.22187865793751996
+predicted answer: Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.
+sentence similarity: 0.37122594862683816
+gold PMID: 30012135
+gold sentence: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+
+question: What causes questions about Statins and NDI risk?
+predicted PMID: 30012135
+abstract similarity: 0.23309599464854508
+predicted answer: We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.
+sentence similarity: 0.3201538383520399
+abstract: match
+sentence: match
+
+question: What to do for Diabetic Foot Therapeutic Footwear?
+predicted PMID: 31295292
+abstract similarity: 0.43467224776618124
+predicted answer: BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.
+sentence similarity: 0.4897453637618715
+abstract: match
+gold sentence: Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.
+
+question: What causes questions about Nephrogenic diabetes insipidus (NDI)
+predicted PMID: 32621644
+abstract similarity: 0.22187865793751996
+predicted answer: Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.
+sentence similarity: 0.37122594862683816
+abstract: match
+sentence: match
+
+question: What causes questions about lithium-induced NDI?
+predicted PMID: 30012135
+abstract similarity: 0.39293704323327494
+predicted answer: In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.
+sentence similarity: 0.3297854193082783
+gold PMID: 32621644
+gold sentence: There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.
+
+question: What are the challenges of lithium-induced NDI?
+predicted PMID: 30012135
+abstract similarity: 0.5548767902641062
+predicted answer: In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.
+sentence similarity: 0.479258138716967
+gold PMID: 32621644
+gold sentence: Therefore, novel treatments are needed for lithium-induced NDI.
+
+question: what kind of glucose control is better?
+predicted PMID: 8529508
+abstract similarity: 0.23048998811839408
+predicted answer: It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.
+sentence similarity: 0.24057304671952595
+gold PMID: 9742977
+gold sentence: This study investigated whether intensive glucose control with metformin has any specific advantage or disadvantage.
+
+question: what is the probable effect of intensified multifactorial intervention in the patients with type 2 diabetes?
+predicted PMID: 32891604
+abstract similarity: 0.30216712443918636
+predicted answer: Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.
+sentence similarity: 0.4230076532568734
+abstract: match
+gold sentence: To evaluate the effect of multifactorial intervention on the onset and progression of diabetic kidney disease in the patients with type 2 diabetes, we analyzed the effects of intensified multifactorial intervention by step-wise intensification of medications and life-style modifications (intensive therapy treatment targets; HbA1c under 6.2%, blood pressure under 120/75 mmHg, low-density lipoprotein cholesterol under 80 mg/dL) comparing with the guideline-based standard care (conventional therapy treatment targets: HbA1c under 6.9%, blood pressure under 130/80 mmHg, low-density lipoprotein cholesterol under 120 mg/dL) on diabetic kidney disease.
+
+question: what is the probable cause of kidney failure?
+predicted PMID: 32891604
+abstract similarity: 0.25164571477889763
+predicted answer: The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.
+sentence similarity: 0.2492866168480925
+abstract: match
+sentence: match
+
+question: if a diabetic suffers from diabetic peripheral neuropathy, what should he do?
+predicted PMID: 32306762
+abstract similarity: 0.1892307108106468
+predicted answer: SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.
+sentence similarity: 0.2516720731427435
+gold PMID: 32215272
+gold sentence: Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.
+
+question: which is the result of Nephrogenic Diabetes Insipidus?
+predicted PMID: 35521789
+abstract similarity: 0.17315197155859735
+predicted answer: BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.
+sentence similarity: 0.26148292035471
+gold PMID: 30012135
+gold sentence: Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).
+
+question: what was found in experiments with atorvastatin?
+predicted PMID: 30012135
+abstract similarity: 0.2101740941040905
+predicted answer: We will randomize patients to atorvastatin (20 mg/day) or placebo for 12 weeks.
+sentence similarity: 0.2753133764166328
+gold PMID: 32621644
+gold sentence: A moderate effect size was observed for improvements in baseline UOsm by ≥100 mOsm/kg at 12 weeks in patients who received atorvastatin compared to placebo (38.45% (10/26) vs 22.58% (7/31); Cohen's d = 0.66).
+
+question: what does moxibustion do?
+predicted PMID: 34889293
+abstract similarity: 0.21353810011137053
+predicted answer: During the intervention period, the moxibustion group will take 3 moxibustion sessions per week, whereas no intervention will be done on the waiting group to act as the control group.
+sentence similarity: 0.3015666332173649
+abstract: match
+gold sentence: Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.
+
+General information:
+date and time: 2022-07-17 18:24:08.688360
+number of abstracts: 50
+number of questions: 106
+abstract accuracy: 0.7547169811320755
+abstract similarity correct: 0.328067012123604
+abstract similarity wrong: 0.2714630448001185
+sentence accuracy: 0.6132075471698113
+sentence similarity correct: 0.5397894992392526
+sentence similarity wrong: 0.33657563075335106
