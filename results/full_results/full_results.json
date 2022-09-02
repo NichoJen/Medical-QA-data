@@ -16,12 +16,6 @@
             {
                 "PMID": "32621644",
                 "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
                 "pmid_match": true,
                 "sentence_match": false
             }
@@ -30,12 +24,6 @@
     {
         "question": "What does DPN do?",
         "answers": [
-            {
-                "PMID": "31899340",
-                "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
@@ -58,12 +46,6 @@
     {
         "question": "What are common chronic complications of diabetics?",
         "answers": [
-            {
-                "PMID": "9893692",
-                "answer": "On the basis of published reports, the JNC VI guidelines are recommended: calcium antagonists should not be used as first line treatment in diabetics.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "9893692",
                 "answer": "On the basis of published reports, the JNC VI guidelines are recommended: calcium antagonists should not be used as first line treatment in diabetics.",
@@ -102,12 +84,6 @@
                 "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
                 "pmid_match": true,
                 "sentence_match": true
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -119,24 +95,12 @@
                 "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "31899340",
-                "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "What are common complications of diabetes mellitus?",
         "answers": [
-            {
-                "PMID": "32321301",
-                "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "32321301",
                 "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
@@ -184,12 +148,6 @@
             {
                 "PMID": "32621644",
                 "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
                 "pmid_match": true,
                 "sentence_match": true
             }
@@ -225,12 +183,6 @@
                 "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
                 "pmid_match": true,
                 "sentence_match": true
-            },
-            {
-                "PMID": "7598463",
-                "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -241,12 +193,6 @@
                 "PMID": "7598463",
                 "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
                 "pmid_match": true,
-                "sentence_match": false
-            },
-            {
-                "PMID": "7598463",
-                "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
-                "pmid_match": false,
                 "sentence_match": false
             }
         ]
@@ -259,12 +205,6 @@
                 "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
                 "pmid_match": true,
                 "sentence_match": true
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -298,12 +238,6 @@
                 "answer": "At present, it is uncertain whether Type II diabetes should be treated more intensively, with diet, tablet or insulin therapy to maintain near-normal glucose levels, in order to prevent the onset of complications.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "8529508",
-                "answer": "At present, it is uncertain whether Type II diabetes should be treated more intensively, with diet, tablet or insulin therapy to maintain near-normal glucose levels, in order to prevent the onset of complications.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -315,18 +249,6 @@
                 "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
                 "pmid_match": true,
                 "sentence_match": true
-            },
-            {
-                "PMID": "7598463",
-                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
-            {
-                "PMID": "7598463",
-                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -501,12 +423,6 @@
             {
                 "PMID": "32306762",
                 "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
-            {
-                "PMID": "32306762",
-                "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
                 "pmid_match": true,
                 "sentence_match": false
             }
@@ -639,7 +555,7 @@
             {
                 "PMID": "32306762",
                 "answer": "Further outcomes were fasting blood sugar and glycosylated hemoglobin.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -685,12 +601,6 @@
                 "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
                 "pmid_match": true,
                 "sentence_match": true
-            },
-            {
-                "PMID": "8981711",
-                "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
-                "pmid_match": true,
-                "sentence_match": false
             }
         ]
     },
@@ -702,12 +612,6 @@
                 "answer": "CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.",
                 "pmid_match": true,
                 "sentence_match": true
-            },
-            {
-                "PMID": "8981711",
-                "answer": "CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.",
-                "pmid_match": true,
-                "sentence_match": false
             }
         ]
     },
@@ -1367,12 +1271,6 @@
                 "PMID": "32891604",
                 "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
                 "pmid_match": true,
-                "sentence_match": false
-            },
-            {
-                "PMID": "32891604",
-                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
-                "pmid_match": true,
                 "sentence_match": true
             }
         ]
@@ -1380,12 +1278,6 @@
     {
         "question": "What are the possible measures to control Nephrogenic Diabetes Insipidus?",
         "answers": [
-            {
-                "PMID": "35521789",
-                "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "35521789",
                 "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
@@ -1433,7 +1325,7 @@
             {
                 "PMID": "31899340",
                 "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -1441,12 +1333,6 @@
     {
         "question": "What are the possible measures to control type 1 diabetes?",
         "answers": [
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "7711992",
                 "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
@@ -1474,24 +1360,12 @@
                 "answer": "The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.",
                 "pmid_match": true,
                 "sentence_match": false
-            },
-            {
-                "PMID": "32891604",
-                "answer": "The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.",
-                "pmid_match": true,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "What is the best way to treat or control Nephrogenic Diabetes Insipidus?",
         "answers": [
-            {
-                "PMID": "35521789",
-                "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "35521789",
                 "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
@@ -1530,12 +1404,6 @@
                 "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -1569,24 +1437,12 @@
                 "answer": "These results need to be interpreted with caution as they are based on two separate studies, but do call into question the need to screen for diabetes distress in people with Type 2 diabetes in primary care.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "24766062",
-                "answer": "These results need to be interpreted with caution as they are based on two separate studies, but do call into question the need to screen for diabetes distress in people with Type 2 diabetes in primary care.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "How do I treat diabetic kidney disease safely?",
         "answers": [
-            {
-                "PMID": "32891604",
-                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
-                "pmid_match": true,
-                "sentence_match": false
-            },
             {
                 "PMID": "32891604",
                 "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
@@ -1598,12 +1454,6 @@
     {
         "question": "How do I treat Nephrogenic Diabetes Insipidus safely?",
         "answers": [
-            {
-                "PMID": "35521789",
-                "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "35521789",
                 "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
@@ -1642,24 +1492,12 @@
                 "answer": "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.",
                 "pmid_match": true,
                 "sentence_match": false
-            },
-            {
-                "PMID": "32321301",
-                "answer": "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "How do I treat DPN safely?",
         "answers": [
-            {
-                "PMID": "31899340",
-                "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
@@ -1742,30 +1580,12 @@
                 "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "31336474",
-                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "What are some treatments for DPN?",
         "answers": [
-            {
-                "PMID": "31899340",
-                "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
-            {
-                "PMID": "31899340",
-                "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
@@ -1804,24 +1624,12 @@
                 "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
                 "pmid_match": true,
                 "sentence_match": null
-            },
-            {
-                "PMID": "29606547",
-                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
-                "pmid_match": true,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "What are some treatments for type 1 diabetes?",
         "answers": [
-            {
-                "PMID": "7711992",
-                "answer": "Some questions remained, however.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "7711992",
                 "answer": "Some questions remained, however.",
@@ -1893,12 +1701,6 @@
                 "answer": "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.",
                 "pmid_match": true,
                 "sentence_match": null
-            },
-            {
-                "PMID": "32215272",
-                "answer": "The experimental group received resistance-aerobic training for 3 sessions during eight weeks.",
-                "pmid_match": true,
-                "sentence_match": false
             }
         ]
     },
@@ -1954,24 +1756,12 @@
                 "answer": "Are the findings in this study applicable to individuals with type II diabetes?",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "7711992",
-                "answer": "Are the findings in this study applicable to individuals with type II diabetes?",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "How to manage microvascular disease?",
         "answers": [
-            {
-                "PMID": "33952397",
-                "answer": "Interaction terms were fitted in survival models to estimate the risk of both outcomes across levels of an overall microvascular disease score (range 0 to 100) and its individual components: diabetic nephropathy, retinopathy, and neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "33952397",
                 "answer": "Interaction terms were fitted in survival models to estimate the risk of both outcomes across levels of an overall microvascular disease score (range 0 to 100) and its individual components: diabetic nephropathy, retinopathy, and neuropathy.",
@@ -2010,24 +1800,12 @@
                 "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "35521789",
-                "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "How to manage diabetic kidney disease?",
         "answers": [
-            {
-                "PMID": "32891604",
-                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
-                "pmid_match": true,
-                "sentence_match": false
-            },
             {
                 "PMID": "32891604",
                 "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
@@ -2039,12 +1817,6 @@
     {
         "question": "How to manage NIDDM?",
         "answers": [
-            {
-                "PMID": "7598463",
-                "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "7598463",
                 "answer": "Improved glycemic control should be recommended to most patients with non-insulin-dependent diabetes mellitus (NIDDM).",
@@ -2136,7 +1908,7 @@
             {
                 "PMID": "9742977",
                 "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -2147,7 +1919,7 @@
             {
                 "PMID": "7598463",
                 "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -2182,24 +1954,12 @@
                 "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "32306762",
-                "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "Does diabetes cause kidney disease?",
         "answers": [
-            {
-                "PMID": "32891604",
-                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "32891604",
                 "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
@@ -2216,12 +1976,6 @@
                 "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "35521789",
-                "answer": "BACKGROUND: The differential diagnosis of diabetes insipidus is challenging.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -2233,24 +1987,12 @@
                 "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
                 "pmid_match": true,
                 "sentence_match": false
-            },
-            {
-                "PMID": "32891604",
-                "answer": "Thus, prespecified analysis shows that intensified multifactorial intervention significantly reduced the onset and progression of diabetic kidney disease compared to currently recommended care.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "What causes diabetic foot?",
         "answers": [
-            {
-                "PMID": "31336474",
-                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "31336474",
                 "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
@@ -2276,7 +2018,7 @@
             {
                 "PMID": "8040759",
                 "answer": "The major adverse event with intensive therapy was a nearly threefold increase of severe hypoglycemia.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -2287,7 +2029,7 @@
             {
                 "PMID": "32215272",
                 "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -2295,12 +2037,6 @@
     {
         "question": "What causes peripheral neuropathy?",
         "answers": [
-            {
-                "PMID": "32306762",
-                "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "32306762",
                 "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
@@ -2315,7 +2051,7 @@
             {
                 "PMID": "24766062",
                 "answer": "Other diabetes complications were not independently associated with diabetes distress.",
-                "pmid_match": false,
+                "pmid_match": null,
                 "sentence_match": false
             }
         ]
@@ -2345,12 +2081,6 @@
     {
         "question": "What are the risks of type 2 diabetes?",
         "answers": [
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "7711992",
                 "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
@@ -2400,12 +2130,6 @@
                 "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -2428,12 +2152,6 @@
                 "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "32321301",
-                "answer": "OBJECTIVE: The aim of this study is to investigate the effects of the HbA1c level and the duration of diabetes mellitus on the corneal endothelium morphology and to compare between healthy individuals and diabetes mellitus patients with non-proliferative diabetic retinopathy and proliferative diabetic retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
@@ -2445,24 +2163,12 @@
                 "answer": "The mean scores of preventive behaviors of diabetic foot significantly increased in the intervention group (P\u202f<\u202f0.001).",
                 "pmid_match": false,
                 "sentence_match": false
-            },
-            {
-                "PMID": "31336474",
-                "answer": "The mean scores of preventive behaviors of diabetic foot significantly increased in the intervention group (P\u202f<\u202f0.001).",
-                "pmid_match": false,
-                "sentence_match": false
             }
         ]
     },
     {
         "question": "What are the risks of diabetes type 2?",
         "answers": [
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "7711992",
                 "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
@@ -2529,12 +2235,6 @@
     {
         "question": "What causes hypertension in people with diabetes?",
         "answers": [
-            {
-                "PMID": "24766062",
-                "answer": "METHODS: People with Type 2 diabetes from 24 primary care practices (n = 774) and three secondary care clinics (n = 526) completed the Problem Areas In Diabetes questionnaire.",
-                "pmid_match": false,
-                "sentence_match": false
-            },
             {
                 "PMID": "24766062",
                 "answer": "METHODS: People with Type 2 diabetes from 24 primary care practices (n = 774) and three secondary care clinics (n = 526) completed the Problem Areas In Diabetes questionnaire.",
