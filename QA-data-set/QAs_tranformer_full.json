@@ -50,7 +50,10 @@
         "id1": 1,
         "id2": 0,
         "category": "specific",
-        "semantic_category": "treatment"
+        "semantic_category": "treatment",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What is NDI?",
@@ -107,7 +110,10 @@
         "id1": 10,
         "id2": 0,
         "category": "general",
-        "semantic_category": "disease"
+        "semantic_category": "disease",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What does DPN do?",
@@ -186,7 +192,10 @@
         "id1": 26,
         "id2": 0,
         "category": "general",
-        "semantic_category": "disease"
+        "semantic_category": "disease",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What could reduce the risk of heart attacks in patients with type 2 diabetes?",
@@ -238,7 +247,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 2,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What are common chronic complications of diabetics?",
@@ -316,7 +328,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 7,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What causes nerve damage and muscle strength decrease in diabetic patients?",
@@ -359,7 +374,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 8,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What type of shoes are best for people with diabetic foot ulcers?",
@@ -396,7 +414,10 @@
         "source_model": "DeepL",
         "id1": 12,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What is the risk of incident chronic kidney disease among lithium users?",
@@ -452,7 +473,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 14,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What is DPN?",
@@ -530,7 +554,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 16,
         "id2": 0,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What are common complications of diabetes mellitus?",
@@ -608,7 +635,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 17,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What are the main clinical manifestations of DPN?",
@@ -639,7 +669,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 18,
         "id2": 0,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "Does intensive blood-glucose control with insulin or sulphonylurea decrease the progression of microvascular disease?",
@@ -691,7 +724,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 20,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Is metformin the first-line pharmacological therapy of choice in overweight diabetic patients?",
@@ -732,7 +766,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 21,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Are statins associated with lower NDI risk?",
@@ -786,7 +821,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 22,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Does moxibustion have a positive effect on DPN?",
@@ -815,7 +851,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 28,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Can intensive glycemic control delay the onset of diabetic retinopathy?",
@@ -843,7 +880,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 29,
         "id2": 2,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Is improved glycemic control recommended for patients with NIDDM?",
@@ -889,7 +927,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 30,
         "id2": 2,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Is insulin used in patients with NIDDM?",
@@ -955,7 +994,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 31,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "What is the risk of chronic kidney disease among lithium users?",
@@ -1011,7 +1051,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 32,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What to do for diabetic kidney disease - intensified multifactorial intervention?",
@@ -1033,7 +1076,10 @@
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
         "id1": 34,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What causes diabetic peripheral neuropathy?",
@@ -1076,7 +1122,10 @@
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
         "id1": 35,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "How can I prevent diabetic retinopathy - multi-injection therapy?",
@@ -1117,7 +1166,10 @@
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
         "id1": 39,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": "What are the risks of intensive treatment?",
@@ -1164,7 +1216,10 @@
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
         "id1": 40,
         "id2": 2,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the best way to reduce the risk of re-ulceration for patients with diabetic foot?",
@@ -1180,7 +1235,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 48,
         "id2": 2,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the cause of diabetic foot ulcers?",
@@ -1211,7 +1269,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 52,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "if a person suffers from type 1 diabetes mellitus, what kind of treatment should he receive?",
@@ -1243,7 +1304,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 54,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "if a person has non-insulin-dependent diabetes mellitus, what should he do?",
@@ -1271,7 +1335,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 56,
         "id2": 1,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What is exercise training be useful for in diabetic patients?",
@@ -1299,7 +1366,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 71,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What percentage of lithium users have NDI?",
@@ -1335,7 +1405,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 75,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "How many times higher is the risk of CKD for patients with NDI?",
@@ -1371,7 +1444,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 76,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": "What drug has a lower NDI risk than lithium?",
@@ -1400,7 +1476,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 77,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What type of diabetes is NIDDM?",
@@ -1428,7 +1507,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 98,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "Does metformin reduce the risk of diabetes-related death?",
@@ -1464,7 +1546,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 112,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "What should be recommended most patients with non-insulin-dependent diabetes mellitus?",
@@ -1492,7 +1575,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 108,
         "id2": 2,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "Does intensified multifactorial intervention significantly reduce the onset and progression of diabetic kidney disease?",
@@ -1514,7 +1600,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 118,
         "id2": 1,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": []
     },
     {
         "question": "Are there any randomized controlled trials for lithium-induced NDI?",
@@ -1536,7 +1623,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 130,
         "id2": 0,
-        "category": "general"
+        "category": "general",
+        "Q-class": []
     },
     {
         "question": "What to do for diabetic peripheral neuropathy? (Also called: Peripheral neuropathy)",
@@ -1564,7 +1652,10 @@
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
         "id1": 147,
         "id2": 0,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "What to do for Diabetic Foot?",
@@ -1580,7 +1671,10 @@
         "source_model": "T5_pubmedqa_question_generation_preTrained_MedQuad",
         "id1": 151,
         "id2": 0,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "if a diabetic suffers from diabetic peripheral neuropathy, what should he do?",
@@ -1640,7 +1734,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 173,
         "id2": 0,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the result of Nephrogenic Diabetes Insipidus?",
@@ -1676,7 +1773,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 176,
         "id2": 2,
-        "category": "specific"
+        "category": "specific",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what does moxibustion do for people with diabetes?",
@@ -1705,7 +1805,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 186,
         "id2": 0,
-        "category": "general"
+        "category": "general",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is a possible cause of peripheral neuropathy?",
@@ -1754,7 +1857,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 187,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the safety of semaglutide?",
@@ -1783,7 +1889,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 190,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "according to the doctor, how should we treat the early worsening of DR?",
@@ -1821,7 +1930,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 192,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": "who is at increased risk of developing heart failure?",
@@ -1880,7 +1992,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 193,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "who"
+        ]
     },
     {
         "question": "what should we do if we want to know more about glycaemic fluctuations?",
@@ -1902,7 +2017,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 195,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the use of acupuncture in diabetic peripheral neuropathy?",
@@ -1969,7 +2087,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 197,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the effect of acupuncture on dPN?",
@@ -1998,7 +2119,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 198,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the best way to decrease the symptoms of diabetic peripheral neuropathy?",
@@ -2025,7 +2149,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 199,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " who is most likely to have unrecognized MI?",
@@ -2064,7 +2191,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 202,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "who"
+        ]
     },
     {
         "question": "what is the relationship between blood sugar levels and type 2 diabetes?",
@@ -2094,7 +2224,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 203,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is arginine used for?",
@@ -2119,7 +2252,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 206,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the function of glucagon?",
@@ -2156,7 +2292,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 207,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the function of Acarbose?",
@@ -2179,7 +2318,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 209,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what kind of patients benefit from early photocoagulation?",
@@ -2238,7 +2380,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 210,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what kind of people are more likely to benefit from early scatter photocoagulation?",
@@ -2297,7 +2442,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 212,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the function of premeal insulin in children with type 1 diabetes?",
@@ -2335,7 +2483,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 213,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "if a person has type 2 diabetes, what kind of treatment should he receive?",
@@ -2370,7 +2521,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 214,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": "what is the disadvantage of the intensive therapy in adolescents?",
@@ -2393,7 +2547,10 @@
         "source_model": "bart-eqg-question-generator",
         "id1": 215,
         "id2": 1,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What are the long-term complications of diabetes?",
@@ -2442,7 +2599,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 217,
         "id2": 1,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is peripheral arterial disease?",
@@ -2494,7 +2654,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 218,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is PAD associated with?",
@@ -2546,7 +2709,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 219,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What does lower-extremity ulceration or amputation increase in patients with type 2 diabetes?",
@@ -2583,7 +2749,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 220,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What increases the risk of death and cardiovascular events?",
@@ -2620,7 +2789,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 221,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is DR?",
@@ -2643,7 +2815,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 222,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What are some of the benefits of the dietary di bundle?",
@@ -2690,7 +2865,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 227,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " How is staged diabetes management designed?",
@@ -2718,7 +2896,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 228,
         "id2": 1,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": " What does hyperglycaemia cause?",
@@ -2751,7 +2932,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 231,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " How much haemoglobin A1c level does intensive therapy achieve?",
@@ -2767,7 +2951,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 232,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": " What is CGM?",
@@ -2794,7 +2981,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 234,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is detectable in children with diabetes?",
@@ -2829,7 +3019,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 236,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What can chronic exposure to hyperglycemia cause in kids?",
@@ -2864,7 +3057,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 237,
         "id2": 1,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is recommended to lower the risk of initial CVD events in T1D?",
@@ -2891,7 +3087,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 242,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What type of acupuncture has significant effects on DPN?",
@@ -2920,7 +3119,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 244,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What type of intervention can decrease the symptoms and severity of diabetic peripheral neuropathy?",
@@ -2947,7 +3149,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 246,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What reduces pulmonary microvascular permeability?",
@@ -2974,7 +3179,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 247,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is the risk of unrecognized MI?",
@@ -3013,7 +3221,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 252,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What type of diabetes is associated with high risk of atherosclerotic cardiovascular disease?",
@@ -3047,7 +3258,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 254,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What are differential diagnoses of diabetes insipidus?",
@@ -3075,7 +3289,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 257,
         "id2": 1,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is the most reliable method of measuring copeptin?",
@@ -3100,7 +3317,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 258,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is glucagon similar to?",
@@ -3134,7 +3354,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 259,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is an alpha-glucosidase inhibitor?",
@@ -3157,7 +3380,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 265,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What lowers post-prandial blood glucose level?",
@@ -3180,7 +3406,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 266,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is Orliatort?",
@@ -3207,7 +3436,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 267,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is the current standard of care for diabetic retinopathy?",
@@ -3252,7 +3484,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 269,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is reduced by premeal insulin in children with type 1 diabetes?",
@@ -3290,7 +3525,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 271,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is the cardiometabolic profile of diabetes?",
@@ -3345,7 +3583,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 272,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What are known risk factors for diabetes complications?",
@@ -3422,7 +3663,10 @@
         "source_model": "t5-base-e2e-qg (default)",
         "id1": 275,
         "id2": 0,
-        "category": "tbd"
+        "category": "tbd",
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is peripheral neuropathy?",
@@ -3470,7 +3714,10 @@
         "source_PMID": "29606547",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 277,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What can aerobic exercise training help with NCV?",
@@ -3491,7 +3738,10 @@
         "source_PMID": "29606547",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 278,
-        "id2": 1
+        "id2": 1,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " Does lower extremity ulceration increase the risk of severe retinopathy in type 2 diabetes?",
@@ -3527,7 +3777,8 @@
         "source_PMID": "27590190",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 279,
-        "id2": 1
+        "id2": 1,
+        "Q-class": []
     },
     {
         "question": "Is insulin used to treat early worsening of DR?",
@@ -3564,7 +3815,8 @@
         "source_PMID": "29178519",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 281,
-        "id2": 1
+        "id2": 1,
+        "Q-class": []
     },
     {
         "question": " What is recommended for semaglutide?",
@@ -3587,7 +3839,10 @@
         "source_PMID": "29178519",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 282,
-        "id2": 1
+        "id2": 1,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is the risk of heart failure for diabetes mellitus patients?",
@@ -3645,7 +3900,10 @@
         "source_PMID": "34372849",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 283,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is staged diabetes management?",
@@ -3672,7 +3930,10 @@
         "source_PMID": "7711992",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 286,
-        "id2": 1
+        "id2": 1,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What is the purpose of SDM?",
@@ -3699,7 +3960,10 @@
         "source_PMID": "7711992",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 287,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " Are patients treated to prevent hyperglycaemia?",
@@ -3731,7 +3995,8 @@
         "source_PMID": "8529508",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 289,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " How is glycaemic control measured?",
@@ -3746,7 +4011,10 @@
         "source_PMID": "29603547",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 293,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": " Does intermittent retrospective CGM reduce the risk of macrosomia?",
@@ -3783,7 +4051,8 @@
         "source_PMID": "29603547",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 294,
-        "id2": 1
+        "id2": 1,
+        "Q-class": []
     },
     {
         "question": " Does CGM improve pregnancy outcomes?",
@@ -3804,7 +4073,8 @@
         "source_PMID": "29603547",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 295,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " Does a single DKA episode cause memory declines?",
@@ -3825,7 +4095,8 @@
         "source_PMID": "32962981",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 296,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " What can be done to reduce the severity of diabetic peripheral neuropathy?",
@@ -3851,7 +4122,10 @@
         "source_PMID": "32306762",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 298,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " Does diabetes mellitus increase or decrease the risk of developing ARDS?",
@@ -3877,7 +4151,8 @@
         "source_PMID": "32957394",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 299,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " Are conservative fluid management strategies better for patients with ARDS?",
@@ -3908,7 +4183,8 @@
         "source_PMID": "32957394",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 300,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " What is the cause of blood pressure and microalbuminuria?",
@@ -3962,7 +4238,10 @@
         "source_PMID": "32501612",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 302,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What does DPN stand for?",
@@ -4000,7 +4279,10 @@
         "source_PMID": "31899340",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 306,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " What does Type 2 diabetes mellitus do?",
@@ -4033,7 +4315,10 @@
         "source_PMID": "31798892",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 308,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "what"
+        ]
     },
     {
         "question": " How does glucagon affect neurohypophysis?",
@@ -4066,7 +4351,10 @@
         "source_PMID": "35521789",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 310,
-        "id2": 0
+        "id2": 0,
+        "Q-class": [
+            "how"
+        ]
     },
     {
         "question": " Does glucagon stimulate the neurohypophysis?",
@@ -4102,7 +4390,8 @@
         "source_PMID": "35521789",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 311,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " Is early photocoagulation beneficial for diabetics?",
@@ -4170,7 +4459,8 @@
         "source_PMID": "8981711",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 317,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " Is higher insulin dose associated with lower menopause risk?",
@@ -4185,7 +4475,8 @@
         "source_PMID": "24170751",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 319,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     },
     {
         "question": " Does intensive therapy slow the progression of diabetic retinopathy?",
@@ -4207,6 +4498,7 @@
         "source_PMID": "8040759",
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 321,
-        "id2": 0
+        "id2": 0,
+        "Q-class": []
     }
 ]
