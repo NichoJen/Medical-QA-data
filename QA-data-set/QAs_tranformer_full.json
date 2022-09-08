@@ -53,6 +53,9 @@
         "semantic_category": "treatment",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "reduce"
         ]
     },
     {
@@ -113,6 +116,9 @@
         "semantic_category": "disease",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -195,6 +201,9 @@
         "semantic_category": "disease",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "do"
         ]
     },
     {
@@ -250,6 +259,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "reduce"
         ]
     },
     {
@@ -331,6 +343,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -377,6 +392,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -417,6 +435,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -476,6 +497,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -557,6 +581,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -638,6 +665,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -672,6 +702,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -725,7 +758,10 @@
         "id1": 20,
         "id2": 0,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "decrease"
+        ]
     },
     {
         "question": "Is metformin the first-line pharmacological therapy of choice in overweight diabetic patients?",
@@ -767,7 +803,10 @@
         "id1": 21,
         "id2": 0,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "metformin"
+        ]
     },
     {
         "question": "Are statins associated with lower NDI risk?",
@@ -822,7 +861,10 @@
         "id1": 22,
         "id2": 0,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "associated"
+        ]
     },
     {
         "question": "Does moxibustion have a positive effect on DPN?",
@@ -852,7 +894,10 @@
         "id1": 28,
         "id2": 0,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "have"
+        ]
     },
     {
         "question": "Can intensive glycemic control delay the onset of diabetic retinopathy?",
@@ -881,7 +926,10 @@
         "id1": 29,
         "id2": 2,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "delay"
+        ]
     },
     {
         "question": "Is improved glycemic control recommended for patients with NIDDM?",
@@ -928,7 +976,10 @@
         "id1": 30,
         "id2": 2,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "recommended"
+        ]
     },
     {
         "question": "Is insulin used in patients with NIDDM?",
@@ -995,7 +1046,10 @@
         "id1": 31,
         "id2": 0,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "used"
+        ]
     },
     {
         "question": "What is the risk of chronic kidney disease among lithium users?",
@@ -1054,6 +1108,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1079,6 +1136,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "to do"
         ]
     },
     {
@@ -1125,6 +1185,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -1169,6 +1232,9 @@
         "category": "general",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "prevent"
         ]
     },
     {
@@ -1219,6 +1285,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1238,6 +1307,10 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to reduce"
         ]
     },
     {
@@ -1272,6 +1345,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1307,6 +1383,10 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "suffers",
+            "receive"
         ]
     },
     {
@@ -1338,6 +1418,10 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "has",
+            "do"
         ]
     },
     {
@@ -1369,6 +1453,10 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "be"
         ]
     },
     {
@@ -1408,6 +1496,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "have"
         ]
     },
     {
@@ -1447,6 +1538,9 @@
         "category": "specific",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1479,6 +1573,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "has"
         ]
     },
     {
@@ -1510,6 +1607,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1547,7 +1647,10 @@
         "id1": 112,
         "id2": 1,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "reduce"
+        ]
     },
     {
         "question": "What should be recommended most patients with non-insulin-dependent diabetes mellitus?",
@@ -1578,6 +1681,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "should be recommended"
         ]
     },
     {
@@ -1601,7 +1707,10 @@
         "id1": 118,
         "id2": 1,
         "category": "specific",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "reduce"
+        ]
     },
     {
         "question": "Are there any randomized controlled trials for lithium-induced NDI?",
@@ -1624,7 +1733,8 @@
         "id1": 130,
         "id2": 0,
         "category": "general",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": []
     },
     {
         "question": "What to do for diabetic peripheral neuropathy? (Also called: Peripheral neuropathy)",
@@ -1655,6 +1765,10 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "to do",
+            "called"
         ]
     },
     {
@@ -1674,6 +1788,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "to do"
         ]
     },
     {
@@ -1737,6 +1854,10 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "suffers",
+            "do"
         ]
     },
     {
@@ -1776,6 +1897,9 @@
         "category": "specific",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1808,6 +1932,9 @@
         "category": "general",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "do"
         ]
     },
     {
@@ -1860,6 +1987,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1892,6 +2022,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -1933,6 +2066,9 @@
         "category": "tbd",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1995,6 +2131,10 @@
         "category": "tbd",
         "Q-class": [
             "who"
+        ],
+        "VPs": [
+            "is",
+            "developing"
         ]
     },
     {
@@ -2020,6 +2160,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "do",
+            "want to know"
         ]
     },
     {
@@ -2090,6 +2234,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2122,6 +2269,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2152,6 +2302,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to decrease"
         ]
     },
     {
@@ -2194,6 +2348,10 @@
         "category": "tbd",
         "Q-class": [
             "who"
+        ],
+        "VPs": [
+            "is",
+            "to have"
         ]
     },
     {
@@ -2227,6 +2385,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2255,6 +2416,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "used"
         ]
     },
     {
@@ -2295,6 +2460,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2321,6 +2489,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2383,6 +2554,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "benefit"
         ]
     },
     {
@@ -2445,6 +2619,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to benefit"
         ]
     },
     {
@@ -2486,6 +2664,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2524,6 +2705,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "has",
+            "receive"
         ]
     },
     {
@@ -2550,6 +2735,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2602,6 +2790,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -2657,6 +2848,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2712,6 +2906,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "associated"
         ]
     },
     {
@@ -2752,7 +2950,8 @@
         "category": "tbd",
         "Q-class": [
             "what"
-        ]
+        ],
+        "VPs": []
     },
     {
         "question": " What increases the risk of death and cardiovascular events?",
@@ -2792,6 +2991,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "increases"
         ]
     },
     {
@@ -2818,6 +3020,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -2868,6 +3073,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -2899,6 +3107,9 @@
         "category": "tbd",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "designed"
         ]
     },
     {
@@ -2935,6 +3146,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "cause"
         ]
     },
     {
@@ -2954,6 +3168,10 @@
         "category": "tbd",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "does",
+            "achieve"
         ]
     },
     {
@@ -2984,6 +3202,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3022,6 +3243,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3060,6 +3284,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "cause"
         ]
     },
     {
@@ -3090,6 +3317,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is recommended",
+            "to lower"
         ]
     },
     {
@@ -3122,6 +3353,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "has"
         ]
     },
     {
@@ -3152,6 +3386,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "can decrease"
         ]
     },
     {
@@ -3182,6 +3419,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "reduces"
         ]
     },
     {
@@ -3224,6 +3464,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3261,6 +3504,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is associated"
         ]
     },
     {
@@ -3292,6 +3538,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -3320,6 +3569,10 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "measuring"
         ]
     },
     {
@@ -3357,6 +3610,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3383,6 +3639,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3409,6 +3668,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "lowers"
         ]
     },
     {
@@ -3439,6 +3701,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3487,6 +3752,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3528,6 +3796,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is reduced"
         ]
     },
     {
@@ -3586,6 +3857,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3666,6 +3940,9 @@
         "category": "tbd",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -3717,6 +3994,9 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3741,6 +4021,9 @@
         "id2": 1,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -3778,7 +4061,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 279,
         "id2": 1,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "increase"
+        ]
     },
     {
         "question": "Is insulin used to treat early worsening of DR?",
@@ -3816,7 +4102,11 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 281,
         "id2": 1,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "used",
+            "to treat"
+        ]
     },
     {
         "question": " What is recommended for semaglutide?",
@@ -3842,6 +4132,9 @@
         "id2": 1,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is recommended"
         ]
     },
     {
@@ -3903,6 +4196,9 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3933,6 +4229,9 @@
         "id2": 1,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is staged"
         ]
     },
     {
@@ -3963,6 +4262,9 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -3996,7 +4298,11 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 289,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "treated",
+            "to prevent"
+        ]
     },
     {
         "question": " How is glycaemic control measured?",
@@ -4014,6 +4320,9 @@
         "id2": 0,
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "measured"
         ]
     },
     {
@@ -4052,7 +4361,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 294,
         "id2": 1,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "reduce"
+        ]
     },
     {
         "question": " Does CGM improve pregnancy outcomes?",
@@ -4074,7 +4386,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 295,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "improve"
+        ]
     },
     {
         "question": " Does a single DKA episode cause memory declines?",
@@ -4096,7 +4411,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 296,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": " What can be done to reduce the severity of diabetic peripheral neuropathy?",
@@ -4125,6 +4443,10 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "can be done",
+            "to reduce"
         ]
     },
     {
@@ -4152,7 +4474,11 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 299,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "increase or decrease",
+            "developing"
+        ]
     },
     {
         "question": " Are conservative fluid management strategies better for patients with ARDS?",
@@ -4184,7 +4510,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 300,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": []
     },
     {
         "question": " What is the cause of blood pressure and microalbuminuria?",
@@ -4241,6 +4568,9 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is"
         ]
     },
     {
@@ -4282,6 +4612,9 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "stand"
         ]
     },
     {
@@ -4318,6 +4651,9 @@
         "id2": 0,
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "do"
         ]
     },
     {
@@ -4354,6 +4690,9 @@
         "id2": 0,
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "affect"
         ]
     },
     {
@@ -4391,7 +4730,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 311,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "stimulate"
+        ]
     },
     {
         "question": " Is early photocoagulation beneficial for diabetics?",
@@ -4460,7 +4802,8 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 317,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": []
     },
     {
         "question": " Is higher insulin dose associated with lower menopause risk?",
@@ -4476,7 +4819,10 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 319,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "associated"
+        ]
     },
     {
         "question": " Does intensive therapy slow the progression of diabetic retinopathy?",
@@ -4499,6 +4845,9 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 321,
         "id2": 0,
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "slow"
+        ]
     }
 ]

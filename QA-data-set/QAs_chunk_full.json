@@ -32,6 +32,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -87,6 +91,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -142,6 +150,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -225,6 +237,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -283,6 +299,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -309,6 +329,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -344,6 +368,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -384,6 +412,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -439,6 +471,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -502,6 +538,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are",
+            "to control"
         ]
     },
     {
@@ -557,6 +597,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -640,6 +684,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -698,6 +746,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -738,6 +790,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -773,6 +829,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -836,6 +896,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -894,6 +958,10 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "is",
+            "to treat or control"
         ]
     },
     {
@@ -949,6 +1017,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1027,6 +1098,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1110,6 +1184,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1168,6 +1245,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1203,6 +1283,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1238,6 +1321,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1300,6 +1386,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1377,6 +1466,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1432,6 +1524,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1470,6 +1565,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "treat"
         ]
     },
     {
@@ -1525,6 +1623,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1560,6 +1661,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1595,6 +1699,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1635,6 +1742,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1697,6 +1807,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1821,6 +1934,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1852,6 +1968,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1878,6 +1997,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -1942,6 +2064,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -2005,6 +2130,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -2060,6 +2188,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2115,6 +2246,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2141,6 +2275,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2176,6 +2313,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2208,6 +2348,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2245,6 +2388,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2280,6 +2426,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2315,6 +2464,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2347,6 +2499,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2417,6 +2572,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "why"
+        ],
+        "VPs": [
+            "help"
         ]
     },
     {
@@ -2509,6 +2667,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2570,6 +2731,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2610,6 +2774,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2636,6 +2803,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2694,6 +2864,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2777,6 +2950,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2826,6 +3002,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2861,6 +3040,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2896,6 +3078,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -2969,6 +3154,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "how"
+        ],
+        "VPs": [
+            "to manage"
         ]
     },
     {
@@ -3022,7 +3210,10 @@
         "id1": 381,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause heart attacks?",
@@ -3075,7 +3266,10 @@
         "id1": 382,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause muscle strength decrease?",
@@ -3119,7 +3313,11 @@
         "id1": 383,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause",
+            "decrease"
+        ]
     },
     {
         "question": "Does diabetes cause Peripheral arterial disease?",
@@ -3172,7 +3370,10 @@
         "id1": 384,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause hyperglycemia?",
@@ -3208,7 +3409,10 @@
         "id1": 385,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause hypoglycemia?",
@@ -3242,7 +3446,10 @@
         "id1": 386,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause hypertension?",
@@ -3298,7 +3505,10 @@
         "id1": 387,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause nerve damage?",
@@ -3342,7 +3552,10 @@
         "id1": 388,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause peripheral neuropathy?",
@@ -3400,7 +3613,10 @@
         "id1": 389,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "Does diabetes cause kidney disease?",
@@ -3470,7 +3686,10 @@
         "id1": 390,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": []
+        "Q-class": [],
+        "VPs": [
+            "cause"
+        ]
     },
     {
         "question": "What causes Nephrogenic Diabetes Insipidus?",
@@ -3529,6 +3748,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3626,6 +3848,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3682,6 +3907,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3716,6 +3944,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3752,6 +3983,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3790,6 +4024,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3854,6 +4091,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3909,6 +4149,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -3964,6 +4207,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -4014,6 +4260,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -4093,6 +4342,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4132,6 +4384,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4187,6 +4442,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4224,6 +4482,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4288,6 +4549,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4329,6 +4593,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4391,6 +4658,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4447,6 +4717,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4529,6 +4802,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4563,6 +4839,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4625,6 +4904,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "are"
         ]
     },
     {
@@ -4671,6 +4953,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -4717,6 +5002,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -4742,6 +5030,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -4867,6 +5158,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     },
     {
@@ -4947,6 +5241,9 @@
         "source_model": "np-chunk",
         "Q-class": [
             "what"
+        ],
+        "VPs": [
+            "causes"
         ]
     }
 ]
