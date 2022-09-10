@@ -55,7 +55,8 @@
             "what"
         ],
         "VPs": [
-            "reduce"
+            "reduce",
+            "does"
         ]
     },
     {
@@ -203,6 +204,7 @@
             "what"
         ],
         "VPs": [
+            "does",
             "do"
         ]
     },
@@ -261,7 +263,8 @@
             "what"
         ],
         "VPs": [
-            "reduce"
+            "reduce",
+            "could"
         ]
     },
     {
@@ -394,6 +397,7 @@
             "what"
         ],
         "VPs": [
+            "decrease",
             "causes"
         ]
     },
@@ -758,9 +762,12 @@
         "id1": 20,
         "id2": 0,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "decrease"
+            "decrease",
+            "does"
         ]
     },
     {
@@ -803,9 +810,12 @@
         "id1": 21,
         "id2": 0,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "metformin"
+            "metformin",
+            "is"
         ]
     },
     {
@@ -861,9 +871,12 @@
         "id1": 22,
         "id2": 0,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "associated"
+            "associated",
+            "are"
         ]
     },
     {
@@ -894,8 +907,11 @@
         "id1": 28,
         "id2": 0,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
+            "does",
             "have"
         ]
     },
@@ -926,9 +942,12 @@
         "id1": 29,
         "id2": 2,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "delay"
+            "delay",
+            "can"
         ]
     },
     {
@@ -976,9 +995,12 @@
         "id1": 30,
         "id2": 2,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "recommended"
+            "recommended",
+            "is"
         ]
     },
     {
@@ -1046,9 +1068,12 @@
         "id1": 31,
         "id2": 0,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "used"
+            "used",
+            "is"
         ]
     },
     {
@@ -1138,7 +1163,8 @@
             "what"
         ],
         "VPs": [
-            "to do"
+            "to do",
+            "do"
         ]
     },
     {
@@ -1234,6 +1260,7 @@
             "how"
         ],
         "VPs": [
+            "can",
             "prevent"
         ]
     },
@@ -1385,8 +1412,8 @@
             "what"
         ],
         "VPs": [
-            "suffers",
-            "receive"
+            "receive",
+            "suffers"
         ]
     },
     {
@@ -1455,8 +1482,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "be"
+            "be",
+            "is"
         ]
     },
     {
@@ -1647,9 +1674,12 @@
         "id1": 112,
         "id2": 1,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "reduce"
+            "reduce",
+            "does"
         ]
     },
     {
@@ -1683,7 +1713,7 @@
             "what"
         ],
         "VPs": [
-            "should be recommended"
+            "be recommended"
         ]
     },
     {
@@ -1707,9 +1737,12 @@
         "id1": 118,
         "id2": 1,
         "category": "specific",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "reduce"
+            "does",
+            "significantly reduce"
         ]
     },
     {
@@ -1733,8 +1766,12 @@
         "id1": 130,
         "id2": 0,
         "category": "general",
-        "Q-class": [],
-        "VPs": []
+        "Q-class": [
+            "yes-no"
+        ],
+        "VPs": [
+            "are"
+        ]
     },
     {
         "question": "What to do for diabetic peripheral neuropathy? (Also called: Peripheral neuropathy)",
@@ -1768,7 +1805,8 @@
         ],
         "VPs": [
             "to do",
-            "called"
+            "called",
+            "do"
         ]
     },
     {
@@ -1790,7 +1828,8 @@
             "what"
         ],
         "VPs": [
-            "to do"
+            "to do",
+            "do"
         ]
     },
     {
@@ -1934,6 +1973,7 @@
             "what"
         ],
         "VPs": [
+            "does",
             "do"
         ]
     },
@@ -2133,8 +2173,8 @@
             "who"
         ],
         "VPs": [
-            "is",
-            "developing"
+            "developing",
+            "is"
         ]
     },
     {
@@ -2304,8 +2344,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to decrease"
+            "to decrease",
+            "is"
         ]
     },
     {
@@ -2350,8 +2390,8 @@
             "who"
         ],
         "VPs": [
-            "is",
-            "to have"
+            "to have",
+            "is"
         ]
     },
     {
@@ -2418,8 +2458,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "used"
+            "used",
+            "is"
         ]
     },
     {
@@ -2621,8 +2661,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to benefit"
+            "to benefit",
+            "are"
         ]
     },
     {
@@ -2908,8 +2948,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "associated"
+            "associated",
+            "is"
         ]
     },
     {
@@ -2951,7 +2991,9 @@
         "Q-class": [
             "what"
         ],
-        "VPs": []
+        "VPs": [
+            "does"
+        ]
     },
     {
         "question": " What increases the risk of death and cardiovascular events?",
@@ -3109,7 +3151,8 @@
             "how"
         ],
         "VPs": [
-            "designed"
+            "designed",
+            "is"
         ]
     },
     {
@@ -3148,7 +3191,8 @@
             "what"
         ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -3170,8 +3214,8 @@
             "how"
         ],
         "VPs": [
-            "does",
-            "achieve"
+            "achieve",
+            "does"
         ]
     },
     {
@@ -3286,7 +3330,8 @@
             "what"
         ],
         "VPs": [
-            "cause"
+            "cause",
+            "can"
         ]
     },
     {
@@ -3320,6 +3365,7 @@
         ],
         "VPs": [
             "is recommended",
+            "is",
             "to lower"
         ]
     },
@@ -3388,6 +3434,7 @@
             "what"
         ],
         "VPs": [
+            "can",
             "can decrease"
         ]
     },
@@ -3506,6 +3553,7 @@
             "what"
         ],
         "VPs": [
+            "is",
             "is associated"
         ]
     },
@@ -3571,8 +3619,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "measuring"
+            "measuring",
+            "is"
         ]
     },
     {
@@ -3798,7 +3846,8 @@
             "what"
         ],
         "VPs": [
-            "is reduced"
+            "is reduced",
+            "is"
         ]
     },
     {
@@ -4023,6 +4072,7 @@
             "what"
         ],
         "VPs": [
+            "can",
             "help"
         ]
     },
@@ -4061,9 +4111,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 279,
         "id2": 1,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "increase"
+            "increase",
+            "does"
         ]
     },
     {
@@ -4102,10 +4155,13 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 281,
         "id2": 1,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
+            "to treat",
             "used",
-            "to treat"
+            "is"
         ]
     },
     {
@@ -4134,7 +4190,8 @@
             "what"
         ],
         "VPs": [
-            "is recommended"
+            "is recommended",
+            "is"
         ]
     },
     {
@@ -4231,7 +4288,8 @@
             "what"
         ],
         "VPs": [
-            "is staged"
+            "staged",
+            "is"
         ]
     },
     {
@@ -4298,10 +4356,13 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 289,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
             "treated",
-            "to prevent"
+            "to prevent",
+            "are"
         ]
     },
     {
@@ -4322,6 +4383,7 @@
             "how"
         ],
         "VPs": [
+            "is",
             "measured"
         ]
     },
@@ -4361,9 +4423,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 294,
         "id2": 1,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "reduce"
+            "reduce",
+            "does"
         ]
     },
     {
@@ -4386,9 +4451,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 295,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "improve"
+            "improve",
+            "does"
         ]
     },
     {
@@ -4411,9 +4479,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 296,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -4445,7 +4516,8 @@
             "what"
         ],
         "VPs": [
-            "can be done",
+            "can",
+            "be done",
             "to reduce"
         ]
     },
@@ -4474,10 +4546,13 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 299,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
             "increase or decrease",
-            "developing"
+            "developing",
+            "does"
         ]
     },
     {
@@ -4510,8 +4585,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 300,
         "id2": 0,
-        "Q-class": [],
-        "VPs": []
+        "Q-class": [
+            "yes-no"
+        ],
+        "VPs": [
+            "are"
+        ]
     },
     {
         "question": " What is the cause of blood pressure and microalbuminuria?",
@@ -4614,7 +4693,8 @@
             "what"
         ],
         "VPs": [
-            "stand"
+            "stand",
+            "does"
         ]
     },
     {
@@ -4653,6 +4733,7 @@
             "what"
         ],
         "VPs": [
+            "does",
             "do"
         ]
     },
@@ -4692,7 +4773,8 @@
             "how"
         ],
         "VPs": [
-            "affect"
+            "affect",
+            "does"
         ]
     },
     {
@@ -4730,9 +4812,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 311,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "stimulate"
+            "stimulate",
+            "does"
         ]
     },
     {
@@ -4802,8 +4887,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 317,
         "id2": 0,
-        "Q-class": [],
-        "VPs": []
+        "Q-class": [
+            "yes-no"
+        ],
+        "VPs": [
+            "is"
+        ]
     },
     {
         "question": " Is higher insulin dose associated with lower menopause risk?",
@@ -4819,9 +4908,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 319,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "associated"
+            "associated",
+            "is"
         ]
     },
     {
@@ -4845,9 +4937,12 @@
         "source_model": "t5-base-finetuned-question-generation-ap",
         "id1": 321,
         "id2": 0,
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "slow"
+            "slow",
+            "does"
         ]
     },
     {
@@ -4885,8 +4980,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -4944,8 +5039,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5003,8 +5098,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5090,8 +5185,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5152,8 +5247,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5182,8 +5277,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5221,8 +5316,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5265,8 +5360,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5324,8 +5419,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5391,8 +5486,8 @@
             "what"
         ],
         "VPs": [
-            "are",
-            "to control"
+            "to control",
+            "are"
         ]
     },
     {
@@ -5450,8 +5545,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5537,8 +5632,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5599,8 +5694,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5643,8 +5738,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5682,8 +5777,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5749,8 +5844,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5811,8 +5906,8 @@
             "what"
         ],
         "VPs": [
-            "is",
-            "to treat or control"
+            "to treat or control",
+            "is"
         ]
     },
     {
@@ -5870,6 +5965,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -5951,6 +6047,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6037,6 +6134,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6098,6 +6196,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6136,6 +6235,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6174,6 +6274,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6239,6 +6340,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6319,6 +6421,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6377,6 +6480,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -6418,6 +6522,7 @@
             "how"
         ],
         "VPs": [
+            "do",
             "treat"
         ]
     },
@@ -7038,9 +7143,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -7096,9 +7203,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -7125,9 +7234,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -7163,9 +7274,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -7198,9 +7311,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "do",
             "help"
         ]
     },
@@ -7238,9 +7353,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -7276,14 +7393,16 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
     {
-        "question": "Do a rigid rocker soles help diabetes patients? Why?",
+        "question": "Do rigid rocker soles help diabetes patients? Why?",
         "answer": [
             {
                 "PMID": "31295292",
@@ -7314,9 +7433,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "do",
             "help"
         ]
     },
@@ -7349,9 +7470,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -7422,9 +7545,11 @@
         "id2": 0,
         "source_model": "np-chunk",
         "Q-class": [
-            "why"
+            "why",
+            "yes-no"
         ],
         "VPs": [
+            "does",
             "help"
         ]
     },
@@ -8061,9 +8186,12 @@
         "id1": 381,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8117,9 +8245,12 @@
         "id1": 382,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8164,10 +8295,12 @@
         "id1": 383,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
             "cause",
-            "decrease"
+            "does"
         ]
     },
     {
@@ -8221,9 +8354,12 @@
         "id1": 384,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8260,9 +8396,12 @@
         "id1": 385,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8297,9 +8436,12 @@
         "id1": 386,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8356,9 +8498,12 @@
         "id1": 387,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8403,9 +8548,12 @@
         "id1": 388,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8464,9 +8612,12 @@
         "id1": 389,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
@@ -8537,9 +8688,12 @@
         "id1": 390,
         "id2": 0,
         "source_model": "np-chunk",
-        "Q-class": [],
+        "Q-class": [
+            "yes-no"
+        ],
         "VPs": [
-            "cause"
+            "cause",
+            "does"
         ]
     },
     {
