@@ -359,6 +359,55 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -1260,7 +1309,7 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "quality": 1,
+                "quality": 4,
                 "umls_category": [
                     {
                         "plantar ulcers": [
@@ -1274,6 +1323,55 @@
                     },
                     {
                         "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }
@@ -1808,6 +1906,28 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -1969,6 +2089,24 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "7587918",
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "conclusion": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "NIDDM": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "non-insulin-dependent diabetes mellitus",
@@ -1989,12 +2127,24 @@
             {
                 "PMID": "30012135",
                 "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "quality": 3,
+                "quality": 4,
                 "umls_category": [
                     {
                         "atorvastatin": [
                             "Pharmacologic Substance",
                             "Organic Chemical"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "32621644",
+                "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "treatments": [
+                            "Therapeutic or Preventive Procedure"
                         ]
                     }
                 ]
@@ -3081,7 +3231,7 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "quality": 3,
+                "quality": 4,
                 "umls_category": [
                     {
                         "plantar ulcers": [
@@ -3095,6 +3245,55 @@
                     },
                     {
                         "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }

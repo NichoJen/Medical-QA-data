@@ -192,6 +192,35 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "31899340",
+                "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "endothelial dysfunction": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "34889293",
@@ -337,6 +366,45 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "Peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PN": [
+                            "Gene or Genome",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein",
+                            "Body System"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "32215272",
@@ -426,6 +494,28 @@
                     },
                     {
                         "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }
@@ -576,6 +666,35 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "31899340",
+                "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "endothelial dysfunction": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "34889293",
@@ -660,6 +779,45 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "29606547",
+                "answer": "OBJECTIVE: Peripheral neuropathy (PN) is one of the long-term complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "OBJECTIVE": [
+                            "Clinical Attribute",
+                            "Qualitative Concept",
+                            "Intellectual Product",
+                            "Diagnostic Procedure"
+                        ]
+                    },
+                    {
+                        "Peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "PN": [
+                            "Gene or Genome",
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein",
+                            "Body System"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "34889293",
@@ -694,6 +852,35 @@
                             "Therapeutic or Preventive Procedure",
                             "Intellectual Product",
                             "Acquired Abnormality"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31899340",
+                "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "peripheral arterial disease": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "endothelial dysfunction": [
+                            "Disease or Syndrome"
                         ]
                     }
                 ]
@@ -1452,7 +1639,7 @@
         ]
     },
     {
-        "question": "What is exercise training be useful for in diabetic patients?",
+        "question": "What is exercise training useful for in diabetic patients?",
         "answer": [
             {
                 "PMID": "32215272",
@@ -1553,6 +1740,26 @@
                         "chronic kidney disease": [
                             "Finding",
                             "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "32621644",
+                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "Nephrogenic diabetes insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
                         ]
                     }
                 ]
@@ -1817,6 +2024,55 @@
                 "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
                 "quality": 2,
                 "umls_category": []
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "31295292",
@@ -1927,6 +2183,26 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "32621644",
+                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "Nephrogenic diabetes insipidus": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "NDI": [
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "30012135",
@@ -2015,6 +2291,74 @@
                     {
                         "diabetes": [
                             "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "32215272",
+                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetics": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "nerve damage": [
+                            "Injury or Poisoning"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
                         ]
                     }
                 ]
@@ -2280,7 +2624,7 @@
         ]
     },
     {
-        "question": "what is the effect of acupuncture on dPN?",
+        "question": "what is the effect of acupuncture on DPN?",
         "answer": [
             {
                 "PMID": "33150711",
@@ -3068,7 +3412,7 @@
         ]
     },
     {
-        "question": " What are some of the benefits of the dietary di bundle?",
+        "question": " What are some of the benefits of the dietary DI bundle?",
         "answer": [
             {
                 "PMID": "34028859",
@@ -4683,6 +5027,98 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "33150711",
+                "answer": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Acupuncture": [
+                            "Biomedical Occupation or Discipline",
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "Traditional Chinese Medicine": [
+                            "Biomedical Occupation or Discipline",
+                            "Therapeutic or Preventive Procedure"
+                        ]
+                    },
+                    {
+                        "treatment": [
+                            "Research Activity",
+                            "Health Care Activity",
+                            "Therapeutic or Preventive Procedure",
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "data": [
+                            "Eukaryote",
+                            "Medical Device",
+                            "Idea or Concept",
+                            "Temporal Concept"
+                        ]
+                    },
+                    {
+                        "randomized controlled trials": [
+                            "Intellectual Product"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "34889293",
+                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Diabetic peripheral neuropathy": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "one": [
+                            "Finding",
+                            "Quantitative Concept"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "source_PMID": "31899340",
@@ -4720,6 +5156,55 @@
                         "T2D": [
                             "Finding",
                             "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "34372849",
+                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "Patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes mellitus": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "DM": [
+                            "Organic Chemical",
+                            "Quantitative Concept",
+                            "Gene or Genome",
+                            "Disease or Syndrome",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "increased risk": [
+                            "Finding"
+                        ]
+                    },
+                    {
+                        "heart failure": [
+                            "Finding",
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "HF": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Gene or Genome",
+                            "Enzyme"
                         ]
                     }
                 ]
@@ -4877,6 +5362,55 @@
                     },
                     {
                         "legal blindness": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "8981711",
+                "answer": "CONCLUSION: These analyses suggest that patients with type II diabetes, or older patients with diabetes, are more likely to benefit from early scatter photocoagulation than patients with type I diabetes.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSION": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type II diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "type I diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "8981711",
+                "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "severe nonproliferative retinopathy": [
                             "Disease or Syndrome"
                         ]
                     }
@@ -5301,6 +5835,55 @@
                     },
                     {
                         "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }
@@ -6206,7 +6789,7 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "quality": 1,
+                "quality": 4,
                 "umls_category": [
                     {
                         "plantar ulcers": [
@@ -6220,6 +6803,55 @@
                     },
                     {
                         "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }
@@ -6754,6 +7386,28 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "diabetic foot",
@@ -6915,6 +7569,24 @@
                         ]
                     }
                 ]
+            },
+            {
+                "PMID": "7587918",
+                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "conclusion": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "NIDDM": [
+                            "Gene or Genome",
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
             }
         ],
         "NP": "non-insulin-dependent diabetes mellitus",
@@ -6935,12 +7607,24 @@
             {
                 "PMID": "30012135",
                 "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "quality": 3,
+                "quality": 4,
                 "umls_category": [
                     {
                         "atorvastatin": [
                             "Pharmacologic Substance",
                             "Organic Chemical"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "32621644",
+                "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
+                "quality": 4,
+                "umls_category": [
+                    {
+                        "treatments": [
+                            "Therapeutic or Preventive Procedure"
                         ]
                     }
                 ]
@@ -8027,7 +8711,7 @@
             {
                 "PMID": "31295292",
                 "answer": "In this study, we aimed to analyze the efficacy of a rigid rocker sole to reduce the recurrence rate of plantar ulcers in patients with diabetic foot.",
-                "quality": 3,
+                "quality": 4,
                 "umls_category": [
                     {
                         "plantar ulcers": [
@@ -8041,6 +8725,55 @@
                     },
                     {
                         "diabetic foot": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "quality": 2,
+                "umls_category": [
+                    {
+                        "CONCLUSIONS": [
+                            "Idea or Concept"
+                        ]
+                    },
+                    {
+                        "patients": [
+                            "Patient or Disabled Group"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
                             "Disease or Syndrome"
                         ]
                     }
