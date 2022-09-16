@@ -123,19 +123,19 @@
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "31899340",
                 "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "31899340",
                 "answer": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
@@ -372,7 +372,7 @@
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "31336474",
@@ -477,19 +477,19 @@
             {
                 "PMID": "31899340",
                 "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "31899340",
                 "answer": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
@@ -613,20 +613,20 @@
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "31899340",
                 "answer": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "31899340",
                 "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "7711992",
@@ -1593,7 +1593,7 @@
         ]
     },
     {
-        "question": "What is exercise training be useful for in diabetic patients?",
+        "question": "What is exercise training useful for in diabetic patients?",
         "answers": [
             {
                 "PMID": "32215272",
@@ -1734,19 +1734,19 @@
             {
                 "PMID": "32621644",
                 "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "32621644",
                 "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "32621644",
                 "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
@@ -2213,7 +2213,7 @@
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "31295292",
@@ -2442,19 +2442,19 @@
             {
                 "PMID": "34889293",
                 "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "34889293",
                 "answer": "Hence, this study is carried out to evaluate the effectiveness and safety of moxibustion therapy on diabetic peripheral neuropathy.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "34889293",
                 "answer": "A total of 40 diabetes mellitus patients with peripheral neuropathy will be recruited and assigned randomly into 2 groups (moxibustion group and waiting group) at a 1:1 ratio.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
@@ -2773,7 +2773,7 @@
         ]
     },
     {
-        "question": "what is the effect of acupuncture on dPN?",
+        "question": "what is the effect of acupuncture on DPN?",
         "answers": [
             {
                 "PMID": "33150711",
@@ -3835,7 +3835,7 @@
         ]
     },
     {
-        "question": " What are some of the benefits of the dietary di bundle?",
+        "question": " What are some of the benefits of the dietary DI bundle?",
         "answers": [
             {
                 "PMID": "34028859",
@@ -6218,37 +6218,37 @@
             {
                 "PMID": "33150711",
                 "answer": "CONCLUSIONS: Classical needle acupuncture had significant effects on DPN.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "33150711",
                 "answer": "BACKGROUND: Acupuncture is commonly used in Traditional Chinese Medicine for treatment of diabetic peripheral neuropathy (DPN), but data from randomized controlled trials are rare.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "33150711",
                 "answer": "METHODS: This randomized, placebo-controlled, partially double-blinded clinical trial randomly assigned adults with confirmed type 2 diabetes-induced DPN to receive 10 sessions of needle acupuncture, laser acupuncture, or placebo laser acupuncture for 10 consecutive weeks.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "34889293",
                 "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "34889293",
                 "answer": "Based on Traditional Chinese Medicine theory, moxibustion has a great effect on treating and preventing DPN.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "34889293",
                 "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             }
         ]
@@ -6437,7 +6437,7 @@
                 "PMID": "8981711",
                 "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "8981711",
@@ -6986,7 +6986,7 @@
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "31295292",
@@ -7877,7 +7877,7 @@
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "31295292",
@@ -8467,7 +8467,7 @@
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "31295292",
@@ -8619,19 +8619,19 @@
             {
                 "PMID": "32621644",
                 "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
                 "PMID": "32621644",
                 "answer": "There are limited randomized controlled trials (RCT) for treatments of lithium-induced NDI, and existing therapies can be poorly tolerated.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             },
             {
                 "PMID": "32621644",
                 "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             },
             {
@@ -9204,7 +9204,7 @@
         ]
     },
     {
-        "question": "Do a rigid rocker soles help diabetes patients? Why?",
+        "question": "Do rigid rocker soles help diabetes patients? Why?",
         "answers": [
             {
                 "PMID": "31295292",
@@ -9883,7 +9883,7 @@
                 "PMID": "31295292",
                 "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             },
             {
                 "PMID": "31295292",

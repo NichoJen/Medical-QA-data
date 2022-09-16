@@ -27,7 +27,7 @@
             {
                 "PMID": "31899340",
                 "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "PMID": "31899340",
                 "answer": "Diabetic peripheral neuropathy (DPN) is associated with peripheral arterial disease and endothelial dysfunction.",
-                "pmid_match": false,
-                "sentence_match": false
+                "pmid_match": true,
+                "sentence_match": true
             }
         ]
     },
@@ -297,7 +297,7 @@
         ]
     },
     {
-        "question": "What is exercise training be useful for in diabetic patients?",
+        "question": "What is exercise training useful for in diabetic patients?",
         "answers": [
             {
                 "PMID": "32215272",
@@ -517,7 +517,7 @@
         ]
     },
     {
-        "question": "what is the effect of acupuncture on dPN?",
+        "question": "what is the effect of acupuncture on DPN?",
         "answers": [
             {
                 "PMID": "33150711",
@@ -715,7 +715,7 @@
         ]
     },
     {
-        "question": " What are some of the benefits of the dietary di bundle?",
+        "question": " What are some of the benefits of the dietary DI bundle?",
         "answers": [
             {
                 "PMID": "34028859",
@@ -1205,7 +1205,7 @@
                 "PMID": "8981711",
                 "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
                 "pmid_match": true,
-                "sentence_match": false
+                "sentence_match": true
             }
         ]
     },
@@ -1611,7 +1611,7 @@
             {
                 "PMID": "32621644",
                 "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
+                "pmid_match": true,
                 "sentence_match": false
             }
         ]
@@ -1716,7 +1716,7 @@
         ]
     },
     {
-        "question": "Do a rigid rocker soles help diabetes patients? Why?",
+        "question": "Do rigid rocker soles help diabetes patients? Why?",
         "answers": [
             {
                 "PMID": "31295292",

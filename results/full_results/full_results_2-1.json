@@ -3483,5 +3483,90 @@
                 "sentence_match": false
             }
         ]
+    },
+    {
+        "question": "What is Acarbose?",
+        "answers": [
+            {
+                "PMID": "9893692",
+                "answer": "RECENT DRUGS: Acarbose, an alpha-glucosidase inhibitor, lowers post-prandial blood glucose level.",
+                "pmid_match": true,
+                "sentence_match": true
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is glucagon?",
+        "answers": [
+            {
+                "PMID": "35521789",
+                "answer": "METHODS: Each participant underwent the glucagon test (s.c. injection of 1 mg glucagon) and placebo test.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is a diabetic foot ulcer?",
+        "answers": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "31336474",
+                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is recurrent hypoglycemia?",
+        "answers": [
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "pmid_match": true,
+                "sentence_match": true
+            },
+            {
+                "PMID": "8040759",
+                "answer": "The major adverse event with intensive therapy was a nearly threefold increase of severe hypoglycemia.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is semaglutide?",
+        "answers": [
+            {
+                "PMID": "29178519",
+                "answer": "Similar recommendations may be appropriate for semaglutide.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
     }
 ]

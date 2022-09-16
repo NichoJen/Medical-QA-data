@@ -12093,5 +12093,300 @@
                 "sentence_match": false
             }
         ]
+    },
+    {
+        "question": "What is Acarbose?",
+        "answers": [
+            {
+                "PMID": "9893692",
+                "answer": "RECENT DRUGS: Acarbose, an alpha-glucosidase inhibitor, lowers post-prandial blood glucose level.",
+                "pmid_match": true,
+                "sentence_match": true
+            },
+            {
+                "PMID": "9893692",
+                "answer": "Orliatort, an gastro-intestinal lipase inhibitor, is indicated in obese patients but long-term results are lacking to evaluate effects in diabetics.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "9893692",
+                "answer": "UKPDS: The results of the United Kingdom Prospective Diabetes Study (UKPDS) were reported in 1998.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is glucagon?",
+        "answers": [
+            {
+                "PMID": "35521789",
+                "answer": "METHODS: Each participant underwent the glucagon test (s.c. injection of 1 mg glucagon) and placebo test.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "35521789",
+                "answer": "CONCLUSION: Glucagon stimulates the neurohypophysis, and glucagon-stimulated copeptin has the potential for a safe, novel, and precise test in the differential diagnosis of diabetes insipidus.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "35521789",
+                "answer": "Similar to arginine, glucagon stimulates growth hormone release, but its effect on the neurohypophysis is poorly studied.",
+                "pmid_match": true,
+                "sentence_match": true
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is a diabetic foot ulcer?",
+        "answers": [
+            {
+                "PMID": "31295292",
+                "answer": "CONCLUSIONS: We recommend the use of therapeutic footwear with a rigid rocker sole in patients with diabetes with polyneuropathy and history of diabetic foot ulcer to reduce the risk of plantar ulcer recurrence.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "pmid_match": true,
+                "sentence_match": null
+            },
+            {
+                "PMID": "31295292",
+                "answer": "On an intention-to-treat basis, 16 (64%) and 6 (23%) patients in the control and experimental groups had ulcer recurrence, respectively.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "31336474",
+                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "31336474",
+                "answer": "The mean scores of preventive behaviors of diabetic foot significantly increased in the intervention group (P\u202f<\u202f0.001).",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "31336474",
+                "answer": "CONCLUSION: The findings indicate that educational intervention based on short message service (SMS), resulting in improve foot care knowledge, foot care practices and metabolic control in patients with diabetes type 2.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is recurrent hypoglycemia?",
+        "answers": [
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "pmid_match": true,
+                "sentence_match": true
+            },
+            {
+                "PMID": "7598463",
+                "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8040759",
+                "answer": "The major adverse event with intensive therapy was a nearly threefold increase of severe hypoglycemia.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8040759",
+                "answer": "We conclude that intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy and nephropathy when initiated in adolescent subjects; the benefits outweigh the increased risk of hypoglycemia that accompanies such treatment.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8040759",
+                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "32001614",
+                "answer": "After a first event, optimal glycemic control may reduce the risk of recurrent CVD events and should be maintained.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "32001614",
+                "answer": "We now investigate the association between established risk factors and the total cardiovascular disease (CVD) burden, including subsequent (i.e., recurrent) events.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "32001614",
+                "answer": "CONCLUSIONS: Intensive glycemic management is recommended to lower the risk of initial CVD events in T1D.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
+    },
+    {
+        "question": "What is semaglutide?",
+        "answers": [
+            {
+                "PMID": "29178519",
+                "answer": "Similar recommendations may be appropriate for semaglutide.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "29178519",
+                "answer": "In SUSTAIN 6, a 2-year, pre-approval cardiovascular outcomes trial, semaglutide was associated with a significant increase in the risk of DR complications (DRC) vs placebo.",
+                "pmid_match": true,
+                "sentence_match": false
+            },
+            {
+                "PMID": "29178519",
+                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
+                "pmid_match": true,
+                "sentence_match": true
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "8529508",
+                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "pmid_match": false,
+                "sentence_match": false
+            },
+            {
+                "PMID": "7598463",
+                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
+                "pmid_match": false,
+                "sentence_match": false
+            }
+        ]
     }
 ]
