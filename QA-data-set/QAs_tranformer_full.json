@@ -55,8 +55,8 @@
             "what"
         ],
         "VPs": [
-            "reduce",
-            "does"
+            "does",
+            "reduce"
         ]
     },
     {
@@ -292,8 +292,8 @@
             "what"
         ],
         "VPs": [
-            "reduce",
-            "could"
+            "could",
+            "reduce"
         ]
     },
     {
@@ -1001,8 +1001,8 @@
             "yes-no"
         ],
         "VPs": [
-            "metformin",
-            "is"
+            "is",
+            "metformin"
         ]
     },
     {
@@ -1098,8 +1098,8 @@
             "yes-no"
         ],
         "VPs": [
-            "does",
-            "have"
+            "have",
+            "does"
         ]
     },
     {
@@ -1133,8 +1133,8 @@
             "yes-no"
         ],
         "VPs": [
-            "delay",
-            "can"
+            "can",
+            "delay"
         ]
     },
     {
@@ -1259,8 +1259,8 @@
             "yes-no"
         ],
         "VPs": [
-            "used",
-            "is"
+            "is",
+            "used"
         ]
     },
     {
@@ -1350,8 +1350,8 @@
             "what"
         ],
         "VPs": [
-            "to do",
-            "do"
+            "do",
+            "to do"
         ]
     },
     {
@@ -1600,6 +1600,7 @@
         ],
         "VPs": [
             "receive",
+            "should",
             "suffers"
         ]
     },
@@ -1634,8 +1635,9 @@
             "what"
         ],
         "VPs": [
-            "has",
-            "do"
+            "do",
+            "should",
+            "has"
         ]
     },
     {
@@ -1669,7 +1671,6 @@
             "what"
         ],
         "VPs": [
-            "be",
             "is"
         ]
     },
@@ -1885,8 +1886,8 @@
             "yes-no"
         ],
         "VPs": [
-            "reduce",
-            "does"
+            "does",
+            "reduce"
         ]
     },
     {
@@ -1920,6 +1921,7 @@
             "what"
         ],
         "VPs": [
+            "should",
             "be recommended"
         ]
     },
@@ -1948,8 +1950,8 @@
             "yes-no"
         ],
         "VPs": [
-            "does",
-            "significantly reduce"
+            "significantly reduce",
+            "does"
         ]
     },
     {
@@ -2011,9 +2013,9 @@
             "what"
         ],
         "VPs": [
-            "to do",
             "called",
-            "do"
+            "do",
+            "to do"
         ]
     },
     {
@@ -2084,8 +2086,8 @@
             "what"
         ],
         "VPs": [
-            "to do",
-            "do"
+            "do",
+            "to do"
         ]
     },
     {
@@ -2151,8 +2153,9 @@
             "what"
         ],
         "VPs": [
-            "suffers",
-            "do"
+            "do",
+            "should",
+            "suffers"
         ]
     },
     {
@@ -2452,7 +2455,8 @@
             "how"
         ],
         "VPs": [
-            "treat"
+            "treat",
+            "should"
         ]
     },
     {
@@ -2517,8 +2521,8 @@
             "who"
         ],
         "VPs": [
-            "developing",
-            "is"
+            "is",
+            "developing"
         ]
     },
     {
@@ -2546,8 +2550,9 @@
             "what"
         ],
         "VPs": [
+            "want to know",
             "do",
-            "want to know"
+            "should"
         ]
     },
     {
@@ -2688,8 +2693,8 @@
             "what"
         ],
         "VPs": [
-            "to decrease",
-            "is"
+            "is",
+            "to decrease"
         ]
     },
     {
@@ -2734,8 +2739,8 @@
             "who"
         ],
         "VPs": [
-            "to have",
-            "is"
+            "is",
+            "to have"
         ]
     },
     {
@@ -2802,8 +2807,8 @@
             "what"
         ],
         "VPs": [
-            "used",
-            "is"
+            "is",
+            "used"
         ]
     },
     {
@@ -3005,8 +3010,8 @@
             "what"
         ],
         "VPs": [
-            "to benefit",
-            "are"
+            "are",
+            "to benefit"
         ]
     },
     {
@@ -3091,8 +3096,9 @@
             "what"
         ],
         "VPs": [
-            "has",
-            "receive"
+            "receive",
+            "should",
+            "has"
         ]
     },
     {
@@ -3495,8 +3501,8 @@
             "how"
         ],
         "VPs": [
-            "designed",
-            "is"
+            "is",
+            "designed"
         ]
     },
     {
@@ -3535,8 +3541,8 @@
             "what"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3674,8 +3680,8 @@
             "what"
         ],
         "VPs": [
-            "cause",
-            "can"
+            "can",
+            "cause"
         ]
     },
     {
@@ -3708,9 +3714,9 @@
             "what"
         ],
         "VPs": [
-            "is recommended",
+            "to lower",
             "is",
-            "to lower"
+            "is recommended"
         ]
     },
     {
@@ -3778,8 +3784,8 @@
             "what"
         ],
         "VPs": [
-            "can",
-            "can decrease"
+            "can decrease",
+            "can"
         ]
     },
     {
@@ -3963,8 +3969,8 @@
             "what"
         ],
         "VPs": [
-            "measuring",
-            "is"
+            "is",
+            "measuring"
         ]
     },
     {
@@ -4190,8 +4196,8 @@
             "what"
         ],
         "VPs": [
-            "is reduced",
-            "is"
+            "is",
+            "is reduced"
         ]
     },
     {
@@ -4504,8 +4510,8 @@
         ],
         "VPs": [
             "to treat",
-            "used",
-            "is"
+            "is",
+            "used"
         ]
     },
     {
@@ -4534,8 +4540,8 @@
             "what"
         ],
         "VPs": [
-            "is recommended",
-            "is"
+            "is",
+            "is recommended"
         ]
     },
     {
@@ -4632,8 +4638,8 @@
             "what"
         ],
         "VPs": [
-            "staged",
-            "is"
+            "is",
+            "staged"
         ]
     },
     {
@@ -4704,9 +4710,9 @@
             "yes-no"
         ],
         "VPs": [
+            "are",
             "treated",
-            "to prevent",
-            "are"
+            "to prevent"
         ]
     },
     {
@@ -4727,8 +4733,8 @@
             "how"
         ],
         "VPs": [
-            "is",
-            "measured"
+            "measured",
+            "is"
         ]
     },
     {
@@ -4771,8 +4777,8 @@
             "yes-no"
         ],
         "VPs": [
-            "reduce",
-            "does"
+            "does",
+            "reduce"
         ]
     },
     {
@@ -4799,8 +4805,8 @@
             "yes-no"
         ],
         "VPs": [
-            "improve",
-            "does"
+            "does",
+            "improve"
         ]
     },
     {
@@ -4827,8 +4833,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -4861,8 +4867,8 @@
         ],
         "VPs": [
             "can",
-            "be done",
-            "to reduce"
+            "to reduce",
+            "be done"
         ]
     },
     {
@@ -4894,9 +4900,9 @@
             "yes-no"
         ],
         "VPs": [
-            "increase or decrease",
             "developing",
-            "does"
+            "does",
+            "increase or decrease"
         ]
     },
     {
@@ -5446,8 +5452,8 @@
             "yes-no"
         ],
         "VPs": [
-            "associated",
-            "is"
+            "is",
+            "associated"
         ]
     },
     {
@@ -5475,8 +5481,8 @@
             "yes-no"
         ],
         "VPs": [
-            "slow",
-            "does"
+            "does",
+            "slow"
         ]
     }
 ]

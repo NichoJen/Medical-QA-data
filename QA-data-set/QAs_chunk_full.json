@@ -34,8 +34,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -93,8 +93,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -152,8 +152,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -239,8 +239,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -301,8 +301,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -331,8 +331,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -419,8 +419,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -463,8 +463,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -522,8 +522,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -589,8 +589,8 @@
             "what"
         ],
         "VPs": [
-            "to control",
-            "are"
+            "are",
+            "to control"
         ]
     },
     {
@@ -1068,8 +1068,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1150,8 +1150,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1237,8 +1237,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1299,8 +1299,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1387,8 +1387,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1426,8 +1426,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1492,8 +1492,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1573,8 +1573,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1632,8 +1632,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -1674,8 +1674,8 @@
             "how"
         ],
         "VPs": [
-            "do",
-            "treat"
+            "treat",
+            "do"
         ]
     },
     {
@@ -3443,8 +3443,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3502,8 +3502,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3552,8 +3552,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3611,8 +3611,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3653,8 +3653,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3693,8 +3693,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3755,8 +3755,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3805,8 +3805,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3869,8 +3869,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -3945,8 +3945,8 @@
             "yes-no"
         ],
         "VPs": [
-            "cause",
-            "does"
+            "does",
+            "cause"
         ]
     },
     {
@@ -5502,6 +5502,197 @@
         ],
         "VPs": [
             "causes"
+        ]
+    },
+    {
+        "question": "What is Acarbose?",
+        "answer": [
+            {
+                "PMID": "9893692",
+                "answer": "RECENT DRUGS: Acarbose, an alpha-glucosidase inhibitor, lowers post-prandial blood glucose level.",
+                "quality": 1,
+                "umls_category": [
+                    {
+                        "Acarbose": [
+                            "Pharmacologic Substance",
+                            "Organic Chemical"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "NP": "Acarbose",
+        "source_PMID": "9893692",
+        "id1": 417,
+        "id2": 0,
+        "source_model": "np-chunk",
+        "Q-class": [
+            "what"
+        ],
+        "VPs": [
+            "is"
+        ]
+    },
+    {
+        "question": "What is glucagon?",
+        "answer": [
+            {
+                "PMID": "35521789",
+                "answer": "Similar to arginine, glucagon stimulates growth hormone release, but its effect on the neurohypophysis is poorly studied.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "arginine": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Pharmacologic Substance",
+                            "Biologically Active Substance",
+                            "Laboratory Procedure"
+                        ]
+                    },
+                    {
+                        "glucagon": [
+                            "Amino Acid, Peptide, or Protein",
+                            "Hormone",
+                            "Gene or Genome",
+                            "Pharmacologic Substance",
+                            "Laboratory Procedure"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "NP": "glucagon",
+        "source_PMID": "35521789",
+        "id1": 418,
+        "id2": 0,
+        "source_model": "np-chunk",
+        "Q-class": [
+            "what"
+        ],
+        "VPs": [
+            "is"
+        ]
+    },
+    {
+        "question": "What is a diabetic foot ulcer?",
+        "answer": [
+            {
+                "PMID": "31295292",
+                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
+                "quality": 5,
+                "umls_category": [
+                    {
+                        "BACKGROUND": [
+                            "Conceptual Entity"
+                        ]
+                    },
+                    {
+                        "diabetic foot ulcer": [
+                            "Disease or Syndrome"
+                        ]
+                    },
+                    {
+                        "diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "PMID": "34889293",
+                "answer": "The main clinical manifestations of DPN include pain, numbness, paraesthesia, and weakness of the lower limbs which often leads to diabetic foot ulceration, eventually resulting in amputation.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "DPN": [
+                            "Biologically Active Substance",
+                            "Nucleic Acid, Nucleoside, or Nucleotide",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "amputation": [
+                            "Therapeutic or Preventive Procedure",
+                            "Intellectual Product",
+                            "Acquired Abnormality"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "NP": "diabetic foot ulcer",
+        "source_PMID": "31295292",
+        "id1": 419,
+        "id2": 0,
+        "source_model": "np-chunk",
+        "Q-class": [
+            "what"
+        ],
+        "VPs": [
+            "is"
+        ]
+    },
+    {
+        "question": "What is recurrent hypoglycemia?",
+        "answer": [
+            {
+                "PMID": "7598463",
+                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "recurrent hypoglycemia": [
+                            "Finding"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "NP": "recurrent hypoglycemia",
+        "source_PMID": "7598463",
+        "id1": 420,
+        "id2": 0,
+        "source_model": "np-chunk",
+        "Q-class": [
+            "what"
+        ],
+        "VPs": [
+            "is"
+        ]
+    },
+    {
+        "question": "What is semaglutide?",
+        "answer": [
+            {
+                "PMID": "29178519",
+                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
+                "quality": 3,
+                "umls_category": [
+                    {
+                        "semaglutide": [
+                            "Biologically Active Substance",
+                            "Amino Acid, Peptide, or Protein",
+                            "Pharmacologic Substance"
+                        ]
+                    },
+                    {
+                        "type 2 diabetes": [
+                            "Disease or Syndrome"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "NP": "semaglutide",
+        "source_PMID": "29178519",
+        "id1": 421,
+        "id2": 0,
+        "source_model": "np-chunk",
+        "Q-class": [
+            "what"
+        ],
+        "VPs": [
+            "is"
         ]
     }
 ]
