@@ -1,0 +1,15 @@
+{
+    "total_abstracts": 50,
+    "valid_questions": 195,
+    "invalid_questions": 10,
+    "n_correct_pmids": 164,
+    "n_correct_sentence": 151,
+    "abstracts_per_question": 3,
+    "sentences_per_abstract": 3,
+    "vectorizer": {
+        "name": "TfidfVectorizer",
+        "params": "{'analyzer': 'word', 'binary': False, 'decode_error': 'strict', 'dtype': <class 'numpy.float64'>, 'encoding': 'utf-8', 'input': 'content', 'lowercase': True, 'max_df': 1.0, 'max_features': None, 'min_df': 1, 'ngram_range': (1, 1), 'norm': 'l2', 'preprocessor': None, 'smooth_idf': True, 'stop_words': None, 'strip_accents': None, 'sublinear_tf': False, 'token_pattern': '(?u)\\\\b\\\\w\\\\w+\\\\b', 'tokenizer': None, 'use_idf': True, 'vocabulary': None}"
+    },
+    "pmid_accuracy": 0.841025641025641,
+    "sentence_accuracy": 0.7743589743589744
+}

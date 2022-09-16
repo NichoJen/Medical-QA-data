@@ -1,0 +1,12 @@
+{
+    "total_abstracts": 50,
+    "valid_questions": 195,
+    "invalid_questions": 10,
+    "n_correct_pmids": 163,
+    "n_correct_sentence": 147,
+    "abstracts_per_question": 3,
+    "sentences_per_abstract": 3,
+    "vectorizer": "TfidfVectorizer",
+    "pmid_accuracy": 0.8358974358974359,
+    "sentence_accuracy": 0.7538461538461538
+}
