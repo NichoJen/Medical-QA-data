@@ -10,15 +10,6 @@
                 "quality": 1,
                 "abstract_sim": 0.384486561105554,
                 "sentence_sim": 0.597463463707314
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.27247515657453747,
-                "sentence_sim": 0.20384997639973113
             }
         ],
         "max_answer_quality": 1
@@ -34,15 +25,6 @@
                 "quality": 5,
                 "abstract_sim": 0.42597778054552116,
                 "sentence_sim": 0.4571771353792806
-            },
-            {
-                "PMID": "30012135",
-                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.38771639655005863,
-                "sentence_sim": 0.38222516516854577
             }
         ],
         "max_answer_quality": 2
@@ -58,15 +40,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1476899965703643,
                 "sentence_sim": 0.2068070220428044
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 4,
-                "abstract_sim": 0.07936267430738818,
-                "sentence_sim": 0.22093969515750672
             }
         ],
         "max_answer_quality": 1
@@ -82,15 +55,6 @@
                 "quality": 2,
                 "abstract_sim": 0.22296793906242743,
                 "sentence_sim": 0.5123881162865453
-            },
-            {
-                "PMID": "7711992",
-                "answer": "For example, could intensive treatment be achieved in routine practice under the auspices of primary care physicians?",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.17974086071710604,
-                "sentence_sim": 0.15497666588306214
             }
         ],
         "max_answer_quality": 2
@@ -106,15 +70,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14476136385645327,
                 "sentence_sim": 0.15131642808150594
-            },
-            {
-                "PMID": "32215272",
-                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 2,
-                "abstract_sim": 0.1128777144628655,
-                "sentence_sim": 0.46939570487410165
             }
         ],
         "max_answer_quality": 2
@@ -130,15 +85,6 @@
                 "quality": 2,
                 "abstract_sim": 0.27640521710188526,
                 "sentence_sim": 0.7358846284539247
-            },
-            {
-                "PMID": "29606547",
-                "answer": "Changes in peroneal and tibial motor NCV and nerve action potential amplitude (NAPA) in all nerves studied were not different between groups (P>0.05).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10485568100804699,
-                "sentence_sim": 0.09532542763764866
             }
         ],
         "max_answer_quality": 2
@@ -154,15 +100,6 @@
                 "quality": 5,
                 "abstract_sim": 0.20752862642856032,
                 "sentence_sim": 0.29875291793496633
-            },
-            {
-                "PMID": "31336474",
-                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.20407848772794523,
-                "sentence_sim": 0.2207122372006488
             }
         ],
         "max_answer_quality": 2
@@ -178,15 +115,6 @@
                 "quality": 1,
                 "abstract_sim": 0.37813130310718285,
                 "sentence_sim": 0.7299197640866931
-            },
-            {
-                "PMID": "30012135",
-                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 1,
-                "abstract_sim": 0.3408517617329624,
-                "sentence_sim": 0.45736637708188876
             }
         ],
         "max_answer_quality": 1
@@ -202,15 +130,6 @@
                 "quality": 4,
                 "abstract_sim": 0.260686362068276,
                 "sentence_sim": 0.3710592586872277
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 2,
-                "abstract_sim": 0.15596741190207097,
-                "sentence_sim": 0.43420150266963586
             }
         ],
         "max_answer_quality": 2
@@ -226,15 +145,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14469728528587433,
                 "sentence_sim": 0.1585239828672419
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14080656592448687,
-                "sentence_sim": 0.20829513306743827
             }
         ],
         "max_answer_quality": 2
@@ -250,15 +160,6 @@
                 "quality": 1,
                 "abstract_sim": 0.20751640173611852,
                 "sentence_sim": 0.4118284982757466
-            },
-            {
-                "PMID": "31899340",
-                "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1723662607381934,
-                "sentence_sim": 0.19177892526475795
             }
         ],
         "max_answer_quality": 1
@@ -274,15 +175,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3158227749395512,
                 "sentence_sim": 0.563325702025149
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2258765095083594,
-                "sentence_sim": 0.20910559827290517
             }
         ],
         "max_answer_quality": 1
@@ -298,15 +190,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3873402518155618,
                 "sentence_sim": 0.5499200004455004
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.18611184629691616,
-                "sentence_sim": 0.14824505914785618
             }
         ],
         "max_answer_quality": 1
@@ -322,15 +205,6 @@
                 "quality": 4,
                 "abstract_sim": 0.33062578593377834,
                 "sentence_sim": 0.42695884143828183
-            },
-            {
-                "PMID": "30012135",
-                "answer": "We recently found that use of statins is associated with lower NDI risk in a cross-sectional study.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 2,
-                "abstract_sim": 0.30510802314127317,
-                "sentence_sim": 0.5701995794403469
             }
         ],
         "max_answer_quality": 2
@@ -346,15 +220,6 @@
                 "quality": 3,
                 "abstract_sim": 0.26849403955299933,
                 "sentence_sim": 0.36653037659440507
-            },
-            {
-                "PMID": "31899340",
-                "answer": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14338900767806398,
-                "sentence_sim": 0.17889737587885407
             }
         ],
         "max_answer_quality": 3
@@ -370,15 +235,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2925821086158113,
                 "sentence_sim": 0.3488095575865748
-            },
-            {
-                "PMID": "7587918",
-                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 1,
-                "abstract_sim": 0.22916624630663424,
-                "sentence_sim": 0.5811124688103984
             }
         ],
         "max_answer_quality": 1
@@ -394,15 +250,6 @@
                 "quality": 1,
                 "abstract_sim": 0.42311925129019995,
                 "sentence_sim": 0.6472632005599681
-            },
-            {
-                "PMID": "7587918",
-                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 3,
-                "abstract_sim": 0.19699611814602538,
-                "sentence_sim": 0.31027856882789484
             }
         ],
         "max_answer_quality": 1
@@ -418,15 +265,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3833486471292125,
                 "sentence_sim": 0.42725701502223024
-            },
-            {
-                "PMID": "7587918",
-                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 3,
-                "abstract_sim": 0.24857998764452227,
-                "sentence_sim": 0.3511000774335952
             }
         ],
         "max_answer_quality": 3
@@ -442,15 +280,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3929724237006901,
                 "sentence_sim": 0.6563972080204815
-            },
-            {
-                "PMID": "30012135",
-                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 1,
-                "abstract_sim": 0.377912948993125,
-                "sentence_sim": 0.507096326727312
             }
         ],
         "max_answer_quality": 1
@@ -466,15 +295,6 @@
                 "quality": 2,
                 "abstract_sim": 0.3433140500962625,
                 "sentence_sim": 0.5009479702962082
-            },
-            {
-                "PMID": "32306762",
-                "answer": "INTERVENTION: The trial group received a designed intervention consist of one-month supportive educational program with three months of follow-up (totally four months), based on self-care requisites according to the Orem self-care regarding diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08545104499693797,
-                "sentence_sim": 0.07588211960120873
             }
         ],
         "max_answer_quality": 2
@@ -490,15 +310,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2090182769318215,
                 "sentence_sim": 0.30204695290513284
-            },
-            {
-                "PMID": "32215272",
-                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 3,
-                "abstract_sim": 0.19362666524088246,
-                "sentence_sim": 0.42748166735758963
             }
         ],
         "max_answer_quality": 3
@@ -514,15 +325,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1683024939504522,
                 "sentence_sim": 0.15046565371031148
-            },
-            {
-                "PMID": "8040759",
-                "answer": "In the primary prevention cohort, intensive therapy decreased the risk of having retinopathy by 53% (95% confidence interval: 1% to 78%; p = 0.048) in comparison with conventional therapy.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1627898539329778,
-                "sentence_sim": 0.19080245109214158
             }
         ],
         "max_answer_quality": 2
@@ -538,15 +340,6 @@
                 "quality": 2,
                 "abstract_sim": 0.24320722553883914,
                 "sentence_sim": 0.24492422072465775
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.19353048821998547,
-                "sentence_sim": 0.18396547715643224
             }
         ],
         "max_answer_quality": 2
@@ -562,15 +355,6 @@
                 "quality": 2,
                 "abstract_sim": 0.26709322420159176,
                 "sentence_sim": 0.4202126748399072
-            },
-            {
-                "PMID": "31336474",
-                "answer": "The awareness of the patients related to diabetes foot care, in the intervention group after the training significantly improved (P\u202f<\u202f0.001).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.24025826552996285,
-                "sentence_sim": 0.23454332069928252
             }
         ],
         "max_answer_quality": 2
@@ -586,15 +370,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2726516781024232,
                 "sentence_sim": 0.2832083763377494
-            },
-            {
-                "PMID": "31295292",
-                "answer": "MAIN OUTCOME AND MEASURE: Primary outcome measure was recurrence of ulcers in the plantar aspect of the foot.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2723628413903734,
-                "sentence_sim": 0.38628453301820753
             }
         ],
         "max_answer_quality": 2
@@ -610,15 +385,6 @@
                 "quality": 5,
                 "abstract_sim": 0.20518987115945722,
                 "sentence_sim": 0.1942548231398689
-            },
-            {
-                "PMID": "7711992",
-                "answer": "In 1993, having studied 1441 individuals with type I diabetes randomized to either intensive glycemic control (HbA1c < 7%) or conventional glycemic control (HbA1c > 9%), it was concluded that a reduction in risk of retinopathy, neuropathy and nephropathy could be realized if near normal glycemic control were achieved.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10297552452054237,
-                "sentence_sim": 0.09361817705577319
             }
         ],
         "max_answer_quality": 1
@@ -634,15 +400,6 @@
                 "quality": 3,
                 "abstract_sim": 0.27639665151904674,
                 "sentence_sim": 0.4342138737642616
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.11378158633500202,
-                "sentence_sim": 0.236778277630333
             }
         ],
         "max_answer_quality": 3
@@ -658,15 +415,6 @@
                 "quality": 2,
                 "abstract_sim": 0.33381977570236,
                 "sentence_sim": 0.389373948078853
-            },
-            {
-                "PMID": "29606547",
-                "answer": "CONCLUSION: Aerobic exercise training may have the potential to hinder the progression of diabetic PN by improving NCV.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.28888254547913333,
-                "sentence_sim": 0.28284134707016284
             }
         ],
         "max_answer_quality": 2
@@ -682,15 +430,6 @@
                 "quality": 5,
                 "abstract_sim": 0.4897778362437104,
                 "sentence_sim": 0.4630470668664956
-            },
-            {
-                "PMID": "30012135",
-                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 1,
-                "abstract_sim": 0.47017858051942585,
-                "sentence_sim": 0.4142245078604122
             }
         ],
         "max_answer_quality": 1
@@ -706,15 +445,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3533963214805246,
                 "sentence_sim": 0.4665611228851026
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.27238793572755227,
-                "sentence_sim": 0.27511701231756236
             }
         ],
         "max_answer_quality": 1
@@ -730,15 +460,6 @@
                 "quality": 5,
                 "abstract_sim": 0.436806609126679,
                 "sentence_sim": 0.2955145556695256
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.4050033656160421,
-                "sentence_sim": 0.3687986518682247
             }
         ],
         "max_answer_quality": 1
@@ -754,15 +475,6 @@
                 "quality": 5,
                 "abstract_sim": 0.29855235645650896,
                 "sentence_sim": 0.356287603167987
-            },
-            {
-                "PMID": "7587918",
-                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2047355846934225,
-                "sentence_sim": 0.2683549016784196
             }
         ],
         "max_answer_quality": 4
@@ -778,15 +490,6 @@
                 "quality": 5,
                 "abstract_sim": 0.4444089423029015,
                 "sentence_sim": 0.4087083700168455
-            },
-            {
-                "PMID": "33952397",
-                "answer": "PATIENTS AND METHODS: Using ACCORD and ACCORDION study data, we investigated the risk of the primary outcome (nonfatal myocardial infarction, nonfatal stroke, or cardiovascular death) or death in relation to the prerandomization type and extent of microvascular complications.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.17834493410179,
-                "sentence_sim": 0.17014547343570366
             }
         ],
         "max_answer_quality": 2
@@ -802,15 +505,6 @@
                 "quality": 1,
                 "abstract_sim": 0.48994199747327666,
                 "sentence_sim": 0.8110937022530568
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14173844429172144,
-                "sentence_sim": 0.24275218156333606
             }
         ],
         "max_answer_quality": 1
@@ -826,15 +520,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3977276401605183,
                 "sentence_sim": 0.5907992020145764
-            },
-            {
-                "PMID": "7587918",
-                "answer": "In conclusion, intensive glycemic control by multiple insulin injection therapy can delay the onset and the progression of diabetic retinopathy, nephropathy and neuropathy in Japanese patients with NIDDM.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14550890696053861,
-                "sentence_sim": 0.17438538280016433
             }
         ],
         "max_answer_quality": 1
@@ -850,15 +535,6 @@
                 "quality": 1,
                 "abstract_sim": 0.47972693718606035,
                 "sentence_sim": 0.5668552880714365
-            },
-            {
-                "PMID": "30012135",
-                "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.4494265345134496,
-                "sentence_sim": 0.4074905402266708
             }
         ],
         "max_answer_quality": 1
@@ -874,15 +550,6 @@
                 "quality": 5,
                 "abstract_sim": 0.24408038728731976,
                 "sentence_sim": 0.36292077914472937
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.19359133812964735,
-                "sentence_sim": 0.3597523962031658
             }
         ],
         "max_answer_quality": 3
@@ -898,15 +565,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2758236470601488,
                 "sentence_sim": 0.2885923021581389
-            },
-            {
-                "PMID": "31295292",
-                "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2102810411320606,
-                "sentence_sim": 0.2308247416868587
             }
         ],
         "max_answer_quality": 2
@@ -922,15 +580,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1892307108106468,
                 "sentence_sim": 0.2516720731427435
-            },
-            {
-                "PMID": "7598463",
-                "answer": "If intensive treatment is impractical, any improvement in glycemic control is probably beneficial.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14288009497825999,
-                "sentence_sim": 0.13104605983620715
             }
         ],
         "max_answer_quality": 3
@@ -946,15 +595,6 @@
                 "quality": 5,
                 "abstract_sim": 0.17294415203460906,
                 "sentence_sim": 0.2781685418982595
-            },
-            {
-                "PMID": "30012135",
-                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 2,
-                "abstract_sim": 0.10175944242522024,
-                "sentence_sim": 0.3008071268093522
             }
         ],
         "max_answer_quality": 2
@@ -970,15 +610,6 @@
                 "quality": 5,
                 "abstract_sim": 0.18982124916729545,
                 "sentence_sim": 0.2558197846359225
-            },
-            {
-                "PMID": "24766062",
-                "answer": "These results need to be interpreted with caution as they are based on two separate studies, but do call into question the need to screen for diabetes distress in people with Type 2 diabetes in primary care.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1403562062538561,
-                "sentence_sim": 0.2544683996693678
             }
         ],
         "max_answer_quality": 2
@@ -994,15 +625,6 @@
                 "quality": 5,
                 "abstract_sim": 0.15972601614331539,
                 "sentence_sim": 0.21345737745333293
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 3,
-                "abstract_sim": 0.15831593131274216,
-                "sentence_sim": 0.2912993145793597
             }
         ],
         "max_answer_quality": 1
@@ -1018,15 +640,6 @@
                 "quality": 3,
                 "abstract_sim": 0.2807219575540021,
                 "sentence_sim": 0.42201886266290417
-            },
-            {
-                "PMID": "31101545",
-                "answer": "We analyzed the safety and efficacy outcomes in diabetic patients at 5\u202fyear follow-up.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13092907190873612,
-                "sentence_sim": 0.2919927188869666
             }
         ],
         "max_answer_quality": 3
@@ -1042,15 +655,6 @@
                 "quality": 1,
                 "abstract_sim": 0.34384809132318667,
                 "sentence_sim": 0.5275904367125176
-            },
-            {
-                "PMID": "8981711",
-                "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.17138729969316147,
-                "sentence_sim": 0.206020577139867
             }
         ],
         "max_answer_quality": 1
@@ -1066,15 +670,6 @@
                 "quality": 1,
                 "abstract_sim": 0.18241922689548942,
                 "sentence_sim": 0.6107966009105015
-            },
-            {
-                "PMID": "8529508",
-                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.130386554417952,
-                "sentence_sim": 0.31144278111591395
             }
         ],
         "max_answer_quality": 1
@@ -1090,15 +685,6 @@
                 "quality": 2,
                 "abstract_sim": 0.1347786850588323,
                 "sentence_sim": 0.21421571552224944
-            },
-            {
-                "PMID": "30012135",
-                "answer": "If future definitive trials confirm this, this could potentially allow more patients to benefit from lithium, while minimizing renal risk.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13391244728126753,
-                "sentence_sim": 0.12331459083990903
             }
         ],
         "max_answer_quality": 2
@@ -1114,15 +700,6 @@
                 "quality": 5,
                 "abstract_sim": 0.43623424669469546,
                 "sentence_sim": 0.4264711734241031
-            },
-            {
-                "PMID": "32306762",
-                "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.22896959874682732,
-                "sentence_sim": 0.23777895766740131
             }
         ],
         "max_answer_quality": 1
@@ -1138,15 +715,6 @@
                 "quality": 1,
                 "abstract_sim": 0.5183350237541872,
                 "sentence_sim": 0.5667170696935091
-            },
-            {
-                "PMID": "31899340",
-                "answer": "We investigated the effect of exercise training on the measures of superficial femoral artery (SFA) and neuropathic symptoms in patients with DPN.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2129958666403451,
-                "sentence_sim": 0.28225919639745106
             }
         ],
         "max_answer_quality": 1
@@ -1162,15 +730,6 @@
                 "quality": 2,
                 "abstract_sim": 0.27147003531245784,
                 "sentence_sim": 0.2989166398307507
-            },
-            {
-                "PMID": "32215272",
-                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.20798424350360747,
-                "sentence_sim": 0.2671842675101139
             }
         ],
         "max_answer_quality": 2
@@ -1186,15 +745,6 @@
                 "quality": 2,
                 "abstract_sim": 0.39246595383758603,
                 "sentence_sim": 0.37393020751057826
-            },
-            {
-                "PMID": "7598463",
-                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.11347984689213722,
-                "sentence_sim": 0.11221360576555729
             }
         ],
         "max_answer_quality": 2
@@ -1210,15 +760,6 @@
                 "quality": 5,
                 "abstract_sim": 0.18338740782782004,
                 "sentence_sim": 0.42152132268800024
-            },
-            {
-                "PMID": "32321301",
-                "answer": "There was a negative correlation between HbA1c levels and diabetes mellitus times and endothelial cell densitometer values in the patients with diabetes mellitus diagnosis and standard deviation values in the positive direction.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.16999220183144712,
-                "sentence_sim": 0.15730868684131036
             }
         ],
         "max_answer_quality": 5
@@ -1234,15 +775,6 @@
                 "quality": 5,
                 "abstract_sim": 0.10280264017825758,
                 "sentence_sim": 0.29325998873034254
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.060902390146839104,
-                "sentence_sim": 0.07951396771715505
             }
         ],
         "max_answer_quality": 3
@@ -1258,15 +790,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3222429936889669,
                 "sentence_sim": 0.42876204156276315
-            },
-            {
-                "PMID": "29178519",
-                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.12432580471052612,
-                "sentence_sim": 0.25207532838206026
             }
         ],
         "max_answer_quality": 2
@@ -1282,15 +805,6 @@
                 "quality": 1,
                 "abstract_sim": 0.1425773282043471,
                 "sentence_sim": 0.24242861248207656
-            },
-            {
-                "PMID": "32215272",
-                "answer": "The present investigation was conducted to specifically study the effects of combined training (resistance-aerobic) on serum kinesin-1 and physical function in type 2 diabetes patients with diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10504129877748747,
-                "sentence_sim": 0.1703374480187625
             }
         ],
         "max_answer_quality": 1
@@ -1306,15 +820,6 @@
                 "quality": 1,
                 "abstract_sim": 0.5952316147130704,
                 "sentence_sim": 0.6214746614004948
-            },
-            {
-                "PMID": "29178519",
-                "answer": "Guidance regarding the early worsening of DR is recommended with insulin.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09333522533282222,
-                "sentence_sim": 0.19045288896732382
             }
         ],
         "max_answer_quality": 1
@@ -1330,15 +835,6 @@
                 "quality": 1,
                 "abstract_sim": 0.5004644910366841,
                 "sentence_sim": 0.6029574349852835
-            },
-            {
-                "PMID": "24766062",
-                "answer": "METHODS: People with Type 2 diabetes from 24 primary care practices (n = 774) and three secondary care clinics (n = 526) completed the Problem Areas In Diabetes questionnaire.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08679375003324902,
-                "sentence_sim": 0.12656366486123666
             }
         ],
         "max_answer_quality": 1
@@ -1354,15 +850,6 @@
                 "quality": 1,
                 "abstract_sim": 0.4046576999459005,
                 "sentence_sim": 0.6354235834483174
-            },
-            {
-                "PMID": "32962981",
-                "answer": "DKA was moderate/severe in 430 children and mild in 328 children.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.26544666663302735,
-                "sentence_sim": 0.33196068158068603
             }
         ],
         "max_answer_quality": 1
@@ -1378,15 +865,6 @@
                 "quality": 5,
                 "abstract_sim": 0.17276203569848686,
                 "sentence_sim": 0.16643730564888065
-            },
-            {
-                "PMID": "8529508",
-                "answer": "At present, it is uncertain whether Type II diabetes should be treated more intensively, with diet, tablet or insulin therapy to maintain near-normal glucose levels, in order to prevent the onset of complications.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1111465404999717,
-                "sentence_sim": 0.10620756688001304
             }
         ],
         "max_answer_quality": 3
@@ -1402,15 +880,6 @@
                 "quality": 5,
                 "abstract_sim": 0.33224430132509497,
                 "sentence_sim": 0.3334656243817193
-            },
-            {
-                "PMID": "32891604",
-                "answer": "A total of 438 kidney events occurred (181 in the intensive therapy group and 257 in the conventional therapy group).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2947631260236258,
-                "sentence_sim": 0.37575714416119094
             }
         ],
         "max_answer_quality": 3
@@ -1426,15 +895,6 @@
                 "quality": 5,
                 "abstract_sim": 0.27106340469773466,
                 "sentence_sim": 0.4628870305741988
-            },
-            {
-                "PMID": "9893692",
-                "answer": "Orliatort, an gastro-intestinal lipase inhibitor, is indicated in obese patients but long-term results are lacking to evaluate effects in diabetics.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.22243422407481872,
-                "sentence_sim": 0.29445299216058135
             }
         ],
         "max_answer_quality": 1
@@ -1450,15 +910,6 @@
                 "quality": 3,
                 "abstract_sim": 0.15196844730721937,
                 "sentence_sim": 0.3061680673676665
-            },
-            {
-                "PMID": "27174580",
-                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14840130356866515,
-                "sentence_sim": 0.2783101993140683
             }
         ],
         "max_answer_quality": 3
@@ -1474,15 +925,6 @@
                 "quality": 1,
                 "abstract_sim": 0.37867818939883624,
                 "sentence_sim": 0.5391185946309554
-            },
-            {
-                "PMID": "7598463",
-                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10932859009306657,
-                "sentence_sim": 0.1886922187421204
             }
         ],
         "max_answer_quality": 1
@@ -1498,15 +940,6 @@
                 "quality": 1,
                 "abstract_sim": 0.42651065292198115,
                 "sentence_sim": 0.6739749023870351
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10032813021599171,
-                "sentence_sim": 0.09737313067397749
             }
         ],
         "max_answer_quality": 1
@@ -1522,15 +955,6 @@
                 "quality": 5,
                 "abstract_sim": 0.28297594114677616,
                 "sentence_sim": 0.2842699878505825
-            },
-            {
-                "PMID": "25226881",
-                "answer": "No interaction was observed between diabetes duration, age and the risk of macrovascular events or death (both p\u2009>\u20090.4).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2766729412042759,
-                "sentence_sim": 0.33566311855210773
             }
         ],
         "max_answer_quality": 1
@@ -1546,15 +970,6 @@
                 "quality": 5,
                 "abstract_sim": 0.40464186885591086,
                 "sentence_sim": 0.4685334416450405
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07069938395923947,
-                "sentence_sim": 0.09230489181465208
             }
         ],
         "max_answer_quality": 3
@@ -1570,15 +985,6 @@
                 "quality": 1,
                 "abstract_sim": 0.45032940870708066,
                 "sentence_sim": 0.4950793801001524
-            },
-            {
-                "PMID": "7711992",
-                "answer": "Some questions remained, however.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13840875815163364,
-                "sentence_sim": 0.2501107195953636
             }
         ],
         "max_answer_quality": 1
@@ -1594,15 +1000,6 @@
                 "quality": 5,
                 "abstract_sim": 0.16954694793981864,
                 "sentence_sim": 0.302827237767789
-            },
-            {
-                "PMID": "26165582",
-                "answer": "In total, 405 persons completed baseline questionnaires and were randomly allocated to a diabetes self-management program (n=130), to a general self-management program (n=109) or to a control group (n=122).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15832216174330388,
-                "sentence_sim": 0.15855146879561252
             }
         ],
         "max_answer_quality": 1
@@ -1618,15 +1015,6 @@
                 "quality": 1,
                 "abstract_sim": 0.07578360498405937,
                 "sentence_sim": 0.22607080127445495
-            },
-            {
-                "PMID": "9742977",
-                "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.044578174095999304,
-                "sentence_sim": 0.13345931744544787
             }
         ],
         "max_answer_quality": 1
@@ -1642,15 +1030,6 @@
                 "quality": 1,
                 "abstract_sim": 0.17256884575207992,
                 "sentence_sim": 0.4306513118617372
-            },
-            {
-                "PMID": "8040759",
-                "answer": "In the primary prevention cohort, intensive therapy decreased the risk of having retinopathy by 53% (95% confidence interval: 1% to 78%; p = 0.048) in comparison with conventional therapy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15484833156497707,
-                "sentence_sim": 0.18534238907211242
             }
         ],
         "max_answer_quality": 1
@@ -1666,15 +1045,6 @@
                 "quality": 5,
                 "abstract_sim": 0.4866006913847214,
                 "sentence_sim": 0.5532652693946041
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07069938395923947,
-                "sentence_sim": 0.09230489181465208
             }
         ],
         "max_answer_quality": 3
@@ -1690,15 +1060,6 @@
                 "quality": 2,
                 "abstract_sim": 0.3391233905644361,
                 "sentence_sim": 0.5285368987378205
-            },
-            {
-                "PMID": "27174580",
-                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1862948376943418,
-                "sentence_sim": 0.343166314144671
             }
         ],
         "max_answer_quality": 2
@@ -1714,15 +1075,6 @@
                 "quality": 2,
                 "abstract_sim": 0.12740579524065423,
                 "sentence_sim": 0.35068864098919533
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06380650475740259,
-                "sentence_sim": 0.09273803999856636
             }
         ],
         "max_answer_quality": 2
@@ -1738,15 +1090,6 @@
                 "quality": 1,
                 "abstract_sim": 0.48566610452420184,
                 "sentence_sim": 0.8661145709983212
-            },
-            {
-                "PMID": "27590190",
-                "answer": "We aimed to evaluate the impact of major PAD, and its different presentations, on the 10-year risk of death, major macrovascular events, and major clinical microvascular events in these patients.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.17339776439526372,
-                "sentence_sim": 0.15693307950220864
             }
         ],
         "max_answer_quality": 1
@@ -1762,15 +1105,6 @@
                 "quality": 2,
                 "abstract_sim": 0.4938196228739055,
                 "sentence_sim": 0.6410105201295176
-            },
-            {
-                "PMID": "31899340",
-                "answer": "In a randomized-controlled trial, 31 volunteers with established DPN were randomly assigned to experimental or control groups.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1802063051130888,
-                "sentence_sim": 0.1926519947498885
             }
         ],
         "max_answer_quality": 2
@@ -1786,15 +1120,6 @@
                 "quality": 1,
                 "abstract_sim": 0.42208219811894443,
                 "sentence_sim": 0.5147657926027308
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.24584390767319758,
-                "sentence_sim": 0.28991196990504725
             }
         ],
         "max_answer_quality": 1
@@ -1810,15 +1135,6 @@
                 "quality": 1,
                 "abstract_sim": 0.1629497696182755,
                 "sentence_sim": 0.5067334343202899
-            },
-            {
-                "PMID": "33952397",
-                "answer": "The outcome-specific microvascular score was \u226430 in 97.9% of subjects for the primary outcome and in 98.5% for death.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.060789687601174085,
-                "sentence_sim": 0.07430919441299091
             }
         ],
         "max_answer_quality": 1
@@ -1834,15 +1150,6 @@
                 "quality": 2,
                 "abstract_sim": 0.6253304266822062,
                 "sentence_sim": 0.5658162423399931
-            },
-            {
-                "PMID": "32001614",
-                "answer": "Age was the strongest risk factor for acute MI, silent MI, stroke, and PTCA/CABG, while glycemia was the strongest risk factor for CVD death, CHF, and angina, second strongest for acute MI and PTCA/CABG, third strongest for stroke, and not associated with silent MI.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.20562590515072518,
-                "sentence_sim": 0.29413949085343566
             }
         ],
         "max_answer_quality": 2
@@ -1858,15 +1165,6 @@
                 "quality": 2,
                 "abstract_sim": 0.2610156869972702,
                 "sentence_sim": 0.5203626127720824
-            },
-            {
-                "PMID": "32430457",
-                "answer": "However, improvements in lipid profile and coding can benefit patients with diabetes to alter the high risk of atherosclerotic cardiovascular events.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2426816277302611,
-                "sentence_sim": 0.40316500342055045
             }
         ],
         "max_answer_quality": 2
@@ -1882,15 +1180,6 @@
                 "quality": 4,
                 "abstract_sim": 0.2530856353547718,
                 "sentence_sim": 0.6431616235459261
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09498543659399969,
-                "sentence_sim": 0.14136320439779737
             }
         ],
         "max_answer_quality": 4
@@ -1906,15 +1195,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3303185376927258,
                 "sentence_sim": 0.3489024152985651
-            },
-            {
-                "PMID": "7598463",
-                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.12575015482689575,
-                "sentence_sim": 0.11853607834415422
             }
         ],
         "max_answer_quality": 1
@@ -1930,15 +1210,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3364499374368689,
                 "sentence_sim": 0.44579658897786895
-            },
-            {
-                "PMID": "29178519",
-                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08533089953703273,
-                "sentence_sim": 0.20885640335500336
             }
         ],
         "max_answer_quality": 2
@@ -1954,15 +1225,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3565636512174128,
                 "sentence_sim": 0.5977371524837252
-            },
-            {
-                "PMID": "8529508",
-                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.04747173207404754,
-                "sentence_sim": 0.054527858373907265
             }
         ],
         "max_answer_quality": 3
@@ -1978,15 +1240,6 @@
                 "quality": 1,
                 "abstract_sim": 0.21321596497692435,
                 "sentence_sim": 0.5968893837628584
-            },
-            {
-                "PMID": "9742977",
-                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07594506785023031,
-                "sentence_sim": 0.11119884561598722
             }
         ],
         "max_answer_quality": 1
@@ -2002,15 +1255,6 @@
                 "quality": 1,
                 "abstract_sim": 0.0915440788041323,
                 "sentence_sim": 0.3215214366686793
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07069938395923947,
-                "sentence_sim": 0.09230489181465208
             }
         ],
         "max_answer_quality": 1
@@ -2026,15 +1270,6 @@
                 "quality": 1,
                 "abstract_sim": 0.205137307897186,
                 "sentence_sim": 0.33301069250249393
-            },
-            {
-                "PMID": "33952397",
-                "answer": "For participants with scores of 0 and 30, respectively, the 10-year absolute risk difference between intensive glucose control and standard treatment ranged from\u00a0-0.8% (95% CI,\u00a0-2.6, 1.1) to\u00a0-3.0%\u00a0-7.1, 1.1) for the primary outcome and from\u00a0-0.5% (-2.1, 1.1) to 0.7% (-4.2, 5.6) for mortality.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.20353249383509936,
-                "sentence_sim": 0.17276580122551824
             }
         ],
         "max_answer_quality": 1
@@ -2050,15 +1285,6 @@
                 "quality": 1,
                 "abstract_sim": 0.40887214312792947,
                 "sentence_sim": 0.6856149110904721
-            },
-            {
-                "PMID": "32962981",
-                "answer": "DKA was moderate/severe in 430 children and mild in 328 children.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2643133042025827,
-                "sentence_sim": 0.34205810017082094
             }
         ],
         "max_answer_quality": 1
@@ -2074,15 +1300,6 @@
                 "quality": 1,
                 "abstract_sim": 0.22376496870969093,
                 "sentence_sim": 0.5010464942993553
-            },
-            {
-                "PMID": "34372849",
-                "answer": "We compared the proteomic profile of patients with and without diabetes among patients at risk for HF in the HOMAGE trial.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13628517279641517,
-                "sentence_sim": 0.2629964513182955
             }
         ],
         "max_answer_quality": 1
@@ -2098,15 +1315,6 @@
                 "quality": 1,
                 "abstract_sim": 0.15837504081518702,
                 "sentence_sim": 0.22736220476495317
-            },
-            {
-                "PMID": "8529508",
-                "answer": "Type II diabetes is a major cause of morbidity and mortality, both from an increased risk of developing cardiovascular disease and from specific diabetic complications.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14363242737192014,
-                "sentence_sim": 0.1235725668945197
             }
         ],
         "max_answer_quality": 1
@@ -2122,15 +1330,6 @@
                 "quality": 5,
                 "abstract_sim": 0.22832050319812375,
                 "sentence_sim": 0.35783853452672565
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.21460534675782025,
-                "sentence_sim": 0.42772887140960836
             }
         ],
         "max_answer_quality": 2
@@ -2146,15 +1345,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3660244113320453,
                 "sentence_sim": 0.49368056242623004
-            },
-            {
-                "PMID": "32215272",
-                "answer": "Results show that the serum kinesin-1 level and aerobic endurance declined after eight weeks of combined (resistance-aerobic) exercise training, but this decrease was not significant.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.3188397090184887,
-                "sentence_sim": 0.35384595209720415
             }
         ],
         "max_answer_quality": 1
@@ -2170,15 +1360,6 @@
                 "quality": 1,
                 "abstract_sim": 0.34242658980902174,
                 "sentence_sim": 0.5847227387065458
-            },
-            {
-                "PMID": "8981711",
-                "answer": "The current standard of care is to initiate scatter photocoagulation as the severity of retinopathy approaches or reaches the high-risk stage, Provided careful follow-up is possible, ETDRS data do not show that initiating scatter photocoagulation prior to the development of high-risk proliferative diabetic retinopathy in patients with type I diabetes will reduce the risk of severe visual loss.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2031097316512503,
-                "sentence_sim": 0.18484343838071887
             }
         ],
         "max_answer_quality": 1
@@ -2194,15 +1375,6 @@
                 "quality": 2,
                 "abstract_sim": 0.3647362797223225,
                 "sentence_sim": 0.6662293783535745
-            },
-            {
-                "PMID": "8981711",
-                "answer": "The patients most likely to benefit from early photocoagulation had severe nonproliferative retinopathy or early proliferative retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.16757049176279548,
-                "sentence_sim": 0.21230097483092833
             }
         ],
         "max_answer_quality": 2
@@ -2218,15 +1390,6 @@
                 "quality": 4,
                 "abstract_sim": 0.22205827705510536,
                 "sentence_sim": 0.44336424594601825
-            },
-            {
-                "PMID": "7598463",
-                "answer": "Implementation of intensive treatment recommendations is difficult but should be considered and probably recommended to most patients with IDDM.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14625870878312827,
-                "sentence_sim": 0.16654547783029527
             }
         ],
         "max_answer_quality": 4
@@ -2242,15 +1405,6 @@
                 "quality": 3,
                 "abstract_sim": 0.23005612856620988,
                 "sentence_sim": 0.5130482244343815
-            },
-            {
-                "PMID": "7598463",
-                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.21371609113282186,
-                "sentence_sim": 0.17235058665156772
             }
         ],
         "max_answer_quality": 3
@@ -2266,15 +1420,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19415635813398519,
                 "sentence_sim": 0.1944375659047764
-            },
-            {
-                "PMID": "7711992",
-                "answer": "These questions are addressed through the introduction of staged diabetes management (SDM), an innovative approach to the treatment of diabetes and the prevention of its complications.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 4,
-                "abstract_sim": 0.15662747145476502,
-                "sentence_sim": 0.37136830991543135
             }
         ],
         "max_answer_quality": 4
@@ -2290,15 +1435,6 @@
                 "quality": 2,
                 "abstract_sim": 0.23942259542634203,
                 "sentence_sim": 0.3071094809777289
-            },
-            {
-                "PMID": "32306762",
-                "answer": "PURPOSE: To determine the effect of a supportive educational intervention based on the Orem self-care model on women with type 2 diabetes and diabetic peripheral neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09963180733082391,
-                "sentence_sim": 0.23148704597245898
             }
         ],
         "max_answer_quality": 2
@@ -2314,15 +1450,6 @@
                 "quality": 1,
                 "abstract_sim": 0.19446250089747313,
                 "sentence_sim": 0.5327688731236087
-            },
-            {
-                "PMID": "7711992",
-                "answer": "More than a decade ago the question was raised of whether tight glycemic control would prevent or slow the progression of microvascular complications.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08934536949202018,
-                "sentence_sim": 0.1294986561476113
             }
         ],
         "max_answer_quality": 1
@@ -2338,15 +1465,6 @@
                 "quality": 2,
                 "abstract_sim": 0.20526118550536332,
                 "sentence_sim": 0.41490692054369416
-            },
-            {
-                "PMID": "29178519",
-                "answer": "CONCLUSIONS: Early worsening of DR is a known phenomenon associated with the rapidity and magnitude of improvement in glycaemic control with insulin; the DRC findings in SUSTAIN 6 are consistent with this.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09309601241926914,
-                "sentence_sim": 0.22090945238184162
             }
         ],
         "max_answer_quality": 2
@@ -2362,15 +1480,6 @@
                 "quality": 1,
                 "abstract_sim": 0.4859267977558508,
                 "sentence_sim": 0.7456963314557493
-            },
-            {
-                "PMID": "9893692",
-                "answer": "THE RESULTS: Improved blood glucose control was shown to reduce the number of complications, mainly by reducing the effect of microangiopathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08273292739020817,
-                "sentence_sim": 0.11457133790733655
             }
         ],
         "max_answer_quality": 1
@@ -2386,15 +1495,6 @@
                 "quality": 1,
                 "abstract_sim": 0.39501228037844427,
                 "sentence_sim": 0.4269349683703637
-            },
-            {
-                "PMID": "20357376",
-                "answer": "The intervention had no effect on the study's outcomes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.034543010626188086,
-                "sentence_sim": 0.10395557941847355
             }
         ],
         "max_answer_quality": 1
@@ -2410,15 +1510,6 @@
                 "quality": 1,
                 "abstract_sim": 0.40036185255787,
                 "sentence_sim": 0.6652940543601327
-            },
-            {
-                "PMID": "9742977",
-                "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.027843602245368734,
-                "sentence_sim": 0.0833589133302556
             }
         ],
         "max_answer_quality": 1
@@ -2434,15 +1525,6 @@
                 "quality": 1,
                 "abstract_sim": 0.27803349311787096,
                 "sentence_sim": 0.30430489065524846
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.26016322592504226,
-                "sentence_sim": 0.2639314977333044
             }
         ],
         "max_answer_quality": 1
@@ -2458,15 +1540,6 @@
                 "quality": 1,
                 "abstract_sim": 0.24362115315692368,
                 "sentence_sim": 0.3925310629479735
-            },
-            {
-                "PMID": "34372849",
-                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13081211551151253,
-                "sentence_sim": 0.26659321110716
             }
         ],
         "max_answer_quality": 1
@@ -2482,15 +1555,6 @@
                 "quality": 1,
                 "abstract_sim": 0.5840465602226048,
                 "sentence_sim": 0.6212785446608275
-            },
-            {
-                "PMID": "26165582",
-                "answer": "This finding is consistent with the principle that behaviour-change strategies using self-efficacy are key components in health education programs.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14071362817132602,
-                "sentence_sim": 0.13230015487564215
             }
         ],
         "max_answer_quality": 1
@@ -2506,15 +1570,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1870929524919955,
                 "sentence_sim": 0.26402797657980487
-            },
-            {
-                "PMID": "32891604",
-                "answer": "The prespecified kidney outcome measure was a composite of progression from normoalbuminuria to microalbuminuria or progression from normoalbuminuria to macroalbuminuria or progression from microalbuminuria to macroalbuminuria, serum creatinine levels elevated by two-fold or more compared to baseline, or kidney failure.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.17712935325608994,
-                "sentence_sim": 0.1627602500448093
             }
         ],
         "max_answer_quality": 2
@@ -2530,15 +1585,6 @@
                 "quality": 5,
                 "abstract_sim": 0.17783330235068356,
                 "sentence_sim": 0.2490160236523581
-            },
-            {
-                "PMID": "33150711",
-                "answer": "CONCLUSIONS: Classical needle acupuncture had significant effects on DPN.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1029561313735987,
-                "sentence_sim": 0.25710923993635226
             }
         ],
         "max_answer_quality": 1
@@ -2554,15 +1600,6 @@
                 "quality": 5,
                 "abstract_sim": 0.10986664703771888,
                 "sentence_sim": 0.11841952580229582
-            },
-            {
-                "PMID": "8981711",
-                "answer": "ETDRS analyses do indicate that for patients with type II diabetes, it is especially important to consider scatter photocoagulation at the time of the development of severe nonproliferative or early proliferative retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09404952145891438,
-                "sentence_sim": 0.1857980942528243
             }
         ],
         "max_answer_quality": 2
@@ -2578,15 +1615,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3049966128819842,
                 "sentence_sim": 0.41798927687345155
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.03417995936943155,
-                "sentence_sim": 0.11092339638875595
             }
         ],
         "max_answer_quality": 3
@@ -2602,15 +1630,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3012629922572487,
                 "sentence_sim": 0.3755751105338466
-            },
-            {
-                "PMID": "29178519",
-                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.05421374037487808,
-                "sentence_sim": 0.151575764100753
             }
         ],
         "max_answer_quality": 1
@@ -2626,15 +1645,6 @@
                 "quality": 2,
                 "abstract_sim": 0.40929039343978135,
                 "sentence_sim": 0.39563997162983505
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09981418622437586,
-                "sentence_sim": 0.16641021263522318
             }
         ],
         "max_answer_quality": 1
@@ -2650,15 +1660,6 @@
                 "quality": 1,
                 "abstract_sim": 0.44982353459435953,
                 "sentence_sim": 0.8487877773699812
-            },
-            {
-                "PMID": "27174580",
-                "answer": "RESULTS: When comparing change in AI(75) from baseline to 1 h and baseline to 2 h, when subjects received premeal insulin vs. no insulin, AI(75) was 4.5 units lower at 1 h (p = 0.011, 95% CI:1.1 lower to 8 lower) and 4.3 units lower at 2 h (p = 0.062, 95% CI: 0.2 higher to 8.9 lower) (n = 40).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1833462911013934,
-                "sentence_sim": 0.2491158263909019
             }
         ],
         "max_answer_quality": 1
@@ -2674,15 +1675,6 @@
                 "quality": 5,
                 "abstract_sim": 0.31839717035652826,
                 "sentence_sim": 0.27345572095865206
-            },
-            {
-                "PMID": "32891604",
-                "answer": "A total of 438 kidney events occurred (181 in the intensive therapy group and 257 in the conventional therapy group).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2770324884633776,
-                "sentence_sim": 0.2570360349241769
             }
         ],
         "max_answer_quality": 1
@@ -2698,15 +1690,6 @@
                 "quality": 2,
                 "abstract_sim": 0.21798424421809143,
                 "sentence_sim": 0.25067362665407045
-            },
-            {
-                "PMID": "26165582",
-                "answer": "CONCLUSIONS: The major findings are that although both programs were effective in bringing about positive changes in the outcome measures, there was little difference in effectiveness between the Diabetes Self-Management Program and the Chronic Disease Self-Management Program.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1208938253378348,
-                "sentence_sim": 0.10419068803266228
             }
         ],
         "max_answer_quality": 2
@@ -2722,15 +1705,6 @@
                 "quality": 5,
                 "abstract_sim": 0.20128748623766626,
                 "sentence_sim": 0.2638142611376871
-            },
-            {
-                "PMID": "26165582",
-                "answer": "CONCLUSIONS: The major findings are that although both programs were effective in bringing about positive changes in the outcome measures, there was little difference in effectiveness between the Diabetes Self-Management Program and the Chronic Disease Self-Management Program.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.16739237020773373,
-                "sentence_sim": 0.13863930142066697
             }
         ],
         "max_answer_quality": 2
@@ -2746,15 +1720,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19427428031819047,
                 "sentence_sim": 0.14261710914448597
-            },
-            {
-                "PMID": "26165582",
-                "answer": "CONCLUSIONS: The major findings are that although both programs were effective in bringing about positive changes in the outcome measures, there was little difference in effectiveness between the Diabetes Self-Management Program and the Chronic Disease Self-Management Program.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1534285596965745,
-                "sentence_sim": 0.15440700768473242
             }
         ],
         "max_answer_quality": 3
@@ -2770,15 +1735,6 @@
                 "quality": 2,
                 "abstract_sim": 0.24260743861941175,
                 "sentence_sim": 0.21279398537593563
-            },
-            {
-                "PMID": "8529508",
-                "answer": "The Diabetes Control and Complications Trial (DCCT) in insulin-dependent diabetic subjects with a mean age of 27 years has indicated that intensive therapy to achieve a haemoglobin A1c level of 7.1%, compared with 9.0% in a 'standard control group', will retard the progress of diabetic microvascular disease.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14502912270814328,
-                "sentence_sim": 0.15358223140138882
             }
         ],
         "max_answer_quality": 2
@@ -2794,15 +1750,6 @@
                 "quality": 5,
                 "abstract_sim": 0.15298395080598695,
                 "sentence_sim": 0.21587804438856845
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13072322684378182,
-                "sentence_sim": 0.15439348859118968
             }
         ],
         "max_answer_quality": 4
@@ -2818,15 +1765,6 @@
                 "quality": 4,
                 "abstract_sim": 0.4525278831214518,
                 "sentence_sim": 0.3914609397803306
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.45204944294488647,
-                "sentence_sim": 0.5126158013785235
             }
         ],
         "max_answer_quality": 4
@@ -2842,15 +1780,6 @@
                 "quality": 5,
                 "abstract_sim": 0.28566335631769896,
                 "sentence_sim": 0.2738247974179669
-            },
-            {
-                "PMID": "31295292",
-                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 3,
-                "abstract_sim": 0.2227215961912917,
-                "sentence_sim": 0.21922843773647768
             }
         ],
         "max_answer_quality": 2
@@ -2866,15 +1795,6 @@
                 "quality": 1,
                 "abstract_sim": 0.4179235139609747,
                 "sentence_sim": 0.47509837906205843
-            },
-            {
-                "PMID": "26165582",
-                "answer": "CONCLUSIONS: The major findings are that although both programs were effective in bringing about positive changes in the outcome measures, there was little difference in effectiveness between the Diabetes Self-Management Program and the Chronic Disease Self-Management Program.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09012009157477321,
-                "sentence_sim": 0.07766876695731101
             }
         ],
         "max_answer_quality": 1
@@ -2890,15 +1810,6 @@
                 "quality": 5,
                 "abstract_sim": 0.13868541704355292,
                 "sentence_sim": 0.4186905104899191
-            },
-            {
-                "PMID": "32306762",
-                "answer": "SUBJECTS: Adult women with type 2 diabetes and mild-to-moderate diabetic peripheral neuropathy.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13453206891762795,
-                "sentence_sim": 0.13291486818690956
             }
         ],
         "max_answer_quality": 5
@@ -2914,15 +1825,6 @@
                 "quality": 5,
                 "abstract_sim": 0.20128748623766626,
                 "sentence_sim": 0.2638142611376871
-            },
-            {
-                "PMID": "26165582",
-                "answer": "CONCLUSIONS: The major findings are that although both programs were effective in bringing about positive changes in the outcome measures, there was little difference in effectiveness between the Diabetes Self-Management Program and the Chronic Disease Self-Management Program.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.16739237020773373,
-                "sentence_sim": 0.13863930142066697
             }
         ],
         "max_answer_quality": 3
@@ -2938,15 +1840,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14371975412050095,
                 "sentence_sim": 0.11189323847034337
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1323487326377804,
-                "sentence_sim": 0.12785303297440728
             }
         ],
         "max_answer_quality": 3
@@ -2962,15 +1855,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2226059847579969,
                 "sentence_sim": 0.17948383341059543
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is not known whether this is similarly beneficial in Type II diabetic subjects, where the main complication is cardiac disease, or whether the even better control that can be obtained with pharmaceutical therapy in Type II diabetic patients would be worthwhile.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1614239407247309,
-                "sentence_sim": 0.138732092562146
             }
         ],
         "max_answer_quality": 2
@@ -2986,15 +1870,6 @@
                 "quality": 5,
                 "abstract_sim": 0.132038026791313,
                 "sentence_sim": 0.20317448459673862
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10177789023788185,
-                "sentence_sim": 0.0779396026913526
             }
         ],
         "max_answer_quality": 4
@@ -3010,15 +1885,6 @@
                 "quality": 1,
                 "abstract_sim": 0.37844063484869145,
                 "sentence_sim": 0.41213481791497575
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08061176514586799,
-                "sentence_sim": 0.06740645325834117
             }
         ],
         "max_answer_quality": 1
@@ -3034,15 +1900,6 @@
                 "quality": 5,
                 "abstract_sim": 0.24752053488786221,
                 "sentence_sim": 0.30242905414285565
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.16767342912347508,
-                "sentence_sim": 0.25885538663395524
             }
         ],
         "max_answer_quality": 2
@@ -3058,15 +1915,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14371975412050095,
                 "sentence_sim": 0.11189323847034337
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1323487326377804,
-                "sentence_sim": 0.12785303297440728
             }
         ],
         "max_answer_quality": 3
@@ -3082,15 +1930,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14371975412050095,
                 "sentence_sim": 0.11189323847034337
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1323487326377804,
-                "sentence_sim": 0.12785303297440728
             }
         ],
         "max_answer_quality": 3
@@ -3106,15 +1945,6 @@
                 "quality": 5,
                 "abstract_sim": 0.08516730586280505,
                 "sentence_sim": 0.1682509690266661
-            },
-            {
-                "PMID": "24766062",
-                "answer": "These results need to be interpreted with caution as they are based on two separate studies, but do call into question the need to screen for diabetes distress in people with Type 2 diabetes in primary care.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07850729874550849,
-                "sentence_sim": 0.16291106832767552
             }
         ],
         "max_answer_quality": 3
@@ -3130,15 +1960,6 @@
                 "quality": 5,
                 "abstract_sim": 0.06905751863374086,
                 "sentence_sim": 0.14959827471554688
-            },
-            {
-                "PMID": "30012135",
-                "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.0625701557177954,
-                "sentence_sim": 0.1844800277768074
             }
         ],
         "max_answer_quality": 3
@@ -3154,15 +1975,6 @@
                 "quality": 2,
                 "abstract_sim": 0.18762039009182938,
                 "sentence_sim": 0.16356400363149348
-            },
-            {
-                "PMID": "30012135",
-                "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09628883251787436,
-                "sentence_sim": 0.24467069835374985
             }
         ],
         "max_answer_quality": 2
@@ -3178,15 +1990,6 @@
                 "quality": 5,
                 "abstract_sim": 0.10690996083953842,
                 "sentence_sim": 0.17565019905501172
-            },
-            {
-                "PMID": "30012135",
-                "answer": "Nephrogenic Diabetes Insipidus (NDI) occurs in 15-20% of lithium users and predicts a 2-3 times increased risk of chronic kidney disease (CKD).",
-                "pmid_match": true,
-                "sentence_match": null,
-                "quality": 5,
-                "abstract_sim": 0.09378598172977143,
-                "sentence_sim": 0.23473864382585388
             }
         ],
         "max_answer_quality": 3
@@ -3202,15 +2005,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19396780937720431,
                 "sentence_sim": 0.21684946914619538
-            },
-            {
-                "PMID": "31295292",
-                "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15724562035549552,
-                "sentence_sim": 0.17344268134073426
             }
         ],
         "max_answer_quality": 2
@@ -3226,15 +2020,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1566541976275671,
                 "sentence_sim": 0.3112307149936503
-            },
-            {
-                "PMID": "30012135",
-                "answer": "If successful, lithium could theoretically be used more safely in patients with a reduced subsequent risk of CKD, hypernatremia, and acute kidney injury (AKI).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.0449006865087168,
-                "sentence_sim": 0.13752963284389377
             }
         ],
         "max_answer_quality": 1
@@ -3250,15 +2035,6 @@
                 "quality": 5,
                 "abstract_sim": 0.0963141210733586,
                 "sentence_sim": 0.10381196526054319
-            },
-            {
-                "PMID": "24766062",
-                "answer": "These results need to be interpreted with caution as they are based on two separate studies, but do call into question the need to screen for diabetes distress in people with Type 2 diabetes in primary care.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06544582596263196,
-                "sentence_sim": 0.14177431864110013
             }
         ],
         "max_answer_quality": 4
@@ -3274,15 +2050,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1288897541214599,
                 "sentence_sim": 0.18048146008987784
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": true,
-                "sentence_match": null,
-                "quality": 5,
-                "abstract_sim": 0.06926017885732241,
-                "sentence_sim": 0.19281511033791682
             }
         ],
         "max_answer_quality": 4
@@ -3298,15 +2065,6 @@
                 "quality": 5,
                 "abstract_sim": 0.09112887495816789,
                 "sentence_sim": 0.1738590915072821
-            },
-            {
-                "PMID": "27174580",
-                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08638034660879193,
-                "sentence_sim": 0.14560378305577887
             }
         ],
         "max_answer_quality": 5
@@ -3322,15 +2080,6 @@
                 "quality": 5,
                 "abstract_sim": 0.09448792276352388,
                 "sentence_sim": 0.10184360139669162
-            },
-            {
-                "PMID": "8981711",
-                "answer": "ETDRS analyses do indicate that for patients with type II diabetes, it is especially important to consider scatter photocoagulation at the time of the development of severe nonproliferative or early proliferative retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08088481954405508,
-                "sentence_sim": 0.159790768651961
             }
         ],
         "max_answer_quality": 3
@@ -3346,15 +2095,6 @@
                 "quality": 5,
                 "abstract_sim": 0.15881053380966054,
                 "sentence_sim": 0.40379138042619944
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09247085263225169,
-                "sentence_sim": 0.2558205425786795
             }
         ],
         "max_answer_quality": 2
@@ -3370,15 +2110,6 @@
                 "quality": 5,
                 "abstract_sim": 0.18864338574075168,
                 "sentence_sim": 0.28906764747525965
-            },
-            {
-                "PMID": "31336474",
-                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.18807577391267258,
-                "sentence_sim": 0.20161423252311952
             }
         ],
         "max_answer_quality": 1
@@ -3394,15 +2125,6 @@
                 "quality": 5,
                 "abstract_sim": 0.21740026777484,
                 "sentence_sim": 0.31426160229704536
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13453461825611868,
-                "sentence_sim": 0.24515701187028155
             }
         ],
         "max_answer_quality": 1
@@ -3418,15 +2140,6 @@
                 "quality": 1,
                 "abstract_sim": 0.3666060429651761,
                 "sentence_sim": 0.4384193533961785
-            },
-            {
-                "PMID": "7711992",
-                "answer": "Some questions remained, however.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06998097093595493,
-                "sentence_sim": 0.261097657743086
             }
         ],
         "max_answer_quality": 1
@@ -3442,15 +2155,6 @@
                 "quality": 5,
                 "abstract_sim": 0.21995242672169912,
                 "sentence_sim": 0.23578549635894944
-            },
-            {
-                "PMID": "31295292",
-                "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1599939679536142,
-                "sentence_sim": 0.18858828140446768
             }
         ],
         "max_answer_quality": 2
@@ -3466,15 +2170,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14076950504061772,
                 "sentence_sim": 0.19711641145593592
-            },
-            {
-                "PMID": "33150711",
-                "answer": "CONCLUSIONS: Classical needle acupuncture had significant effects on DPN.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10713792208451083,
-                "sentence_sim": 0.20352284959449052
             }
         ],
         "max_answer_quality": 3
@@ -3490,15 +2185,6 @@
                 "quality": 5,
                 "abstract_sim": 0.23156890084169326,
                 "sentence_sim": 0.3911931813374271
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The Diabetes Control and Complications Trial has demonstrated that intensive diabetes treatment delays the onset and slows the progression of diabetic complications in subjects with insulin-dependent diabetes mellitus from 13 to 39 years of age.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.12644956202500368,
-                "sentence_sim": 0.23042393980216944
             }
         ],
         "max_answer_quality": 2
@@ -3514,15 +2200,6 @@
                 "quality": 5,
                 "abstract_sim": 0.46639028440439084,
                 "sentence_sim": 0.6359961819946454
-            },
-            {
-                "PMID": "30012135",
-                "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 4,
-                "abstract_sim": 0.4181870234546563,
-                "sentence_sim": 0.3551037058033005
             }
         ],
         "max_answer_quality": 4
@@ -3538,15 +2215,6 @@
                 "quality": 5,
                 "abstract_sim": 0.21676130733504279,
                 "sentence_sim": 0.30020112212853023
-            },
-            {
-                "PMID": "7711992",
-                "answer": "Some questions remained, however.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.0911537491684095,
-                "sentence_sim": 0.3400928864527154
             }
         ],
         "max_answer_quality": 2
@@ -3562,15 +2230,6 @@
                 "quality": 5,
                 "abstract_sim": 0.15881053380966054,
                 "sentence_sim": 0.40379138042619944
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Therefore, novel treatments are needed for lithium-induced NDI.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09247085263225169,
-                "sentence_sim": 0.2558205425786795
             }
         ],
         "max_answer_quality": 2
@@ -3586,15 +2245,6 @@
                 "quality": 2,
                 "abstract_sim": 0.19140394363064797,
                 "sentence_sim": 0.2323451099880209
-            },
-            {
-                "PMID": "7598463",
-                "answer": "The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive treatment of patients with insulin-dependent diabetes mellitus (IDDM) can substantially reduce the onset and progression of diabetic retinopathy, nephropathy, and neuropathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15836618227664068,
-                "sentence_sim": 0.11940753998567756
             }
         ],
         "max_answer_quality": 2
@@ -3610,15 +2260,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1355602387668175,
                 "sentence_sim": 0.1404476033850351
-            },
-            {
-                "PMID": "27174580",
-                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10518125675482444,
-                "sentence_sim": 0.11712992739255208
             }
         ],
         "max_answer_quality": 2
@@ -3634,15 +2275,6 @@
                 "quality": 5,
                 "abstract_sim": 0.27761232427327265,
                 "sentence_sim": 0.21994845684534262
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08429877546408904,
-                "sentence_sim": 0.12361809137116597
             }
         ],
         "max_answer_quality": 4
@@ -3658,15 +2290,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19876844062521723,
                 "sentence_sim": 0.17449944613281493
-            },
-            {
-                "PMID": "9742977",
-                "answer": "BACKGROUND: In patients with type 2 diabetes, intensive blood-glucose control with insulin or sulphonylurea therapy decreases progression of microvascular disease and may also reduce the risk of heart attacks.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10710171573350435,
-                "sentence_sim": 0.10501518155101086
             }
         ],
         "max_answer_quality": 3
@@ -3682,15 +2305,6 @@
                 "quality": 5,
                 "abstract_sim": 0.0804988090512384,
                 "sentence_sim": 0.16231796994333864
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Larger confirmatory trials with longer follow-up periods may help to further assess the effects of statins on NDI, especially within patients with more severe NDI.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07609635611706536,
-                "sentence_sim": 0.2957758980716064
             }
         ],
         "max_answer_quality": 3
@@ -3706,15 +2320,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3645472993388825,
                 "sentence_sim": 0.4622088135492186
-            },
-            {
-                "PMID": "29606547",
-                "answer": "CONCLUSION: Aerobic exercise training may have the potential to hinder the progression of diabetic PN by improving NCV.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13891202658768673,
-                "sentence_sim": 0.22225306882154316
             }
         ],
         "max_answer_quality": 3
@@ -3730,15 +2335,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3020257794708332,
                 "sentence_sim": 0.36612257948989774
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07233774777754187,
-                "sentence_sim": 0.10607810451716344
             }
         ],
         "max_answer_quality": 2
@@ -3754,15 +2350,6 @@
                 "quality": 4,
                 "abstract_sim": 0.2472132344275484,
                 "sentence_sim": 0.3172024689685744
-            },
-            {
-                "PMID": "8981711",
-                "answer": "ETDRS analyses do indicate that for patients with type II diabetes, it is especially important to consider scatter photocoagulation at the time of the development of severe nonproliferative or early proliferative retinopathy.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06603300841774702,
-                "sentence_sim": 0.13314909874999198
             }
         ],
         "max_answer_quality": 4
@@ -3778,15 +2365,6 @@
                 "quality": 5,
                 "abstract_sim": 0.14563912598698142,
                 "sentence_sim": 0.30650963497183503
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08167723726264928,
-                "sentence_sim": 0.11977379414223846
             }
         ],
         "max_answer_quality": 4
@@ -3802,15 +2380,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3695908273488763,
                 "sentence_sim": 0.3916261342546637
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08167723726264928,
-                "sentence_sim": 0.11977379414223845
             }
         ],
         "max_answer_quality": 4
@@ -3826,15 +2395,6 @@
                 "quality": 5,
                 "abstract_sim": 0.22907392939785526,
                 "sentence_sim": 0.2669104053770035
-            },
-            {
-                "PMID": "24766062",
-                "answer": "AIMS: To compare levels of diabetes distress in people with Type 2 diabetes treated in primary and secondary care and to examine demographic and clinical correlates that may explain potential differences in levels of distress between care settings.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.21563881016934594,
-                "sentence_sim": 0.1803067014055056
             }
         ],
         "max_answer_quality": 1
@@ -3850,15 +2410,6 @@
                 "quality": 5,
                 "abstract_sim": 0.23628664498013413,
                 "sentence_sim": 0.23900881937205448
-            },
-            {
-                "PMID": "27590190",
-                "answer": "BACKGROUND: Peripheral arterial disease (PAD) is known to be associated with high cardiovascular risk, but the individual impact of PAD presentations on risk of macrovascular and microvascular events has not been reliably compared in patients with type 2 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.130073104003389,
-                "sentence_sim": 0.20710418281445597
             }
         ],
         "max_answer_quality": 3
@@ -3874,15 +2425,6 @@
                 "quality": 1,
                 "abstract_sim": 0.468673015618457,
                 "sentence_sim": 0.5612350383804228
-            },
-            {
-                "PMID": "25439501",
-                "answer": "CONCLUSIONS: It is feasible to implement FLIP and to conduct a trial to assess effectiveness.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.029624760686381008,
-                "sentence_sim": 0.03896784633030735
             }
         ],
         "max_answer_quality": 1
@@ -3898,15 +2440,6 @@
                 "quality": 5,
                 "abstract_sim": 0.5598444654998737,
                 "sentence_sim": 0.6118044305033604
-            },
-            {
-                "PMID": "30012135",
-                "answer": "In this current paper, we describe the methodology of a randomized controlled trial (RCT) to treat lithium-induced NDI using atorvastatin.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 4,
-                "abstract_sim": 0.5522256678268537,
-                "sentence_sim": 0.48996224062985994
             }
         ],
         "max_answer_quality": 4
@@ -3922,15 +2455,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1804020271477235,
                 "sentence_sim": 0.27732733012884225
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09449025636832532,
-                "sentence_sim": 0.43928725437115934
             }
         ],
         "max_answer_quality": 4
@@ -3946,15 +2470,6 @@
                 "quality": 2,
                 "abstract_sim": 0.33863277482115883,
                 "sentence_sim": 0.3153489253922441
-            },
-            {
-                "PMID": "35384807",
-                "answer": "However, we recommend education for all kidney transplant recipients with diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.14563238342574897,
-                "sentence_sim": 0.24809864397174547
             }
         ],
         "max_answer_quality": 2
@@ -3970,15 +2485,6 @@
                 "quality": 5,
                 "abstract_sim": 0.23109317363023585,
                 "sentence_sim": 0.4065340847353418
-            },
-            {
-                "PMID": "7587918",
-                "answer": "Fifty-five NIDDM patients who showed no retinopathy and urinary albumin excretions < 30 mg/24 h at the baseline were evaluated in the primary-prevention cohort, and the other 55 NIDDM patients who showed simple retinopathy and urinary albumin excretions < 300 mg/24 h were evaluated in the secondary-intervention cohort.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.20354771920635395,
-                "sentence_sim": 0.30607694410961445
             }
         ],
         "max_answer_quality": 2
@@ -3994,15 +2500,6 @@
                 "quality": 5,
                 "abstract_sim": 0.25405003973874885,
                 "sentence_sim": 0.3679912969431619
-            },
-            {
-                "PMID": "25439501",
-                "answer": "CONCLUSIONS: It is feasible to implement FLIP and to conduct a trial to assess effectiveness.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.05040172539244011,
-                "sentence_sim": 0.06629747023670848
             }
         ],
         "max_answer_quality": 3
@@ -4018,15 +2515,6 @@
                 "quality": 5,
                 "abstract_sim": 0.37511258440700607,
                 "sentence_sim": 0.40889238497565467
-            },
-            {
-                "PMID": "31295292",
-                "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2881354722657843,
-                "sentence_sim": 0.32704434052440745
             }
         ],
         "max_answer_quality": 2
@@ -4042,15 +2530,6 @@
                 "quality": 5,
                 "abstract_sim": 0.27696681360559616,
                 "sentence_sim": 0.2586265534288334
-            },
-            {
-                "PMID": "32957394",
-                "answer": "The difference in the effect of a conservative as compared to liberal fluid management on 60 day mortality was 2% (95% CI: -11.8% to 15.8%) in diabetic patients, and -7.9% (95% CI: -21.7% to 5.9%) in non-diabetic patients.When comparing a conservative fluid management strategy to a liberal fluid management strategy, diabetic patients with ARDS did not have a statistically significant difference in outcomes than non-diabetic patients.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.12691953232737913,
-                "sentence_sim": 0.17476840233383478
             }
         ],
         "max_answer_quality": 4
@@ -4066,15 +2545,6 @@
                 "quality": 5,
                 "abstract_sim": 0.11638346225759867,
                 "sentence_sim": 0.2036332516299851
-            },
-            {
-                "PMID": "27590190",
-                "answer": "All-cause mortality, major macrovascular events, and major clinical microvascular events occurred in 2265 (20.3\u00a0%), 2166 (19.4\u00a0%), and 807 (7.2\u00a0%) participants, respectively.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10876311566342942,
-                "sentence_sim": 0.19481956258069383
             }
         ],
         "max_answer_quality": 4
@@ -4090,15 +2560,6 @@
                 "quality": 4,
                 "abstract_sim": 0.1196944176421103,
                 "sentence_sim": 0.30592360754944925
-            },
-            {
-                "PMID": "34372849",
-                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.08578764769517776,
-                "sentence_sim": 0.12371762424794487
             }
         ],
         "max_answer_quality": 4
@@ -4114,15 +2575,6 @@
                 "quality": 2,
                 "abstract_sim": 0.17634081250810404,
                 "sentence_sim": 0.42037226858518456
-            },
-            {
-                "PMID": "9742977",
-                "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06151818596355743,
-                "sentence_sim": 0.12639936494553153
             }
         ],
         "max_answer_quality": 2
@@ -4138,15 +2590,6 @@
                 "quality": 4,
                 "abstract_sim": 0.1425990818876821,
                 "sentence_sim": 0.2113615595804197
-            },
-            {
-                "PMID": "27174580",
-                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10683173347768206,
-                "sentence_sim": 0.18559798823182383
             }
         ],
         "max_answer_quality": 4
@@ -4162,15 +2605,6 @@
                 "quality": 5,
                 "abstract_sim": 0.06753164686965096,
                 "sentence_sim": 0.1671021549054071
-            },
-            {
-                "PMID": "34372849",
-                "answer": "Diabetes does not influence the effects of spironolactone on the proteomic profile, and spironolactone produced anti-fibrotic, anti-remodelling, blood pressure and natriuretic peptide lowering effects regardless of diabetes status.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.05884838305775028,
-                "sentence_sim": 0.13789221354326409
             }
         ],
         "max_answer_quality": 5
@@ -4186,15 +2620,6 @@
                 "quality": 5,
                 "abstract_sim": 0.07463074552694104,
                 "sentence_sim": 0.28359542403337823
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The major adverse event with intensive therapy was a nearly threefold increase of severe hypoglycemia.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07255541080461546,
-                "sentence_sim": 0.19816459683691648
             }
         ],
         "max_answer_quality": 5
@@ -4210,15 +2635,6 @@
                 "quality": 5,
                 "abstract_sim": 0.06753164686965096,
                 "sentence_sim": 0.1671021549054071
-            },
-            {
-                "PMID": "28040315",
-                "answer": "CONCLUSIONS: The cardiometabolic profile of diabetes includes retinopathy, peripheral arterial disease, comorbidity of hypertension and cardiovascular risk factors.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 2,
-                "abstract_sim": 0.06529480617611089,
-                "sentence_sim": 0.2144970660783165
             }
         ],
         "max_answer_quality": 2
@@ -4234,15 +2650,6 @@
                 "quality": 5,
                 "abstract_sim": 0.09206008554383388,
                 "sentence_sim": 0.10689930912462832
-            },
-            {
-                "PMID": "9742977",
-                "answer": "The primary outcome measures were aggregates of any diabetes-related clinical endpoint, diabetes-related death, and all-cause mortality.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06247469555903988,
-                "sentence_sim": 0.15458909620737327
             }
         ],
         "max_answer_quality": 2
@@ -4258,15 +2665,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1526089793192115,
                 "sentence_sim": 0.23823061511180635
-            },
-            {
-                "PMID": "27590190",
-                "answer": "Compared to those without PAD, patients with major PAD had increased rates of all-cause mortality (HR 1.35, 95\u00a0% CI 1.15-1.60, p\u00a0=\u00a00.0004), and major macrovascular events (1.47 [1.23-1.75], p\u00a0<\u00a00.0001), after multiple adjustments for region of origin, cardiovascular risk factors and treatments, peripheral neuropathy markers, and randomized treatments.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.12767872220521312,
-                "sentence_sim": 0.1688020676869958
             }
         ],
         "max_answer_quality": 1
@@ -4282,15 +2680,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19306486493034555,
                 "sentence_sim": 0.16812663402904968
-            },
-            {
-                "PMID": "35384807",
-                "answer": "However, we recommend education for all kidney transplant recipients with diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09680017549454178,
-                "sentence_sim": 0.18461411030101602
             }
         ],
         "max_answer_quality": 2
@@ -4306,15 +2695,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1381748326026264,
                 "sentence_sim": 0.2270175450486961
-            },
-            {
-                "PMID": "32621644",
-                "answer": "Nephrogenic diabetes insipidus (NDI) is associated with up to 3-fold risk of incident chronic kidney disease among lithium users.",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 3,
-                "abstract_sim": 0.05957433604812155,
-                "sentence_sim": 0.3466675233785668
             }
         ],
         "max_answer_quality": 2
@@ -4330,15 +2710,6 @@
                 "quality": 5,
                 "abstract_sim": 0.23189519390948637,
                 "sentence_sim": 0.22424567404933712
-            },
-            {
-                "PMID": "35384807",
-                "answer": "However, we recommend education for all kidney transplant recipients with diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10712303920221156,
-                "sentence_sim": 0.1868380023596503
             }
         ],
         "max_answer_quality": 2
@@ -4354,15 +2725,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2694255287828274,
                 "sentence_sim": 0.3012086545627367
-            },
-            {
-                "PMID": "31295292",
-                "answer": "METHODS: Between June 2016 and December 2017, we conducted a randomized controlled trial in a specialized diabetic foot unit.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.19716710086883918,
-                "sentence_sim": 0.24091567711044426
             }
         ],
         "max_answer_quality": 1
@@ -4378,15 +2740,6 @@
                 "quality": 5,
                 "abstract_sim": 0.2261084056054199,
                 "sentence_sim": 0.25278157175904187
-            },
-            {
-                "PMID": "31295292",
-                "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.18820434128716687,
-                "sentence_sim": 0.28668488188323227
             }
         ],
         "max_answer_quality": 1
@@ -4402,15 +2755,6 @@
                 "quality": 5,
                 "abstract_sim": 0.07068455154649973,
                 "sentence_sim": 0.23458175060336292
-            },
-            {
-                "PMID": "7598463",
-                "answer": "The major risk associated with intensive treatment is recurrent hypoglycemia.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.0702202236768676,
-                "sentence_sim": 0.3357123931052228
             }
         ],
         "max_answer_quality": 5
@@ -4426,15 +2770,6 @@
                 "quality": 5,
                 "abstract_sim": 0.04420400454947652,
                 "sentence_sim": 0.21329390705453308
-            },
-            {
-                "PMID": "23882708",
-                "answer": "Skin advanced glycation end products (AGEs) are thought to partially reflect effects of hyperglycemia over time, and measurement of skin AGEs might be a surrogate for multiyear mean HbA1c.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.03324937259242958,
-                "sentence_sim": 0.13964402481653765
             }
         ],
         "max_answer_quality": 5
@@ -4450,15 +2785,6 @@
                 "quality": 5,
                 "abstract_sim": 0.16559763647143622,
                 "sentence_sim": 0.25953523545193
-            },
-            {
-                "PMID": "32215272",
-                "answer": "Diabetic peripheral neuropathy is one of the most common chronic complications of diabetics which causes nerve damage and muscle strength decrease in patients.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.16092244647481108,
-                "sentence_sim": 0.4076356176793476
             }
         ],
         "max_answer_quality": 2
@@ -4474,15 +2800,6 @@
                 "quality": 5,
                 "abstract_sim": 0.08074854870409626,
                 "sentence_sim": 0.07507590505675858
-            },
-            {
-                "PMID": "9742977",
-                "answer": "Epidemiological assessment of the possible association of death from diabetes-related causes with the concurrent therapy of diabetes in 4416 patients did not show an increased risk in diabetes-related death in patients treated with a combination of sulphonylurea and metformin (risk reduction 5% [-33 to 32], p=0.78).",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07608035109082184,
-                "sentence_sim": 0.22420829399498687
             }
         ],
         "max_answer_quality": 5
@@ -4498,15 +2815,6 @@
                 "quality": 5,
                 "abstract_sim": 0.12019994065843559,
                 "sentence_sim": 0.2293219628981248
-            },
-            {
-                "PMID": "27174580",
-                "answer": "CONCLUSIONS: Arterial stiffness is decreased by premeal insulin in children with type 1 diabetes.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.11393658202406313,
-                "sentence_sim": 0.19205291507200467
             }
         ],
         "max_answer_quality": 5
@@ -4522,15 +2830,6 @@
                 "quality": 5,
                 "abstract_sim": 0.07114403898264132,
                 "sentence_sim": 0.2372909971209448
-            },
-            {
-                "PMID": "24766062",
-                "answer": "Other diabetes complications were not independently associated with diabetes distress.",
-                "pmid_match": null,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.066944243414796,
-                "sentence_sim": 0.079456634066686
             }
         ],
         "max_answer_quality": 5
@@ -4546,15 +2845,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19415818812722957,
                 "sentence_sim": 0.3080879508250435
-            },
-            {
-                "PMID": "25226881",
-                "answer": "Risks were estimated using Cox models adjusted for treatment assignment and HbA1c.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15281616161571976,
-                "sentence_sim": 0.3252619659871464
             }
         ],
         "max_answer_quality": 2
@@ -4570,15 +2860,6 @@
                 "quality": 5,
                 "abstract_sim": 0.17182610240618382,
                 "sentence_sim": 0.25003515726341197
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1144914430931243,
-                "sentence_sim": 0.16923568785434473
             }
         ],
         "max_answer_quality": 1
@@ -4594,15 +2875,6 @@
                 "quality": 1,
                 "abstract_sim": 0.17301269836406166,
                 "sentence_sim": 0.2438367544558641
-            },
-            {
-                "PMID": "34889293",
-                "answer": "BACKGROUND: Diabetic peripheral neuropathy (DPN) is one of the most common complications of diabetes mellitus.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1313344223310437,
-                "sentence_sim": 0.18287623142874587
             }
         ],
         "max_answer_quality": 1
@@ -4618,15 +2890,6 @@
                 "quality": 2,
                 "abstract_sim": 0.17773556830816528,
                 "sentence_sim": 0.24687334951789117
-            },
-            {
-                "PMID": "29178519",
-                "answer": "MATERIALS AND METHODS: The SUSTAIN clinical trial programme evaluated the efficacy and safety of semaglutide, a glucagon-like peptide-1 analogue, for the treatment of type 2 diabetes (T2D).",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.11325016608524986,
-                "sentence_sim": 0.23451955972668015
             }
         ],
         "max_answer_quality": 2
@@ -4642,15 +2905,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19415818812722957,
                 "sentence_sim": 0.3080879508250435
-            },
-            {
-                "PMID": "25226881",
-                "answer": "Risks were estimated using Cox models adjusted for treatment assignment and HbA1c.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15281616161571976,
-                "sentence_sim": 0.3252619659871464
             }
         ],
         "max_answer_quality": 4
@@ -4666,15 +2920,6 @@
                 "quality": 5,
                 "abstract_sim": 0.16989142491921294,
                 "sentence_sim": 0.39163895510905056
-            },
-            {
-                "PMID": "33952397",
-                "answer": "CONCLUSION: This hypothesis-generating study identifies diabetic retinopathy as predictor of the beneficial effect of intensive glucose control on the risk of cardiovascular disease and possibly death.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.10619739233893671,
-                "sentence_sim": 0.09260501750254352
             }
         ],
         "max_answer_quality": 4
@@ -4690,15 +2935,6 @@
                 "quality": 5,
                 "abstract_sim": 0.18225625898906989,
                 "sentence_sim": 0.21306141153318686
-            },
-            {
-                "PMID": "7711992",
-                "answer": "The results of the multicenter diabetes control and complications trial are examined and methods for the implementation of the findings for individuals with type I and type II diabetes are discussed.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.17587093959306038,
-                "sentence_sim": 0.279069957911819
             }
         ],
         "max_answer_quality": 2
@@ -4714,15 +2950,6 @@
                 "quality": 5,
                 "abstract_sim": 0.31037033682967147,
                 "sentence_sim": 0.3289457849821602
-            },
-            {
-                "PMID": "31295292",
-                "answer": "BACKGROUND: Therapeutic footwear becomes the first treatment line in the prevention of diabetic foot ulcer and future complications of diabetes.",
-                "pmid_match": true,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.2445928984891819,
-                "sentence_sim": 0.26918913372435743
             }
         ],
         "max_answer_quality": 3
@@ -4738,15 +2965,6 @@
                 "quality": 5,
                 "abstract_sim": 0.19415818812722957,
                 "sentence_sim": 0.3080879508250435
-            },
-            {
-                "PMID": "25226881",
-                "answer": "Risks were estimated using Cox models adjusted for treatment assignment and HbA1c.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15281616161571976,
-                "sentence_sim": 0.3252619659871464
             }
         ],
         "max_answer_quality": 2
@@ -4762,15 +2980,6 @@
                 "quality": 5,
                 "abstract_sim": 0.26609604555709837,
                 "sentence_sim": 0.282021708261588
-            },
-            {
-                "PMID": "31295292",
-                "answer": "Previous studies and the International Working Group on the Diabetic Foot have described therapeutic footwear as a protective factor to reduce the risk of re-ulceration.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.23122397169809872,
-                "sentence_sim": 0.3103891388927371
             }
         ],
         "max_answer_quality": 3
@@ -4786,15 +2995,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1006487647507113,
                 "sentence_sim": 0.1590990542453567
-            },
-            {
-                "PMID": "34372849",
-                "answer": "BACKGROUND: Patients with diabetes mellitus (DM) are at increased risk of developing heart failure (HF).",
-                "pmid_match": true,
-                "sentence_match": true,
-                "quality": 2,
-                "abstract_sim": 0.09894808592285266,
-                "sentence_sim": 0.36897332642161196
             }
         ],
         "max_answer_quality": 2
@@ -4810,15 +3010,6 @@
                 "quality": 1,
                 "abstract_sim": 0.21416711397708874,
                 "sentence_sim": 0.541812932803305
-            },
-            {
-                "PMID": "24766062",
-                "answer": "METHODS: People with Type 2 diabetes from 24 primary care practices (n = 774) and three secondary care clinics (n = 526) completed the Problem Areas In Diabetes questionnaire.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.12894242715180307,
-                "sentence_sim": 0.15580823749112974
             }
         ],
         "max_answer_quality": 1
@@ -4834,15 +3025,6 @@
                 "quality": 5,
                 "abstract_sim": 0.15435379432515822,
                 "sentence_sim": 0.18651419222594462
-            },
-            {
-                "PMID": "29606547",
-                "answer": "We examined the effect of aerobic training on nerve conduction velocity and action potential amplitude in the lower limbs of men with type 2 diabetes and PN.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.1087774297697614,
-                "sentence_sim": 0.11988626286448836
             }
         ],
         "max_answer_quality": 1
@@ -4858,15 +3040,6 @@
                 "quality": 4,
                 "abstract_sim": 0.14855827796494947,
                 "sentence_sim": 0.2988297537165483
-            },
-            {
-                "PMID": "24766062",
-                "answer": "METHODS: People with Type 2 diabetes from 24 primary care practices (n = 774) and three secondary care clinics (n = 526) completed the Problem Areas In Diabetes questionnaire.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.13708851777035155,
-                "sentence_sim": 0.16565160751102875
             }
         ],
         "max_answer_quality": 4
@@ -4882,15 +3055,6 @@
                 "quality": 5,
                 "abstract_sim": 0.16509608626111588,
                 "sentence_sim": 0.19949469530881475
-            },
-            {
-                "PMID": "26031804",
-                "answer": "AIMS: To evaluate the effectiveness of a tailored, supportive intervention strategy in influencing diabetes-related distress, health status, well-being and clinical outcomes in people with Type 2 diabetes shortly after a first acute coronary event.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.09853422777874195,
-                "sentence_sim": 0.18087393776911137
             }
         ],
         "max_answer_quality": 4
@@ -4906,15 +3070,6 @@
                 "quality": 5,
                 "abstract_sim": 0.1704447427983957,
                 "sentence_sim": 0.2520233470866836
-            },
-            {
-                "PMID": "24766062",
-                "answer": "METHODS: People with Type 2 diabetes from 24 primary care practices (n = 774) and three secondary care clinics (n = 526) completed the Problem Areas In Diabetes questionnaire.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.15014530281479999,
-                "sentence_sim": 0.18142884011020283
             }
         ],
         "max_answer_quality": 3
@@ -4930,15 +3085,6 @@
                 "quality": 1,
                 "abstract_sim": 0.0915440788041323,
                 "sentence_sim": 0.3117652691794377
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07069938395923947,
-                "sentence_sim": 0.09230489181465208
             }
         ],
         "max_answer_quality": 1
@@ -4954,15 +3100,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3702228630144456,
                 "sentence_sim": 0.5359190164219637
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07732930523107155,
-                "sentence_sim": 0.10096089603229766
             }
         ],
         "max_answer_quality": 3
@@ -4978,15 +3115,6 @@
                 "quality": 5,
                 "abstract_sim": 0.3961755275972891,
                 "sentence_sim": 0.4923824909680487
-            },
-            {
-                "PMID": "31336474",
-                "answer": "OBJECTIVE: The present study aimed at evaluating the effectiveness of an educational intervention via mobile cells on foot care knowledge and foot care practices in patients with type 2 diabetes.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.25480883820910644,
-                "sentence_sim": 0.2778405571272131
             }
         ],
         "max_answer_quality": 3
@@ -5002,15 +3130,6 @@
                 "quality": 3,
                 "abstract_sim": 0.20033836668109195,
                 "sentence_sim": 0.7540291167457299
-            },
-            {
-                "PMID": "8040759",
-                "answer": "The major adverse event with intensive therapy was a nearly threefold increase of severe hypoglycemia.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.06825519933448619,
-                "sentence_sim": 0.22651942747535397
             }
         ],
         "max_answer_quality": 3
@@ -5026,15 +3145,6 @@
                 "quality": 5,
                 "abstract_sim": 0.23650561043303722,
                 "sentence_sim": 0.5018196487299138
-            },
-            {
-                "PMID": "8529508",
-                "answer": "It is similarly not known whether treatment with sulphonylurea, metformin or insulin is particularly beneficial or whether any of these therapies is potentially harmful.",
-                "pmid_match": false,
-                "sentence_match": false,
-                "quality": 5,
-                "abstract_sim": 0.07069938395923947,
-                "sentence_sim": 0.09230489181465208
             }
         ],
         "max_answer_quality": 3
